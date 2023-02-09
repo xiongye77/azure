@@ -1,5 +1,22 @@
 # azure
 
+
+# What is Azure AD Tenant
+An Azure AD tenant provides identity and access management (IAM) capabilities to applications and resources used by your organization. An identity is a directory object that can be authenticated and authorized for access to a resource. Identity objects exist for human identities such as students and teachers, and non-human identities like classroom and student devices, applications, and service principles.
+
+The Azure AD tenant is an identity security boundary that is under the control of your organization’s IT department. Within this security boundary, administration of objects (such as user objects) and configuration of tenant-wide settings are controlled by your IT administrators.
+
+
+![image](https://user-images.githubusercontent.com/36766101/217786909-193b9f80-9210-44ae-8c80-33124f0b0d40.png)
+
+![image](https://user-images.githubusercontent.com/36766101/217776048-24322cdb-82ad-4b51-aeac-8e14ca48bd2f.png)
+![image](https://user-images.githubusercontent.com/36766101/217776773-a40f28f8-1a95-430d-8036-198e108783c9.png)
+![image](https://user-images.githubusercontent.com/36766101/217777705-90784a32-8773-49cc-b713-2e144c6b68fa.png)
+![image](https://user-images.githubusercontent.com/36766101/217781902-c90895e1-852e-467d-a2f3-23bc6bbfc27e.png)
+![image](https://user-images.githubusercontent.com/36766101/217786625-39081d25-cc1f-4b3d-8d13-782867079b62.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/36766101/217737192-cdaf8910-9226-4e67-9d8c-fbfaf4ac82e4.png)
 ![image](https://user-images.githubusercontent.com/36766101/217737568-4edcb7bc-e23b-491a-9fbf-1d500a8713b0.png)
 
@@ -11,6 +28,10 @@
 ![image](https://user-images.githubusercontent.com/36766101/217744579-2b45c806-3df5-4d7b-acbe-9740bb5a4d5b.png)
 ![image](https://user-images.githubusercontent.com/36766101/217745897-e59a1087-f86a-4463-926e-1f368fb042cf.png)
 
+
+
+
+![image](https://user-images.githubusercontent.com/36766101/217773251-99805671-277a-4653-ab04-05218ace9746.png)
 
 
 ![image](https://user-images.githubusercontent.com/36766101/217687213-1e064797-72ca-45dd-9962-97f3ab7a5527.png)
