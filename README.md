@@ -62,3 +62,5 @@ Azure two queue solution, storage account queue and service bus queue
 Azure Event Grid 
 ![image](https://user-images.githubusercontent.com/36766101/218025269-882324c7-d25e-41de-bc07-29a916ba909e.png)
 
+Azure Event Grid vs Event Hub vs Service Bus
+![image](https://user-images.githubusercontent.com/36766101/218040662-7e134318-0e45-4015-82a0-6c9b13e5aba3.png)
