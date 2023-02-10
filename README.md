@@ -79,3 +79,13 @@ Azure CDN
 
 ![image](https://user-images.githubusercontent.com/36766101/218064278-9702cb45-177f-4813-b132-db1a2799d316.png)
 
+
+Azure API Management
+
+internal mode
+![image](https://user-images.githubusercontent.com/36766101/218082600-2cd8f1be-7a53-4d4f-b6c4-9ddae815d4a7.png)
+
+
+external mode
+![image](https://user-images.githubusercontent.com/36766101/218082642-1ee0b9e3-247d-4906-b976-44778f354931.png)
+
