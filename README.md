@@ -73,3 +73,9 @@ Azure Event Grid
 
 
 ![image](https://user-images.githubusercontent.com/36766101/218061382-bda6f428-3998-4560-b317-1de38974691f.png)
+
+
+Azure CDN
+
+![image](https://user-images.githubusercontent.com/36766101/218064278-9702cb45-177f-4813-b132-db1a2799d316.png)
+
