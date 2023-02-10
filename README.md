@@ -14,6 +14,8 @@ The Azure AD tenant is an identity security boundary that is under the control o
 ![image](https://user-images.githubusercontent.com/36766101/217777705-90784a32-8773-49cc-b713-2e144c6b68fa.png)
 ![image](https://user-images.githubusercontent.com/36766101/217781902-c90895e1-852e-467d-a2f3-23bc6bbfc27e.png)
 ![image](https://user-images.githubusercontent.com/36766101/217786625-39081d25-cc1f-4b3d-8d13-782867079b62.png)
+![image](https://user-images.githubusercontent.com/36766101/218003003-ce2bb356-93b2-4d8b-9979-3530505d2ae1.png)
+![image](https://user-images.githubusercontent.com/36766101/218003796-2a78237a-d5e8-41a6-8f83-95cb2ce317b4.png)
 
 
 
