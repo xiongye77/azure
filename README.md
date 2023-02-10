@@ -53,3 +53,12 @@ The Azure AD tenant is an identity security boundary that is under the control o
 ![image](https://user-images.githubusercontent.com/36766101/217720081-9990e015-3b0b-4f8b-a95d-7a09e1d0c31e.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/217718425-89ee990e-71ac-4084-8c5e-f8c69a98fbc9.png)
+
+
+Azure two queue solution, storage account queue and service bus queue
+
+![image](https://user-images.githubusercontent.com/36766101/218024619-0c2bbbca-ce71-4e3d-b6c6-07021d835ecd.png)
+
+Azure Event Grid 
+![image](https://user-images.githubusercontent.com/36766101/218025269-882324c7-d25e-41de-bc07-29a916ba909e.png)
+
