@@ -95,3 +95,8 @@ OAuth2 is a standard designed to allow a website or application to access resour
 
 OAuth 2.0 uses Access Tokens. An Access Token is a piece of data that represents the authorization to access resources on behalf of the end-user. OAuth 2.0 doesn’t define a specific format for Access Tokens. However, in some contexts, the JSON Web Token (JWT) format is often used. 
 ![image](https://user-images.githubusercontent.com/36766101/218095716-3ce416d0-2d76-4da5-98ed-ef2ce72c83ae.png)
+
+
+
+Grant limited access to Azure Storage resources using shared access signatures (SAS), it is similar to AWS S3 pre-signed URL.
+Both of those features allow anyone (with whom shared link was shared) to download or upload a file. This feature is very useful when you want to temporary share a file with some user(s) or to allow them to upload a file, without sharing your credentials (temporary creds, creating an account, etc).
