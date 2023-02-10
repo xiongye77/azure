@@ -89,3 +89,9 @@ internal mode
 external mode
 ![image](https://user-images.githubusercontent.com/36766101/218082642-1ee0b9e3-247d-4906-b976-44778f354931.png)
 
+
+OAuth2 (Open Authorization) workflow
+OAuth2 is a standard designed to allow a website or application to access resources hosted by other web apps on behalf of a user.OAuth 2.0 is an authorization protocol and NOT an authentication protocol. As such, it is designed primarily as a means of granting access to a set of resources, for example, remote APIs or user data.
+
+OAuth 2.0 uses Access Tokens. An Access Token is a piece of data that represents the authorization to access resources on behalf of the end-user. OAuth 2.0 doesn’t define a specific format for Access Tokens. However, in some contexts, the JSON Web Token (JWT) format is often used. 
+![image](https://user-images.githubusercontent.com/36766101/218095716-3ce416d0-2d76-4da5-98ed-ef2ce72c83ae.png)
