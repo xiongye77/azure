@@ -123,3 +123,46 @@ SQL Server in Azure VMs - Back up SQL Server databases running on Azure VMs
 SAP HANA databases in Azure VMs - Backup SAP HANA databases running on Azure VMs
 Azure Database for PostgreSQL servers - Back up Azure PostgreSQL databases and retain the backups for up to 10 years
 Azure Blobs - Overview of operational backup for Azure Blobs
+
+
+Azure virtual network
+![image](https://user-images.githubusercontent.com/36766101/218245613-2551e44e-ee30-4203-8a30-6078e20460a3.png)
+Virtual Network NAT is a fully managed and highly resilient Network Address Translation (NAT) service. Virtual Network NAT simplifies outbound Internet connectivity for virtual networks. When configured on a subnet, all outbound connectivity uses the Virtual Network NAT's static public IP addresses.
+
+
+# Azure network best practice
+1 Control public IP addresses,Public IP addresses in Azure can be associated with VMs, load balancers, application gateways, and VPN gateways.A better practice is to put VMs behind Azure Load Balancer or Azure Application Gateway. 
+
+2 Use application security groups,Application security groups enable you to configure network security as a natural extension of an application structure.
+
+3 Secure north/south and east/west traffic.To secure virtual networks, consider attack vectors. Note the following points:
+Using only subnet NSGs simplifies your environment, but only secures traffic into your subnet. This traffic is known as north/south traffic.
+Traffic between VMs on the same subnet is known as east/west traffic.
+
+4 Filter virtual network traffic with NSGs,Network security groups (NSGs) contain multiple inbound and outbound security rules that filter traffic going to and from resources. Filtering can be by source and destination IP address, port, and protocol.
+
+5 Implement an Azure perimeter network.Although Microsoft invests heavily in protecting the cloud infrastructure, you must also protect your cloud services and resource groups. A multilayered approach to security provides the best defense. Putting a perimeter network in place is an important part of that defense strategy.
+
+6 Optimize ExpressRoute routing with BGP communities,When you have multiple ExpressRoute circuits, you've got more than one path to connect to Microsoft. As a result, suboptimal routing can happen and your traffic might take a longer path to reach Microsoft, and Microsoft to your network. The longer the network path, the higher the latency.
+
+7 Implement ExpressRoute for mission-critical connections.The Azure ExpressRoute service extends your on-premises infrastructure into the Microsoft cloud. ExpressRoute creates private connections between the virtual Azure datacenter and on-premises networks.
+
+8 Implement Azure Virtual WAN for branch offices,For multiple VPN connections, Azure Virtual WAN is a networking service that provides optimized and automated, branch-to-branch connectivity through Azure.
+
+9 Implement a highly available Site-to-Site VPN
+
+10 Implement a hub and spoke network topology,
+![image](https://user-images.githubusercontent.com/36766101/218247752-ebd3d9cd-e62c-4804-8e21-47c46bc686a2.png)
+A hub and spoke network topology isolates workloads while sharing services, such as identity and security. The hub is an Azure virtual network that acts as a central point of connectivity. The spokes are virtual networks that connect to the hub virtual network by using peering. Shared services are deployed in the hub, while individual workloads are deployed as spokes.
+
+11 Design subnets,To provide isolation within a virtual network, you segment it into one or more subnets, and give a portion of the virtual network's address space to each subnet.By default, Azure routes network traffic between all subnets in a virtual network.Your subnet decisions are based on your technical and organizational requirements.You create subnets by using CIDR notation
+
+12 Set up a DNS server
+Azure adds a DNS server by default when you deploy a virtual network. You can use this server to rapidly build virtual networks and deploy resources. But this DNS server only provides services to the resources on that virtual network. To connect multiple virtual networks together, you need more name resolution capabilities. You'll also need these capabilities to connect to an on-premises server from virtual networks. For example, you might need Active Directory to resolve DNS names between virtual networks. To resolve the DNS names, deploy your own custom DNS server in Azure
+
+
+Deploy Azure Firewall
+
+Deploy Web Application Firewall,Web applications are increasingly targets of malicious attacks that exploit commonly known vulnerabilities. Exploits include SQL injection attacks and cross-site scripting attacks. Preventing such attacks in application code can be challenging. 
+
+Implement Network Watcher,Network Watcher provides tools to monitor resources and communications in an Azure virtual network. For example, you can monitor communications between a VM and an endpoint, such as another VM or FQDN. You can also view resources and resource relationships in a virtual network, or diagnose network traffic issues.
