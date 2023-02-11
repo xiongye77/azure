@@ -169,6 +169,10 @@ Azure adds a DNS server by default when you deploy a virtual network. You can us
 
 14 Deploy Web Application Firewall,
 ![image](https://user-images.githubusercontent.com/36766101/218256149-fb0e4037-6b78-4b1a-b011-9cae74eb5641.png)
+
+![image](https://user-images.githubusercontent.com/36766101/218257069-15adf8dc-a0de-468b-975b-11d3b98c1e89.png)
+![image](https://user-images.githubusercontent.com/36766101/218257087-c5655583-4bb4-4610-8bdb-ee47d20bf690.png)
+
 Web applications are increasingly targets of malicious attacks that exploit commonly known vulnerabilities. Exploits include SQL injection attacks and cross-site scripting attacks. Preventing such attacks in application code can be challenging. 
 
 Implement Network Watcher,Network Watcher provides tools to monitor resources and communications in an Azure virtual network. For example, you can monitor communications between a VM and an endpoint, such as another VM or FQDN. You can also view resources and resource relationships in a virtual network, or diagnose network traffic issues.
