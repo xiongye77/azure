@@ -100,3 +100,26 @@ OAuth 2.0 uses Access Tokens. An Access Token is a piece of data that represents
 
 Grant limited access to Azure Storage resources using shared access signatures (SAS), it is similar to AWS S3 pre-signed URL.
 Both of those features allow anyone (with whom shared link was shared) to download or upload a file. This feature is very useful when you want to temporary share a file with some user(s) or to allow them to upload a file, without sharing your credentials (temporary creds, creating an account, etc).
+
+
+Azure Files
+
+![image](https://user-images.githubusercontent.com/36766101/218239041-00a549d4-554a-47f9-bee2-1516501a3e50.png)
+
+One fundamental building block of Microsoft’s Azure storage services is Storage Accounts, which are top-level resources that represent a shared pool of storage. These resources offer table, queue, and blob storage for an application’s persistent storage requirements.Azure files allowing access to file storage with the Server Message Block (SMB) and Network File System (NFS) protocols used in traditional file system infrastructure.
+
+![image](https://user-images.githubusercontent.com/36766101/218239834-3aae7dc6-ab93-4f4d-97c2-f63c9f6966f5.png)
+
+Organizations looking to utilize Azure Files at the enterprise scale can use Azure File Sync to cache data on the Local Area Network (LAN), reduce latency, and improve user experience
+
+
+Azure Backup service
+
+On-premises - Back up files, folders, system state using the Microsoft Azure Recovery Services (MARS) agent. Or use the DPM or Azure Backup Server (MABS) agent to protect on-premises VMs (Hyper-V and VMware) and other on-premises workloads
+Azure VMs - Back up entire Windows/Linux VMs (using backup extensions) or back up files, folders, and system state using the MARS agent.
+Azure Managed Disks - Back up Azure Managed Disks
+Azure Files shares - Back up Azure File shares to a storage account
+SQL Server in Azure VMs - Back up SQL Server databases running on Azure VMs
+SAP HANA databases in Azure VMs - Backup SAP HANA databases running on Azure VMs
+Azure Database for PostgreSQL servers - Back up Azure PostgreSQL databases and retain the backups for up to 10 years
+Azure Blobs - Overview of operational backup for Azure Blobs
