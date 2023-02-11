@@ -133,7 +133,10 @@ Virtual Network NAT is a fully managed and highly resilient Network Address Tran
 # Azure network best practice
 1 Control public IP addresses,Public IP addresses in Azure can be associated with VMs, load balancers, application gateways, and VPN gateways.A better practice is to put VMs behind Azure Load Balancer or Azure Application Gateway. 
 
-2 Use application security groups,Application security groups enable you to configure network security as a natural extension of an application structure.
+2 Use application security groups,Application Security Groups helps to manage the security of Virtual Machines by grouping them according the applications that runs on them. It is a feature that allows the application-centric use of Network Security Groups.ASGs are used within a NSG to apply a network security rule to a specific workload or group of VMs.
+
+![image](https://user-images.githubusercontent.com/36766101/218248348-4114be25-e09d-4fb3-8d98-a758ace34d53.png)
+![image](https://user-images.githubusercontent.com/36766101/218249082-e59de4df-81a1-4ba7-96a9-55a8720c397d.png)
 
 3 Secure north/south and east/west traffic.To secure virtual networks, consider attack vectors. Note the following points:
 Using only subnet NSGs simplifies your environment, but only secures traffic into your subnet. This traffic is known as north/south traffic.
@@ -161,8 +164,11 @@ A hub and spoke network topology isolates workloads while sharing services, such
 Azure adds a DNS server by default when you deploy a virtual network. You can use this server to rapidly build virtual networks and deploy resources. But this DNS server only provides services to the resources on that virtual network. To connect multiple virtual networks together, you need more name resolution capabilities. You'll also need these capabilities to connect to an on-premises server from virtual networks. For example, you might need Active Directory to resolve DNS names between virtual networks. To resolve the DNS names, deploy your own custom DNS server in Azure
 
 
-Deploy Azure Firewall
+13 Deploy Azure Firewall
+![image](https://user-images.githubusercontent.com/36766101/218254964-0fd5e192-76e8-4650-a1a6-3056f6457180.png)
 
-Deploy Web Application Firewall,Web applications are increasingly targets of malicious attacks that exploit commonly known vulnerabilities. Exploits include SQL injection attacks and cross-site scripting attacks. Preventing such attacks in application code can be challenging. 
+14 Deploy Web Application Firewall,
+![image](https://user-images.githubusercontent.com/36766101/218256149-fb0e4037-6b78-4b1a-b011-9cae74eb5641.png)
+Web applications are increasingly targets of malicious attacks that exploit commonly known vulnerabilities. Exploits include SQL injection attacks and cross-site scripting attacks. Preventing such attacks in application code can be challenging. 
 
 Implement Network Watcher,Network Watcher provides tools to monitor resources and communications in an Azure virtual network. For example, you can monitor communications between a VM and an endpoint, such as another VM or FQDN. You can also view resources and resource relationships in a virtual network, or diagnose network traffic issues.
