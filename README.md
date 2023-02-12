@@ -239,3 +239,12 @@ The Custom Script Extension integrates with Azure Resource Manager templates. Yo
 ![image](https://user-images.githubusercontent.com/36766101/218303296-74defb8d-7905-4be5-9803-66f092eb7218.png)
 
 
+
+
+Log Analytics Workspace
+A Log Analytics Workspace is the environment for Azure Monitor log data.
+Each workspace has its own data repository and configuration.
+A workspace has a unique workspace ID and resource ID.
+Same workspace name can be used within different resource groups.
+It can be used to collect diagnostic or log data from Azure storage.
+
