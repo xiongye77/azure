@@ -248,3 +248,11 @@ A workspace has a unique workspace ID and resource ID.
 Same workspace name can be used within different resource groups.
 It can be used to collect diagnostic or log data from Azure storage.
 
+VM Performance Diagnostics extenstions
+![image](https://user-images.githubusercontent.com/36766101/218308342-20a2f80b-8ba4-42e6-a59c-b3652f6198eb.png)
+![image](https://user-images.githubusercontent.com/36766101/218308447-8dcdb783-425d-4908-ba1d-8922defd7480.png)
+![image](https://user-images.githubusercontent.com/36766101/218309243-267fb410-edb8-47a2-9400-488f5e0e89a2.png)
+![image](https://user-images.githubusercontent.com/36766101/218309479-1f597840-a0c0-4b0b-9cd3-34f12d85dc45.png)
+![image](https://user-images.githubusercontent.com/36766101/218310042-8bf3c7c4-71c1-4019-8747-2f56a10c6bb6.png)
+
+
