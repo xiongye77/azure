@@ -175,4 +175,17 @@ Azure adds a DNS server by default when you deploy a virtual network. You can us
 
 Web applications are increasingly targets of malicious attacks that exploit commonly known vulnerabilities. Exploits include SQL injection attacks and cross-site scripting attacks. Preventing such attacks in application code can be challenging. 
 
-Implement Network Watcher,Network Watcher provides tools to monitor resources and communications in an Azure virtual network. For example, you can monitor communications between a VM and an endpoint, such as another VM or FQDN. You can also view resources and resource relationships in a virtual network, or diagnose network traffic issues.
+15 Implement Network Watcher,Network Watcher provides tools to monitor resources and communications in an Azure virtual network. For example, you can monitor communications between a VM and an endpoint, such as another VM or FQDN. You can also view resources and resource relationships in a virtual network, or diagnose network traffic issues.
+
+16 Use private link service
+Azure Private Link enables customers to access Azure PaaS services and Azure-hosted customer/partner services from a virtual network, improving network security and reducing network latency.By eliminating internet-bound traffic, customers can reduce data egress charges associated with accessing Azure PaaS services and Azure-hosted customer/partner services.
+![image](https://user-images.githubusercontent.com/36766101/218296256-aac0fa4e-a364-434e-bfa1-5cfeab8294f8.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/36766101/218296778-6782e14c-a878-4001-85a0-cf4e813faf82.png)
+![image](https://user-images.githubusercontent.com/36766101/218296849-badaaec4-1b2b-4f7e-b341-60e147ccf5be.png)
+
