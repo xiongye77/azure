@@ -166,6 +166,14 @@ Azure adds a DNS server by default when you deploy a virtual network. You can us
 
 13 Deploy Azure Firewall
 ![image](https://user-images.githubusercontent.com/36766101/218254964-0fd5e192-76e8-4650-a1a6-3056f6457180.png)
+Azure Firewall is a cloud-native and intelligent network firewall security service that provides the best of breed threat protection for your cloud workloads running in Azure.
+Azure Firewall is offered in three SKUs: Standard, Premium, and Basic.
+
+Azure Firewall Standard provides L3-L7 filtering and threat intelligence feeds directly from Microsoft Cyber Security. Threat intelligence-based filtering can alert and deny traffic from/to known malicious IP addresses and domains which are updated in real time to protect against new and emerging attacks.
+
+Azure Firewall Premium provides advanced capabilities including signature-based IDPS to allow rapid detection of attacks by looking for specific patterns. These patterns can include byte sequences in network traffic, or known malicious instruction sequences used by malware.
+
+Azure Firewall Basic is intended for small and medium size (SMB) customers to secure their Azure cloud environments. It provides the essential protection SMB customers need at an affordable price point.
 
 14 Deploy Web Application Firewall,
 ![image](https://user-images.githubusercontent.com/36766101/218256149-fb0e4037-6b78-4b1a-b011-9cae74eb5641.png)
@@ -182,10 +190,52 @@ Azure Private Link enables customers to access Azure PaaS services and Azure-hos
 ![image](https://user-images.githubusercontent.com/36766101/218296256-aac0fa4e-a364-434e-bfa1-5cfeab8294f8.png)
 
 
+Azure front door
+Azure Front Door is a global, highly available, and scalable service offered by Microsoft Azure that routes incoming traffic to your backends.
+It is designed to improve the performance and availability of your web applications and services. It does this by providing a global network of points of presence (POPs) that can be used to route traffic to the closest available backend.
+Front Door service supports various features including load balancing, custom routing, SSL offloading, and caching. It also provides a Web Application Firewall (WAF) that can be used to protect your web applications and services from various types of attacks.
+Front Door service is designed to work with other Azure services such as Azure Virtual Machines, Azure App Service, and Azure Container Instances. It can also be used with non-Azure backends such as on-premises servers or other cloud-based services.
 
 
+Azure Traffic Manager
+Azure Traffic Manager is a Azure service that allows you to distribute traffic across multiple endpoints, such as Azure VMs, web apps, and Azure Cloud Services.
+It uses a variety of routing methods, including priority, weight, and geographic, to determine how traffic is directed to the different endpoints.
+Traffic Manager can help improve the availability and performance of your applications by directing traffic to the closest or most available endpoint.
+It can also be used to perform A/B testing and canary deployments, allowing you to test new versions of your application before rolling them out to all users.
 
+
+Azure Cosmos DB
+Azure Cosmos DB is a fully managed NoSQL and relational database for modern app development.
+Azure Cosmos DB offers single-digit millisecond response times, automatic and instant scalability, along with guarantee speed at any scale. 
+Cosmos DB is a database service that is globally distributed. It allows you to manage your data even if you keep them in data centers that are scattered throughout the world. 
+It provides the tools you need to scale both global distribution pattern and computational resources, and these tools are provided by Microsoft Azure.
 
 ![image](https://user-images.githubusercontent.com/36766101/218296778-6782e14c-a878-4001-85a0-cf4e813faf82.png)
 ![image](https://user-images.githubusercontent.com/36766101/218296849-badaaec4-1b2b-4f7e-b341-60e147ccf5be.png)
+
+
+Azure Monitor
+![image](https://user-images.githubusercontent.com/36766101/218302991-e59e05c4-b99c-4d10-a60f-dbd784e82d7e.png)
+![image](https://user-images.githubusercontent.com/36766101/218303525-f464265d-16bc-40aa-a39c-bd7a09c4fb26.png)
+
+Azure Monitor collects monitoring telemetry from a variety of on-premises and Azure sources. Management tools, such as those in Azure Security Center and Azure Automation, also push log data to Azure Monitor. 
+
+The service aggregates and stores this telemetry in a log data store that’s optimized for cost and performance. Analyze data, set up alerts, get end-to-end views of your applications, and use machine learning–driven insights to quickly identify and resolve problems.
+
+Azure Monitor helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. This information helps you understand how your applications are performing and proactively identify issues that affect them and the resources they depend on.
+
+
+Virtual Machine Scale Sets and Custom Script Extensions
+Azure Virtual Machine Scale Sets let you create and manage a group of load balanced VMs. 
+The number of VM instances can automatically increase or decrease in response to demand or a defined schedule. 
+Scale sets provide the following key benefits:
+1 Easy to create and manage multiple VMs
+2 Provides high availability and application resiliency by distributing VMs across availability zones or fault domains
+3 Allows your application to automatically scale as resource demand changes
+4 Works at large-scale
+The Custom Script Extension downloads and runs scripts on Azure virtual machines (VMs). 
+This extension is useful for post-deployment configuration, software installation, or any other configuration or management task. You can download scripts from Azure Storage or GitHub, or provide them to the Azure portal at extension runtime.
+The Custom Script Extension integrates with Azure Resource Manager templates. You can also run it by using the Azure CLI, PowerShell, the Azure portal, or the Azure Virtual Machines REST API.
+![image](https://user-images.githubusercontent.com/36766101/218303296-74defb8d-7905-4be5-9803-66f092eb7218.png)
+
 
