@@ -256,3 +256,9 @@ VM Performance Diagnostics extenstions
 ![image](https://user-images.githubusercontent.com/36766101/218310042-8bf3c7c4-71c1-4019-8747-2f56a10c6bb6.png)
 
 
+Configure Log Analytics for a Virtual Machine
+![image](https://user-images.githubusercontent.com/36766101/218340166-e25ad23d-fb9f-4c17-b45a-f32d99547cc5.png)
+
+![image](https://user-images.githubusercontent.com/36766101/218342070-15a0605d-9134-43fd-be3d-f2c283ded61e.png)
+
+Azure Monitor Agent (AMA) replaces the Log Analytics agent (also known as MMA and OMS) for both Windows and Linux machines, in both Azure and non-Azure (on-premises and third-party clouds) environments. It introduces a simplified, flexible method of configuring collection configuration called data collection rules (DCRs). This article outlines the benefits of migrating to Azure Monitor Agent and provides guidance on how to implement a successful migration.
