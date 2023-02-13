@@ -189,6 +189,9 @@ Web applications are increasingly targets of malicious attacks that exploit comm
 16 Use private link service
 Azure Private Link enables customers to access Azure PaaS services and Azure-hosted customer/partner services from a virtual network, improving network security and reducing network latency.By eliminating internet-bound traffic, customers can reduce data egress charges associated with accessing Azure PaaS services and Azure-hosted customer/partner services.
 ![image](https://user-images.githubusercontent.com/36766101/218296256-aac0fa4e-a364-434e-bfa1-5cfeab8294f8.png)
+![image](https://user-images.githubusercontent.com/36766101/218450803-300a5d90-4ed7-4a40-9eab-5b7fe84a8add.png)
+![image](https://user-images.githubusercontent.com/36766101/218444901-312ab9af-7a3f-4a55-8c30-96e141ef9972.png)
+![image](https://user-images.githubusercontent.com/36766101/218451428-d3e8d1f9-dc4c-4109-b5cb-347e6f26de54.png)
 
 
 Azure front door
@@ -263,3 +266,10 @@ Configure Log Analytics for a Virtual Machine
 ![image](https://user-images.githubusercontent.com/36766101/218342070-15a0605d-9134-43fd-be3d-f2c283ded61e.png)
 
 Azure Monitor Agent (AMA) replaces the Log Analytics agent (also known as MMA and OMS) for both Windows and Linux machines, in both Azure and non-Azure (on-premises and third-party clouds) environments. It introduces a simplified, flexible method of configuring collection configuration called data collection rules (DCRs). This article outlines the benefits of migrating to Azure Monitor Agent and provides guidance on how to implement a successful migration.
+
+
+
+Azure Virtual Network NAT
+![image](https://user-images.githubusercontent.com/36766101/218416502-a98fc384-b008-4bd0-8718-9882a70bdba0.png)
+
+![image](https://user-images.githubusercontent.com/36766101/218414168-90456c8b-92b2-4f0e-9678-98b2bd7736c2.png)
