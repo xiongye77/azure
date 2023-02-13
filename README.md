@@ -111,6 +111,7 @@ One fundamental building block of Microsoft’s Azure storage services is Storag
 ![image](https://user-images.githubusercontent.com/36766101/218239834-3aae7dc6-ab93-4f4d-97c2-f63c9f6966f5.png)
 
 Organizations looking to utilize Azure Files at the enterprise scale can use Azure File Sync to cache data on the Local Area Network (LAN), reduce latency, and improve user experience
+![image](https://user-images.githubusercontent.com/36766101/218374561-458ee0a3-ace1-4a47-81a0-444c9a9700e0.png)
 
 
 Azure Backup service
