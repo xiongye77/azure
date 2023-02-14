@@ -280,3 +280,44 @@ CDN origin is storage account
 ![image](https://user-images.githubusercontent.com/36766101/218644543-4ab7dfd9-b232-46ec-956d-78a8534f447e.png)
 ![image](https://user-images.githubusercontent.com/36766101/218641847-8ccdf4c5-0145-4642-b7d4-6547d2f7b0cb.png)
 ![image](https://user-images.githubusercontent.com/36766101/218642009-ed5ae5fd-7f75-4e05-a078-b1b159100798.png)
+
+
+Azure SQL Server
+![image](https://user-images.githubusercontent.com/36766101/218712534-7ac6623b-9dc8-4648-880e-66eff2a4527f.png)
+root@linuxvm:~# dig  sqlservererty.database.windows.net
+
+; <<>> DiG 9.16.1-Ubuntu <<>> sqlservererty.database.windows.net
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48458
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;sqlservererty.database.windows.net. INA
+
+;; ANSWER SECTION:
+sqlservererty.database.windows.net. 143IN CNAME sqlservererty.privatelink.database.windows.net.
+sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
+
+;; Query time: 0 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53)
+;; WHEN: Tue Feb 14 10:34:37 UTC 2023
+;; MSG SIZE  rcvd: 119
+
+root@linuxvm:~# sqlcmd -S sqlservererty.database.windows.net -U admin123
+Password: 
+1> SELECT @@VERSION;
+2> go
+                                                                                                                                                               
+                                                                                                                                             
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Microsoft SQL Azure (RTM) - 12.0.2000.8 
+Jan 12 2023 05:25:39 
+Copyright (C) 2022 Microsoft Corporation
+                                                                                                                                                               
+                                   
+
+(1 rows affected)
