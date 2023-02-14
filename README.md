@@ -273,3 +273,10 @@ Azure Virtual Network NAT
 ![image](https://user-images.githubusercontent.com/36766101/218416502-a98fc384-b008-4bd0-8718-9882a70bdba0.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/218414168-90456c8b-92b2-4f0e-9678-98b2bd7736c2.png)
+
+
+az storage account keys list
+CDN origin is storage account 
+![image](https://user-images.githubusercontent.com/36766101/218644543-4ab7dfd9-b232-46ec-956d-78a8534f447e.png)
+![image](https://user-images.githubusercontent.com/36766101/218641847-8ccdf4c5-0145-4642-b7d4-6547d2f7b0cb.png)
+![image](https://user-images.githubusercontent.com/36766101/218642009-ed5ae5fd-7f75-4e05-a078-b1b159100798.png)
