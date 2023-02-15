@@ -306,18 +306,9 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ;; WHEN: Tue Feb 14 10:34:37 UTC 2023
 ;; MSG SIZE  rcvd: 119
 
-root@linuxvm:~# sqlcmd -S sqlservererty.database.windows.net -U admin123
-Password: 
-1> SELECT @@VERSION;
-2> go
-                                                                                                                                                               
-                                                                                                                                             
----------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------
-Microsoft SQL Azure (RTM) - 12.0.2000.8 
-Jan 12 2023 05:25:39 
-Copyright (C) 2022 Microsoft Corporation
-                                                                                                                                                               
-                                   
 
-(1 rows affected)
+Azure Key Vault
+Azure Key Vault allows the users to instantly store and access the sensitive information in a secured manner.
+This cloud service acts as a single central storage for all the secured information which the users can retrieve using specific permissions.
+The secured information can be in the form of passwords, certificates, API or cryptographic keys.
+![image](https://user-images.githubusercontent.com/36766101/218968241-0f271c59-3926-4a74-821b-b9e7c9bc5c0f.png)
