@@ -306,6 +306,9 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ;; WHEN: Tue Feb 14 10:34:37 UTC 2023
 ;; MSG SIZE  rcvd: 119
 
+Azure Active Directory (AD) can play a crucial role in not only user management, but also with application security for Azure-based solutions. When an application is registered in Azure AD and provided a service principal, it can be used to securely access other Azure resources that support Azure AD authentication.
+![image](https://user-images.githubusercontent.com/36766101/219020463-72980448-f799-400c-9812-7135341b9226.png)
+
 
 Azure Key Vault
 Azure Key Vault allows the users to instantly store and access the sensitive information in a secured manner.
