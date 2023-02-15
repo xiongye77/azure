@@ -311,4 +311,8 @@ Azure Key Vault
 Azure Key Vault allows the users to instantly store and access the sensitive information in a secured manner.
 This cloud service acts as a single central storage for all the secured information which the users can retrieve using specific permissions.
 The secured information can be in the form of passwords, certificates, API or cryptographic keys.
+
+Alternatives to Azure Key Vault are AWS Secrets Manager,AWS Systems Manager Parameter Store,Azure App Configuration,Hashicorp Vault
+![image](https://user-images.githubusercontent.com/36766101/218969734-95e5dcb0-14a2-4d56-b207-25df4028c2e8.png)
+
 ![image](https://user-images.githubusercontent.com/36766101/218968241-0f271c59-3926-4a74-821b-b9e7c9bc5c0f.png)
