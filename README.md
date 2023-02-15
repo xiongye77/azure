@@ -312,6 +312,29 @@ Azure Key Vault allows the users to instantly store and access the sensitive inf
 This cloud service acts as a single central storage for all the secured information which the users can retrieve using specific permissions.
 The secured information can be in the form of passwords, certificates, API or cryptographic keys.
 
+There are multiple ways to authorize your app to retrieve the certificate from Azure Key Vault. 
+If your app is running within Azure, you can use Managed Service Identities.(https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
+In all cases, you can use a Service Principal; in the OAuth2 specs, this is called “Client credentials grant”, or more colloquially “Machine-to-Machine flow”.
+
+# Create a Resource Group
+RESOURCE_GROUP="MyKeyVault"
+LOCATION="WestUS2"
+az group create   --name "$RESOURCE_GROUP"  --location "$LOCATION"
+
+# Create a Key Vault
+# The name must be globally unique
+KEYVAULT_NAME="withblueink"
+az keyvault create   --name "$KEYVAULT_NAME"  --resource-group "$RESOURCE_GROUP"   --location "$LOCATION"
+
+
+To use a Service Principal:
+# Create a Service Principal for an app called "KeyVaultSP"
+az ad sp create-for-rbac --name "KeyVaultSP" --skip-assignment
+
+AZURE_CLIENT_ID="f13db91b-2a02-4fbe-826d-5c9049d23561"
+az keyvault set-policy   --name "$KEYVAULT_NAME"   --spn "$AZURE_CLIENT_ID"   --secret-permissions get   --certificate-permissions get list
+
+
 Alternatives to Azure Key Vault are AWS Secrets Manager,AWS Systems Manager Parameter Store,Azure App Configuration,Hashicorp Vault
 ![image](https://user-images.githubusercontent.com/36766101/218969734-95e5dcb0-14a2-4d56-b207-25df4028c2e8.png)
 
