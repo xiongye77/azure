@@ -347,3 +347,17 @@ Alternatives to Azure Key Vault are AWS Secrets Manager,AWS Systems Manager Para
 Azure Service Principle 
 ![image](https://user-images.githubusercontent.com/36766101/219226517-f2a35603-fd94-4534-803b-34aa25a4b3be.png)
 ![image](https://user-images.githubusercontent.com/36766101/219231041-2deb9291-93b0-44a4-9e79-3c91362ae62e.png)
+
+
+Azure Availability Set
+![image](https://user-images.githubusercontent.com/36766101/219276779-5cf1a40a-4ddb-4e1c-aabf-c7d1062ae22c.png)
+![image](https://user-images.githubusercontent.com/36766101/219277381-d1b99439-744f-44dc-a2ce-b8eba37710d4.png)
+![image](https://user-images.githubusercontent.com/36766101/219277597-56cf4cfa-44e1-4620-b49e-ee9afbf41480.png)
+
+
+Azure Instance Metadata Service
+![image](https://user-images.githubusercontent.com/36766101/219285367-fcef284b-8cbc-4633-be1a-c28cc1d43a8b.png)
+
+Azure App Service AutoScale 
+![image](https://user-images.githubusercontent.com/36766101/219293487-6c87af96-53db-4506-a067-f1d82c360d89.png)
+
