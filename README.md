@@ -361,3 +361,28 @@ Azure Instance Metadata Service
 Azure App Service AutoScale 
 ![image](https://user-images.githubusercontent.com/36766101/219293487-6c87af96-53db-4506-a067-f1d82c360d89.png)
 
+Azure Vnet peering
+![image](https://user-images.githubusercontent.com/36766101/219570155-d1d4b11b-f2e0-49d5-b6ce-b6b08caa0d12.png)
+
+
+Azure Network Watcher/Topology
+![image](https://user-images.githubusercontent.com/36766101/219602753-f3132e86-89a4-4573-92ba-18b0c1a52425.png)
+
+Azure Network Watcher/Connection Monitor
+![image](https://user-images.githubusercontent.com/36766101/219603123-1ef950fa-5c74-451e-b2e3-7675d94515c3.png)
+
+Azure Service Endpoint VS  Azure Private Link
+![image](https://user-images.githubusercontent.com/36766101/219610103-214d6611-c3a9-4fbd-a647-4182235482f8.png)
+
+A service endpoint provides secure and direct connectivity to Azure services using the Azure backbone network. When you enable a service endpoint for a subnet, it allows private IP addresses in the VNet to communicate or reach that particular resource type using the public IP of a resource.
+
+Unlike a service endpoint, a private endpoint is a network interface that uses a private IP address from your virtual network. This will ensure no traffic leaves the virtual network and all the communication is private.
+
+
+Azure App Service VNET Integration
+
+
+Azure App Service Migration Assistant
+![image](https://user-images.githubusercontent.com/36766101/219633154-6e1e1d65-7be2-450c-a3cf-f94b66ebd0a6.png)
+![image](https://user-images.githubusercontent.com/36766101/219635121-052ffe76-fb6a-4aa9-9f49-b117fbc5809a.png)
+![image](https://user-images.githubusercontent.com/36766101/219642026-fed64852-baf5-404f-b49a-95f6ee1855f5.png)
