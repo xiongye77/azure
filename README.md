@@ -380,9 +380,20 @@ Unlike a service endpoint, a private endpoint is a network interface that uses a
 
 
 Azure App Service VNET Integration
+![image](https://user-images.githubusercontent.com/36766101/219645655-09824569-2d0f-4858-a2e4-a73d28b4099e.png)
+![image](https://user-images.githubusercontent.com/36766101/219655347-3e4cadf3-e121-43b3-90e0-1930e7cd1ff5.png)
 
 
 Azure App Service Migration Assistant
 ![image](https://user-images.githubusercontent.com/36766101/219633154-6e1e1d65-7be2-450c-a3cf-f94b66ebd0a6.png)
 ![image](https://user-images.githubusercontent.com/36766101/219635121-052ffe76-fb6a-4aa9-9f49-b117fbc5809a.png)
 ![image](https://user-images.githubusercontent.com/36766101/219642026-fed64852-baf5-404f-b49a-95f6ee1855f5.png)
+
+
+Azure SQL options
+![image](https://user-images.githubusercontent.com/36766101/219647699-27a5e26e-1c8c-47c2-8269-10d05d6b782b.png)
+![image](https://user-images.githubusercontent.com/36766101/219648118-18ac7041-88b5-4fb3-9e55-7b29cc9abf5f.png)
+![image](https://user-images.githubusercontent.com/36766101/219651059-42f429ba-a6a0-4654-a02d-2db6aac89107.png)
+![image](https://user-images.githubusercontent.com/36766101/219651590-e583e580-4638-402b-b587-a6745c7bb3e2.png)
+
+
