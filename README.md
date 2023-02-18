@@ -402,10 +402,20 @@ Azure SQL Protect Data
 ![image](https://user-images.githubusercontent.com/36766101/219850680-6120183b-4e8c-4a29-bd0f-1d2b5fd696a8.png)
 ![image](https://user-images.githubusercontent.com/36766101/219850819-fec5cdc4-487d-40f4-9232-f03a4470f9d0.png)
 ![image](https://user-images.githubusercontent.com/36766101/219850841-1d8f6f01-3405-4688-8318-a6ed9a833dff.png)
- Data Masking
+
 ![image](https://user-images.githubusercontent.com/36766101/219851277-571e4203-4b80-44f8-92a5-9b4c2c0875f8.png)
+
+
+ Data Masking
+ ![image](https://user-images.githubusercontent.com/36766101/219853225-1f7a9d86-b069-4d7a-8a66-a8a7f264d922.png)
+
+
 ![image](https://user-images.githubusercontent.com/36766101/219853057-1c810e09-00a7-4259-b500-31012dde94b7.png)
 
 
+SQL Audit 
+![image](https://user-images.githubusercontent.com/36766101/219853435-6e24b0ec-6ad1-40e8-a95e-98137c0536dc.png)
+
+![image](https://user-images.githubusercontent.com/36766101/219853387-0ea069cd-5e9b-46e8-90cd-88f7c06f7c25.png)
 
 
