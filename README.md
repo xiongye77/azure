@@ -431,3 +431,8 @@ switch back to data database
 
 verify following operations use acdev1 to login
 1 SELECT * FROM SalesLT.Customer (allowed) and 2 DELETE FROM SalesLT.Customer WHERE CustomerID = '1' (denied)
+
+
+# Backup local SQL Server to Azure and restore it to Azure SQL
+![image](https://user-images.githubusercontent.com/36766101/219903954-6411a823-9faf-45cf-8ba6-b8b1c75c0509.png)
+
