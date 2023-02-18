@@ -397,3 +397,15 @@ Azure SQL options
 ![image](https://user-images.githubusercontent.com/36766101/219651590-e583e580-4638-402b-b587-a6745c7bb3e2.png)
 
 
+Azure SQL Protect Data
+![image](https://user-images.githubusercontent.com/36766101/219850215-d037bb15-c26c-4df5-a1a8-e1811cd4c3e7.png)
+![image](https://user-images.githubusercontent.com/36766101/219850680-6120183b-4e8c-4a29-bd0f-1d2b5fd696a8.png)
+![image](https://user-images.githubusercontent.com/36766101/219850819-fec5cdc4-487d-40f4-9232-f03a4470f9d0.png)
+![image](https://user-images.githubusercontent.com/36766101/219850841-1d8f6f01-3405-4688-8318-a6ed9a833dff.png)
+ Data Masking
+![image](https://user-images.githubusercontent.com/36766101/219851277-571e4203-4b80-44f8-92a5-9b4c2c0875f8.png)
+![image](https://user-images.githubusercontent.com/36766101/219853057-1c810e09-00a7-4259-b500-31012dde94b7.png)
+
+
+
+
