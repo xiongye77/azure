@@ -1,4 +1,4 @@
-# azure
+# Azure
 
 
 # What is Azure AD Tenant
@@ -418,4 +418,16 @@ SQL Audit
 
 ![image](https://user-images.githubusercontent.com/36766101/219853387-0ea069cd-5e9b-46e8-90cd-88f7c06f7c25.png)
 
+Create login/role/user
 
+on database where data stored (not master db)
+1 CREATE ROLE developers 2 GRANT SELECT, INSERT, UPDATE to developers (no delete operations) 
+
+switch to master and create login
+3 CREATE LOGIN acdev1 WITH password='Password1';
+
+switch back to data database
+4 CREATE USER acdev1 FROM LOGIN acdev1;  Associate our new user with the developers role  5 EXEC sp_addrolemember 'developers', 'acdev1';
+
+verify following operations
+1 SELECT * FROM SalesLT.Customer (allowed) and 2 DELETE FROM SalesLT.Customer WHERE CustomerID = '1' (denied)
