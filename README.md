@@ -429,5 +429,5 @@ switch to master and create login
 switch back to data database
 4 CREATE USER acdev1 FROM LOGIN acdev1;  Associate our new user with the developers role  5 EXEC sp_addrolemember 'developers', 'acdev1';
 
-verify following operations
+verify following operations use acdev1 to login
 1 SELECT * FROM SalesLT.Customer (allowed) and 2 DELETE FROM SalesLT.Customer WHERE CustomerID = '1' (denied)
