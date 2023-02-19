@@ -391,6 +391,8 @@ Azure App Service Migration Assistant
 
 
 Azure SQL options
+![image](https://user-images.githubusercontent.com/36766101/219923387-973bfc08-62e9-4897-bd18-e62667715a95.png)
+
 ![image](https://user-images.githubusercontent.com/36766101/219647699-27a5e26e-1c8c-47c2-8269-10d05d6b782b.png)
 ![image](https://user-images.githubusercontent.com/36766101/219648118-18ac7041-88b5-4fb3-9e55-7b29cc9abf5f.png)
 ![image](https://user-images.githubusercontent.com/36766101/219651059-42f429ba-a6a0-4654-a02d-2db6aac89107.png)
@@ -435,4 +437,14 @@ verify following operations use acdev1 to login
 
 # Backup local SQL Server to Azure and restore it to Azure SQL
 ![image](https://user-images.githubusercontent.com/36766101/219903954-6411a823-9faf-45cf-8ba6-b8b1c75c0509.png)
+
+
+# Azure SQL Migration extension for Azure Data Studio
+![image](https://user-images.githubusercontent.com/36766101/219927442-a38aff3d-ee0c-4298-a191-876abb636833.png)
+![image](https://user-images.githubusercontent.com/36766101/219923029-61867113-ab11-43bf-a6b7-21b8b0909356.png)
+![image](https://user-images.githubusercontent.com/36766101/219923129-76f3b597-0aa1-40fe-a1ab-0bb36c3735f0.png)
+![image](https://user-images.githubusercontent.com/36766101/219923293-90229db4-8586-4527-9a1a-4dce9ad77aa9.png)
+![image](https://user-images.githubusercontent.com/36766101/219923437-a301d189-3379-4428-9f1b-f434bf2f3657.png)
+
+
 
