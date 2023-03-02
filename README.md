@@ -455,4 +455,26 @@ verify following operations use acdev1 to login
 
 
 
+# Azure Connect Hub and Spoke Networks with VNet peering
+![image](https://user-images.githubusercontent.com/36766101/222579592-6a37d90f-6db3-4a06-9f5e-c5817a526739.png)
+
+# Azure NSG
+![image](https://user-images.githubusercontent.com/36766101/222581657-cff44930-4069-4197-966a-5ac936d979a5.png)
+
+# Azure Virtual Network NAT （Compare to AWS	NAT Gateway）associate with multiple subnets
+![image](https://user-images.githubusercontent.com/36766101/222584968-25ef7791-f562-4e61-95c9-ec6f59d213b6.png)
+
+# Azure Vnet Peering
+![image](https://user-images.githubusercontent.com/36766101/222587410-08e3fa61-ea99-4953-b3a9-8a17137f7473.png)
+
+
+# Azure Service Endpoint (AWS VPC endpoints)
+![image](https://user-images.githubusercontent.com/36766101/222590115-77d16fbb-d354-4476-a9ab-c837bf2fa9aa.png)
+![image](https://user-images.githubusercontent.com/36766101/222590314-70b7003a-7cea-428c-9be4-f3b89504361b.png)
+
+# Azure Private Link
+![image](https://user-images.githubusercontent.com/36766101/222592111-e033664d-5a67-4163-8a99-d92079ce4298.png)
+![image](https://user-images.githubusercontent.com/36766101/222592421-1c9712e4-d144-42d1-9f15-f36b3e948440.png)
+
+![image](https://user-images.githubusercontent.com/36766101/222592312-5d0a1a6a-652d-48c6-a82e-11177d3f7ccb.png)
 
