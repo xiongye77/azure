@@ -483,7 +483,6 @@ verify following operations use acdev1 to login
 
 
 ![image](https://user-images.githubusercontent.com/36766101/222604249-cc92d29e-16f0-40fd-9fc3-6e4eb93059f1.png)
-![image](https://user-images.githubusercontent.com/36766101/222604389-10279b66-253b-420a-b424-41ed15f67d3e.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/222604164-210c9755-dd08-464b-b309-66655b8d30e0.png)
 
