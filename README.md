@@ -486,3 +486,17 @@ verify following operations use acdev1 to login
 
 ![image](https://user-images.githubusercontent.com/36766101/222604164-210c9755-dd08-464b-b309-66655b8d30e0.png)
 
+
+# Azure load balancer layer 4
+![image](https://user-images.githubusercontent.com/36766101/222604949-ae72cddd-47e8-4ca4-bea5-474608fa688b.png)
+
+# Azure application gateway layer 7
+![image](https://user-images.githubusercontent.com/36766101/222605080-772b48da-14b7-4eaa-a81e-bc0799820bb8.png)
+
+# Azure Traffic Manager
+![image](https://user-images.githubusercontent.com/36766101/222617384-c19cf4d2-21d6-4b22-8e3b-9cadbe0c17b6.png)
+
+# Azure frontdoor (AWS Cloudfront)
+![image](https://user-images.githubusercontent.com/36766101/222622462-9c25f1b1-6c5b-48b4-b655-5510abdce9d1.png)
+![image](https://user-images.githubusercontent.com/36766101/222622798-c5ab4115-3481-4247-b6c8-a23b6f999f60.png)
+
