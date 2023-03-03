@@ -347,6 +347,16 @@ Alternatives to Azure Key Vault are AWS Secrets Manager,AWS Systems Manager Para
 Azure Service Principle 
 ![image](https://user-images.githubusercontent.com/36766101/219226517-f2a35603-fd94-4534-803b-34aa25a4b3be.png)
 ![image](https://user-images.githubusercontent.com/36766101/219231041-2deb9291-93b0-44a4-9e79-3c91362ae62e.png)
+![image](https://user-images.githubusercontent.com/36766101/222663734-4c70ed17-da0a-4337-858a-ef61b155ae03.png)
+![image](https://user-images.githubusercontent.com/36766101/222662695-7c734161-60bb-4c6b-bd43-99efe02fa780.png)
+
+Azure Managed Identity
+![image](https://user-images.githubusercontent.com/36766101/222669253-7fbd5127-6fac-48ea-b6cb-3449a74693ff.png)
+![image](https://user-images.githubusercontent.com/36766101/222669628-602f0b9d-854b-4ee2-a2d4-2f1817329070.png)
+![image](https://user-images.githubusercontent.com/36766101/222670421-7f4dc36d-5d81-4f26-8b17-0c93beeddce9.png)
+![image](https://user-images.githubusercontent.com/36766101/222670502-1e4c455f-df91-4831-bb4d-344fb568d8ee.png)
+![image](https://user-images.githubusercontent.com/36766101/222671164-83de3814-ac92-49cd-98c5-11a43072f977.png)
+![image](https://user-images.githubusercontent.com/36766101/222671200-a5702ad7-0969-477a-a7bf-0fd9078d0255.png)
 
 
 Azure Availability Set
@@ -499,6 +509,16 @@ verify following operations use acdev1 to login
 # Azure frontdoor (AWS Cloudfront)
 ![image](https://user-images.githubusercontent.com/36766101/222622462-9c25f1b1-6c5b-48b4-b655-5510abdce9d1.png)
 ![image](https://user-images.githubusercontent.com/36766101/222622798-c5ab4115-3481-4247-b6c8-a23b6f999f60.png)
-
 ![image](https://user-images.githubusercontent.com/36766101/222623641-13a71e8a-8542-4a3a-959e-90f7307b365c.png)
+![image](https://user-images.githubusercontent.com/36766101/222661827-995acebd-9b49-49b1-afdb-46d45c65c309.png)
+
+
+# Azure Web application firewall
+![image](https://user-images.githubusercontent.com/36766101/222658726-3ab193b6-f147-489f-bce9-3f498cac37e5.png)
+![image](https://user-images.githubusercontent.com/36766101/222658889-73410dbe-8305-421d-97a0-42da63dbbc35.png)
+
+
+# Azure Firewall Manager
+![image](https://user-images.githubusercontent.com/36766101/222661005-46ddb93e-3d56-4a56-8bb0-b469622d29f1.png)
+
 
