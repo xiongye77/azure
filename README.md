@@ -357,6 +357,10 @@ Azure Managed Identity
 ![image](https://user-images.githubusercontent.com/36766101/222670502-1e4c455f-df91-4831-bb4d-344fb568d8ee.png)
 ![image](https://user-images.githubusercontent.com/36766101/222671164-83de3814-ac92-49cd-98c5-11a43072f977.png)
 ![image](https://user-images.githubusercontent.com/36766101/222671200-a5702ad7-0969-477a-a7bf-0fd9078d0255.png)
+![image](https://user-images.githubusercontent.com/36766101/222695024-2d010306-18f1-4e7c-a052-bbfa5ce34c32.png)
+![image](https://user-images.githubusercontent.com/36766101/222696112-c10b6996-7605-4042-9ab4-821625e4ebe3.png)
+![image](https://user-images.githubusercontent.com/36766101/222696713-86f5104e-5412-4b1c-8001-9accebe2b668.png)
+
 
 
 Azure Availability Set
@@ -521,4 +525,12 @@ verify following operations use acdev1 to login
 # Azure Firewall Manager
 ![image](https://user-images.githubusercontent.com/36766101/222661005-46ddb93e-3d56-4a56-8bb0-b469622d29f1.png)
 
+# Azure Key Vault
+![image](https://user-images.githubusercontent.com/36766101/222677326-98da7fc2-5402-4830-9abf-e15d070a7da1.png)
+![image](https://user-images.githubusercontent.com/36766101/222677891-e3b2e43f-0374-4a6c-a537-b558521f9acd.png)
+![image](https://user-images.githubusercontent.com/36766101/222679106-09f7a4da-84b3-42d4-af87-eda7c6b391c3.png)
+![image](https://user-images.githubusercontent.com/36766101/222697428-66dff6e4-bcce-4681-95e9-9260b2e49228.png)
 
+
+# Azure CDN
+![image](https://user-images.githubusercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
