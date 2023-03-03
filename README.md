@@ -534,3 +534,9 @@ verify following operations use acdev1 to login
 
 # Azure CDN
 ![image](https://user-images.githubusercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
+
+
+# Azure Storage Account registered with AD DS   https://blog.51sec.org/2022/03/azure-file-shares-integrating-with.html
+![image](https://user-images.githubusercontent.com/36766101/222855103-a224715f-7a01-4fbd-a2b5-34e13ff00757.png)
+![image](https://user-images.githubusercontent.com/36766101/222856451-ccb032f6-03c7-4514-8026-1822eaeec88b.png)
+
