@@ -75,12 +75,12 @@ Azure Event Grid
 ![image](https://user-images.githubusercontent.com/36766101/218061382-bda6f428-3998-4560-b317-1de38974691f.png)
 
 
-Azure CDN
+# Azure CDN
 
 ![image](https://user-images.githubusercontent.com/36766101/218064278-9702cb45-177f-4813-b132-db1a2799d316.png)
 
 
-Azure API Management
+# Azure API Management
 
 internal mode
 ![image](https://user-images.githubusercontent.com/36766101/218082600-2cd8f1be-7a53-4d4f-b6c4-9ddae815d4a7.png)
@@ -90,7 +90,7 @@ external mode
 ![image](https://user-images.githubusercontent.com/36766101/218082642-1ee0b9e3-247d-4906-b976-44778f354931.png)
 
 
-OAuth2 (Open Authorization) workflow
+# OAuth2 (Open Authorization) workflow
 OAuth2 is a standard designed to allow a website or application to access resources hosted by other web apps on behalf of a user.OAuth 2.0 is an authorization protocol and NOT an authentication protocol. As such, it is designed primarily as a means of granting access to a set of resources, for example, remote APIs or user data.
 
 OAuth 2.0 uses Access Tokens. An Access Token is a piece of data that represents the authorization to access resources on behalf of the end-user. OAuth 2.0 doesn’t define a specific format for Access Tokens. However, in some contexts, the JSON Web Token (JWT) format is often used. 
@@ -102,7 +102,7 @@ Grant limited access to Azure Storage resources using shared access signatures (
 Both of those features allow anyone (with whom shared link was shared) to download or upload a file. This feature is very useful when you want to temporary share a file with some user(s) or to allow them to upload a file, without sharing your credentials (temporary creds, creating an account, etc).
 
 
-Azure Files
+# Azure Files
 
 ![image](https://user-images.githubusercontent.com/36766101/218239041-00a549d4-554a-47f9-bee2-1516501a3e50.png)
 
@@ -114,7 +114,7 @@ Organizations looking to utilize Azure Files at the enterprise scale can use Azu
 ![image](https://user-images.githubusercontent.com/36766101/218374561-458ee0a3-ace1-4a47-81a0-444c9a9700e0.png)
 
 
-Azure Backup service
+# Azure Backup service
 
 On-premises - Back up files, folders, system state using the Microsoft Azure Recovery Services (MARS) agent. Or use the DPM or Azure Backup Server (MABS) agent to protect on-premises VMs (Hyper-V and VMware) and other on-premises workloads
 Azure VMs - Back up entire Windows/Linux VMs (using backup extensions) or back up files, folders, and system state using the MARS agent.
@@ -126,7 +126,7 @@ Azure Database for PostgreSQL servers - Back up Azure PostgreSQL databases and r
 Azure Blobs - Overview of operational backup for Azure Blobs
 
 
-Azure virtual network
+# Azure virtual network
 ![image](https://user-images.githubusercontent.com/36766101/218245613-2551e44e-ee30-4203-8a30-6078e20460a3.png)
 Virtual Network NAT is a fully managed and highly resilient Network Address Translation (NAT) service. Virtual Network NAT simplifies outbound Internet connectivity for virtual networks. When configured on a subnet, all outbound connectivity uses the Virtual Network NAT's static public IP addresses.
 
@@ -194,21 +194,21 @@ Azure Private Link enables customers to access Azure PaaS services and Azure-hos
 ![image](https://user-images.githubusercontent.com/36766101/218451428-d3e8d1f9-dc4c-4109-b5cb-347e6f26de54.png)
 
 
-Azure front door
+# Azure front door
 Azure Front Door is a global, highly available, and scalable service offered by Microsoft Azure that routes incoming traffic to your backends.
 It is designed to improve the performance and availability of your web applications and services. It does this by providing a global network of points of presence (POPs) that can be used to route traffic to the closest available backend.
 Front Door service supports various features including load balancing, custom routing, SSL offloading, and caching. It also provides a Web Application Firewall (WAF) that can be used to protect your web applications and services from various types of attacks.
 Front Door service is designed to work with other Azure services such as Azure Virtual Machines, Azure App Service, and Azure Container Instances. It can also be used with non-Azure backends such as on-premises servers or other cloud-based services.
 
 
-Azure Traffic Manager
+# Azure Traffic Manager
 Azure Traffic Manager is a Azure service that allows you to distribute traffic across multiple endpoints, such as Azure VMs, web apps, and Azure Cloud Services.
 It uses a variety of routing methods, including priority, weight, and geographic, to determine how traffic is directed to the different endpoints.
 Traffic Manager can help improve the availability and performance of your applications by directing traffic to the closest or most available endpoint.
 It can also be used to perform A/B testing and canary deployments, allowing you to test new versions of your application before rolling them out to all users.
 
 
-Azure Cosmos DB
+# Azure Cosmos DB
 Azure Cosmos DB is a fully managed NoSQL and relational database for modern app development.
 Azure Cosmos DB offers single-digit millisecond response times, automatic and instant scalability, along with guarantee speed at any scale. 
 Cosmos DB is a database service that is globally distributed. It allows you to manage your data even if you keep them in data centers that are scattered throughout the world. 
@@ -218,7 +218,7 @@ It provides the tools you need to scale both global distribution pattern and com
 ![image](https://user-images.githubusercontent.com/36766101/218296849-badaaec4-1b2b-4f7e-b341-60e147ccf5be.png)
 
 
-Azure Monitor
+# Azure Monitor
 ![image](https://user-images.githubusercontent.com/36766101/218302991-e59e05c4-b99c-4d10-a60f-dbd784e82d7e.png)
 ![image](https://user-images.githubusercontent.com/36766101/218303525-f464265d-16bc-40aa-a39c-bd7a09c4fb26.png)
 
@@ -245,14 +245,14 @@ The Custom Script Extension integrates with Azure Resource Manager templates. Yo
 
 
 
-Log Analytics Workspace
+# Log Analytics Workspace
 A Log Analytics Workspace is the environment for Azure Monitor log data.
 Each workspace has its own data repository and configuration.
 A workspace has a unique workspace ID and resource ID.
 Same workspace name can be used within different resource groups.
 It can be used to collect diagnostic or log data from Azure storage.
 
-VM Performance Diagnostics extenstions
+# VM Performance Diagnostics extenstions
 ![image](https://user-images.githubusercontent.com/36766101/218308342-20a2f80b-8ba4-42e6-a59c-b3652f6198eb.png)
 ![image](https://user-images.githubusercontent.com/36766101/218308447-8dcdb783-425d-4908-ba1d-8922defd7480.png)
 ![image](https://user-images.githubusercontent.com/36766101/218309243-267fb410-edb8-47a2-9400-488f5e0e89a2.png)
@@ -275,7 +275,7 @@ Azure Monitor Agent (AMA) replaces the Log Analytics agent (also known as MMA an
 ![image](https://user-images.githubusercontent.com/36766101/218414168-90456c8b-92b2-4f0e-9678-98b2bd7736c2.png)
 
 
-az storage account keys list
+# az storage account keys list
 CDN origin is storage account 
 ![image](https://user-images.githubusercontent.com/36766101/218644543-4ab7dfd9-b232-46ec-956d-78a8534f447e.png)
 ![image](https://user-images.githubusercontent.com/36766101/218641847-8ccdf4c5-0145-4642-b7d4-6547d2f7b0cb.png)
@@ -288,6 +288,7 @@ CDN origin is storage account
 
 # Azure SQL Server
 ![image](https://user-images.githubusercontent.com/36766101/222857649-a26def25-12db-4783-b396-ce3fb4da95ab.png)
+![image](https://user-images.githubusercontent.com/36766101/222876563-d4917e08-0266-41c0-9f4c-5d13b57721f7.png)
 
 Purchase Models
 ![image](https://user-images.githubusercontent.com/36766101/222857979-eb6c80e3-5643-4ac7-ae06-f7fdc3464b5c.png)
@@ -295,7 +296,6 @@ Purchase Models
 
 Service Tiers
 ![image](https://user-images.githubusercontent.com/36766101/222858078-de17812a-714d-4b9a-a3a7-e3699b0c8668.png)
-
 ![image](https://user-images.githubusercontent.com/36766101/218712534-7ac6623b-9dc8-4648-880e-66eff2a4527f.png)
 root@linuxvm:~# dig  sqlservererty.database.windows.net
 
@@ -319,11 +319,21 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ;; WHEN: Tue Feb 14 10:34:37 UTC 2023
 ;; MSG SIZE  rcvd: 119
 
+# Azure Transparent Data Encryption
+![image](https://user-images.githubusercontent.com/36766101/222878368-fa26ff4f-b7d9-4315-88c0-4fa8d22eada2.png)
+![image](https://user-images.githubusercontent.com/36766101/222878403-8d2129da-18e1-4e3c-a72d-5d646f38dde4.png)
+
+# Azure Always Encrypted and Dynamic Mask
+![image](https://user-images.githubusercontent.com/36766101/222878676-b6c597a4-a17a-4518-a854-df9b19422fc5.png)
+![image](https://user-images.githubusercontent.com/36766101/222878791-c345557d-e35d-4856-bb48-8cdd7b78eca4.png)
+
+
+
 Azure Active Directory (AD) can play a crucial role in not only user management, but also with application security for Azure-based solutions. When an application is registered in Azure AD and provided a service principal, it can be used to securely access other Azure resources that support Azure AD authentication.
 ![image](https://user-images.githubusercontent.com/36766101/219020463-72980448-f799-400c-9812-7135341b9226.png)
 
 
-Azure Key Vault
+# Azure Key Vault
 Azure Key Vault allows the users to instantly store and access the sensitive information in a secured manner.
 This cloud service acts as a single central storage for all the secured information which the users can retrieve using specific permissions.
 The secured information can be in the form of passwords, certificates, API or cryptographic keys.
@@ -331,6 +341,9 @@ The secured information can be in the form of passwords, certificates, API or cr
 There are multiple ways to authorize your app to retrieve the certificate from Azure Key Vault. 
 If your app is running within Azure, you can use Managed Service Identities.(https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
 In all cases, you can use a Service Principal; in the OAuth2 specs, this is called “Client credentials grant”, or more colloquially “Machine-to-Machine flow”.
+
+![image](https://user-images.githubusercontent.com/36766101/222873637-73530c31-5b07-43ea-9ba3-148e57069bf3.png)
+
 
 # Create a Resource Group
 RESOURCE_GROUP="MyKeyVault"
@@ -543,10 +556,13 @@ verify following operations use acdev1 to login
 ![image](https://user-images.githubusercontent.com/36766101/222677891-e3b2e43f-0374-4a6c-a537-b558521f9acd.png)
 ![image](https://user-images.githubusercontent.com/36766101/222679106-09f7a4da-84b3-42d4-af87-eda7c6b391c3.png)
 ![image](https://user-images.githubusercontent.com/36766101/222697428-66dff6e4-bcce-4681-95e9-9260b2e49228.png)
+![image](https://user-images.githubusercontent.com/36766101/222872642-207e131c-8bd9-4a6f-9a2a-09b2b3166201.png)
+![image](https://user-images.githubusercontent.com/36766101/222872676-cb55c735-700b-4cba-af68-b44f89cf6583.png)
+![image](https://user-images.githubusercontent.com/36766101/222872835-80a7b790-ada8-4f25-a0f4-8dd144a60b55.png)
 
 
 # Azure CDN
-![image](https://user-images.githubusercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
+![image](https://user-images.github![image](https://user-images.githubusercontent.com/36766101/222873381-7996ed2e-5ed1-4d2b-a439-0355eb3b7971.png)usercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
 
 
 # Azure Storage Account registered with AD DS   https://blog.51sec.org/2022/03/azure-file-shares-integrating-with.html
@@ -567,3 +583,49 @@ Both the object store model (such as Azure blob storage) and the hierarchical fi
 ![image](https://user-images.githubusercontent.com/36766101/222870407-934283bd-4324-49f8-a53c-abff5acc9b76.png)
 ![image](https://user-images.githubusercontent.com/36766101/222870426-766507ad-3f24-4aea-aebc-ee7e95db3725.png)
 
+
+
+# Azure RBAC 
+![image](https://user-images.githubusercontent.com/36766101/222871289-d5565576-4761-4963-a6b3-d987c486ed7e.png)
+![image](https://user-images.githubusercontent.com/36766101/222871492-4f763190-11d8-41d6-9ad5-7e7f316488f8.png)
+![image](https://user-images.githubusercontent.com/36766101/222871823-1ed26062-217d-447d-ad2b-ac02f55e2544.png)
+![image](https://user-images.githubusercontent.com/36766101/222871948-e4c510e2-423c-441b-a57f-73866805413c.png)
+
+
+# Azure powershell cli 
+![image](https://user-images.githubusercontent.com/36766101/222873435-aa44cc77-97ab-4164-ad1e-dd9d0ac0391d.png)
+
+
+# Azure Disk Encryption
+
+![image](https://user-images.githubusercontent.com/36766101/222876244-328267c7-12f8-4936-a602-36774c9ea7ae.png)
+
+# Azure Blob version
+![image](https://user-images.githubusercontent.com/36766101/222881304-54165ca1-82a0-46ff-a835-f286f053633b.png)
+![image](https://user-images.githubusercontent.com/36766101/222881433-d6d8e1ad-2d23-4a00-ad12-5191e693cdec.png)
+
+
+# Azure Blob Point-In-Time Restore
+![image](https://user-images.githubusercontent.com/36766101/222881677-2d4d791d-20d9-4804-97d2-3b3a946bda79.png)
+![image](https://user-images.githubusercontent.com/36766101/222881747-e0640701-05c9-4846-a49b-07714b91da34.png)
+
+# Azure SQL long term retention
+![image](https://user-images.githubusercontent.com/36766101/222882245-f7b8ea49-097c-404f-95e8-a7aa716b73a1.png)
+![image](https://user-images.githubusercontent.com/36766101/222882301-073c367c-9ecb-44a5-9116-88aac876c8a4.png)
+
+# Azure SQL Server active geo-replication implementation
+![image](https://user-images.githubusercontent.com/36766101/222882466-fdfc0de7-62eb-4ef1-acd8-0da49b5899cc.png)
+![image](https://user-images.githubusercontent.com/36766101/222882666-a2a72c2b-feac-4bc8-9833-e90c80df47e5.png)
+
+# Azure Auto-Failover Group Implementation
+![image](https://user-images.githubusercontent.com/36766101/222884706-10459a38-48cc-44a5-8e31-39b133602df0.png)
+![image](https://user-images.githubusercontent.com/36766101/222884943-5d9cb0f0-835f-4ae6-800e-658f753a6050.png)
+![image](https://user-images.githubusercontent.com/36766101/222885083-4765cbef-fc1f-4559-be03-78952d31fb62.png)
+![image](https://user-images.githubusercontent.com/36766101/222885373-bf126ab6-0405-4b5b-8a27-aa5b02118402.png)
+
+Active geo-replication is designed as a business continuity solution that allows you to create readable secondary databases of individual databases on a server in the same or different data center (region). Auto-failover groups allow you to manage replication and failover of a group of databases on a server or all databases in a managed instance to another region.
+In active geo-replication is on Database level and can have up to 4 secondaries. The Failover Groups are on server level and can only have one copy in a different region.
+Geo Replication is used for only Azure SQL Database but Failover groups is applicable to both Azure SQL DB and Azure SQL DB managed instance.
+![image](https://user-images.githubusercontent.com/36766101/222887175-8afce748-98ac-4258-a831-877b66bd2302.png)
+![image](https://user-images.githubusercontent.com/36766101/222887094-4a745131-1fbb-421d-b5c0-eaad2c2bd389.png)
+![image](https://user-images.githubusercontent.com/36766101/222887365-4601e9b3-3b4f-485f-99be-5029d37860e4.png)
