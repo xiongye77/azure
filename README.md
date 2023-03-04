@@ -269,7 +269,7 @@ Azure Monitor Agent (AMA) replaces the Log Analytics agent (also known as MMA an
 
 
 
-Azure Virtual Network NAT
+# Azure Virtual Network NAT
 ![image](https://user-images.githubusercontent.com/36766101/218416502-a98fc384-b008-4bd0-8718-9882a70bdba0.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/218414168-90456c8b-92b2-4f0e-9678-98b2bd7736c2.png)
@@ -281,8 +281,21 @@ CDN origin is storage account
 ![image](https://user-images.githubusercontent.com/36766101/218641847-8ccdf4c5-0145-4642-b7d4-6547d2f7b0cb.png)
 ![image](https://user-images.githubusercontent.com/36766101/218642009-ed5ae5fd-7f75-4e05-a078-b1b159100798.png)
 
+# Azure Cosmos DB
+![image](https://user-images.githubusercontent.com/36766101/222858582-201c4f63-c81f-47b1-908c-e97c49fc6e78.png)
+![image](https://user-images.githubusercontent.com/36766101/222859725-2f3d88ef-08f3-466f-b65c-b4f77a3d2e9e.png)
 
-Azure SQL Server
+
+# Azure SQL Server
+![image](https://user-images.githubusercontent.com/36766101/222857649-a26def25-12db-4783-b396-ce3fb4da95ab.png)
+
+Purchase Models
+![image](https://user-images.githubusercontent.com/36766101/222857979-eb6c80e3-5643-4ac7-ae06-f7fdc3464b5c.png)
+![image](https://user-images.githubusercontent.com/36766101/222860733-2feb58ed-f2d2-4519-9674-5809dc7e785c.png)
+
+Service Tiers
+![image](https://user-images.githubusercontent.com/36766101/222858078-de17812a-714d-4b9a-a3a7-e3699b0c8668.png)
+
 ![image](https://user-images.githubusercontent.com/36766101/218712534-7ac6623b-9dc8-4648-880e-66eff2a4527f.png)
 root@linuxvm:~# dig  sqlservererty.database.windows.net
 
