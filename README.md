@@ -652,4 +652,15 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222897015-231178c0-35ca-4d42-b960-390412d01b11.png)
 ![image](https://user-images.githubusercontent.com/36766101/222897120-923bbb4d-a0e0-4d00-ada6-b8c9289e9808.png)
 
+# Azure monitor
+![image](https://user-images.githubusercontent.com/36766101/222897590-ed1fefba-34e2-4409-88b2-54ca5e08bd53.png)
+![image](https://user-images.githubusercontent.com/36766101/222897829-13d47d1c-bb58-434b-a9e5-7b5cf5cd9e25.png)
+![image](https://user-images.githubusercontent.com/36766101/222898097-f21f302c-cdee-4e75-a0c3-83715fde60f7.png)
+![image](https://user-images.githubusercontent.com/36766101/222898551-d9e417aa-7c41-4814-a1c3-e48e9736f121.png)
+![image](https://user-images.githubusercontent.com/36766101/222898587-ac32439a-2900-4eff-b59e-a41057435ab8.png)
+![image](https://user-images.githubusercontent.com/36766101/222899736-f6a615b9-dcfd-4b30-9bfb-4cea6cb99733.png)
+![image](https://user-images.githubusercontent.com/36766101/222899959-9f18a281-e5a0-46a9-95ea-21d22e9ed2ee.png)
+![image](https://user-images.githubusercontent.com/36766101/222900589-8d6f345c-7866-48c1-b2bc-417560fa503c.png)
+![image](https://user-images.githubusercontent.com/36766101/222903391-a71352aa-c265-46b7-960f-406d72795a0e.png)
+![image](https://user-images.githubusercontent.com/36766101/222903537-c531155b-7ba2-43e9-ad5b-e55bacb1bbf0.png)
 
