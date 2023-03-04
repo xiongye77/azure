@@ -553,3 +553,17 @@ verify following operations use acdev1 to login
 ![image](https://user-images.githubusercontent.com/36766101/222855103-a224715f-7a01-4fbd-a2b5-34e13ff00757.png)
 ![image](https://user-images.githubusercontent.com/36766101/222856451-ccb032f6-03c7-4514-8026-1822eaeec88b.png)
 
+
+
+# Azure ADLS (data lake storage gen2)
+ADLS Gen2 has significant performance and security advantages for analytical workloads
+Both the object store model (such as Azure blob storage) and the hierarchical file system model (ADLS Gen1 and Gen2) are compatible with HDFS (Hadoop Distributed File System). This is achieved with drivers that implement server-side HDFS semantics to translate into remote storage APIs, allowing ADLS Gen2 to behave very similarly to native HDFS.
+![image](https://user-images.githubusercontent.com/36766101/222868967-68e10bd6-3351-4012-9e28-dad39edb49a1.png)
+![image](https://user-images.githubusercontent.com/36766101/222868863-dcb056cd-5f68-4154-b910-d4347309316c.png)
+![image](https://user-images.githubusercontent.com/36766101/222869736-0486eb3d-51b7-465e-a708-fab77cd26edb.png)
+
+
+# Azure Synapse Analytics
+![image](https://user-images.githubusercontent.com/36766101/222870407-934283bd-4324-49f8-a53c-abff5acc9b76.png)
+![image](https://user-images.githubusercontent.com/36766101/222870426-766507ad-3f24-4aea-aebc-ee7e95db3725.png)
+
