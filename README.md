@@ -643,3 +643,13 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 
 ![image](https://user-images.githubusercontent.com/36766101/222893553-9833f4da-f412-4240-b0cb-2b45858b9c41.png)
 ![image](https://user-images.githubusercontent.com/36766101/222896389-a99b37c6-b155-4389-a116-ad68d40c4fb1.png)
+
+
+# Azure Site Recovery
+![image](https://user-images.githubusercontent.com/36766101/222896787-e50eba85-d0e3-4070-8d69-c0cf488b402c.png)
+![image](https://user-images.githubusercontent.com/36766101/222896844-a16a6241-30b1-4f0e-8e5b-35d5d4fcc7e8.png)
+![image](https://user-images.githubusercontent.com/36766101/222896932-f07d1a65-be8d-4f7d-b5c2-0bb1ab472fb3.png)
+![image](https://user-images.githubusercontent.com/36766101/222897015-231178c0-35ca-4d42-b960-390412d01b11.png)
+![image](https://user-images.githubusercontent.com/36766101/222897120-923bbb4d-a0e0-4d00-ada6-b8c9289e9808.png)
+
+
