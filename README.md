@@ -629,3 +629,17 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222887175-8afce748-98ac-4258-a831-877b66bd2302.png)
 ![image](https://user-images.githubusercontent.com/36766101/222887094-4a745131-1fbb-421d-b5c0-eaad2c2bd389.png)
 ![image](https://user-images.githubusercontent.com/36766101/222887365-4601e9b3-3b4f-485f-99be-5029d37860e4.png)
+
+
+# Azure Cosmos DB Global Replication
+![image](https://user-images.githubusercontent.com/36766101/222893855-6e27dd8e-18cc-4101-bb80-c0a657a800eb.png)
+
+# Azure Backup Agent and Recovery Services vault
+![image](https://user-images.githubusercontent.com/36766101/222894288-44fbb12b-d950-47e5-96f8-df67c0614138.png)
+![image](https://user-images.githubusercontent.com/36766101/222894710-aee7b3a4-2a7c-4adc-9c92-552e0eaed550.png)
+
+
+![image](https://user-images.githubusercontent.com/36766101/222893796-94fd3072-e450-422e-b662-21c08cd0698d.png)
+
+![image](https://user-images.githubusercontent.com/36766101/222893553-9833f4da-f412-4240-b0cb-2b45858b9c41.png)
+![image](https://user-images.githubusercontent.com/36766101/222896389-a99b37c6-b155-4389-a116-ad68d40c4fb1.png)
