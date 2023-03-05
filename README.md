@@ -319,6 +319,10 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ;; WHEN: Tue Feb 14 10:34:37 UTC 2023
 ;; MSG SIZE  rcvd: 119
 
+![image](https://user-images.githubusercontent.com/36766101/222949785-f287abe2-f127-462e-9e2e-59f47f91455b.png)
+
+![image](https://user-images.githubusercontent.com/36766101/222950420-2013bba6-40e4-4cdf-ae2e-1f4a21c55734.png)
+
 # Azure Transparent Data Encryption
 ![image](https://user-images.githubusercontent.com/36766101/222878368-fa26ff4f-b7d9-4315-88c0-4fa8d22eada2.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878403-8d2129da-18e1-4e3c-a72d-5d646f38dde4.png)
@@ -657,6 +661,8 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222897120-923bbb4d-a0e0-4d00-ada6-b8c9289e9808.png)
 
 # Azure monitor
+![image](https://user-images.githubusercontent.com/36766101/222948701-42380354-36ec-422d-88dd-31a3fe24d378.png)
+
 ![image](https://user-images.githubusercontent.com/36766101/222897590-ed1fefba-34e2-4409-88b2-54ca5e08bd53.png)
 ![image](https://user-images.githubusercontent.com/36766101/222897829-13d47d1c-bb58-434b-a9e5-7b5cf5cd9e25.png)
 ![image](https://user-images.githubusercontent.com/36766101/222898097-f21f302c-cdee-4e75-a0c3-83715fde60f7.png)
@@ -674,3 +680,7 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222944872-2727b9ec-8b18-4fae-adff-048ce23079f3.png)
 ![image](https://user-images.githubusercontent.com/36766101/222944886-e73b91ea-4310-454c-b6b6-37e4a8af4f50.png)
 ![image](https://user-images.githubusercontent.com/36766101/222944830-f333838d-bb24-4865-a976-e47952bb3895.png)
+
+
+# Azure Application Insight
+![image](https://user-images.githubusercontent.com/36766101/222947525-c11c25fd-dd05-4e09-b746-91b52c964edf.png)
