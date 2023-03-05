@@ -339,11 +339,15 @@ This cloud service acts as a single central storage for all the secured informat
 The secured information can be in the form of passwords, certificates, API or cryptographic keys.
 
 There are multiple ways to authorize your app to retrieve the certificate from Azure Key Vault. 
+
+
 If your app is running within Azure, you can use Managed Service Identities.(https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
 In all cases, you can use a Service Principal; in the OAuth2 specs, this is called “Client credentials grant”, or more colloquially “Machine-to-Machine flow”.
 
 ![image](https://user-images.githubusercontent.com/36766101/222873637-73530c31-5b07-43ea-9ba3-148e57069bf3.png)
 
+Key vault can be accessed by selected Principle
+![image](https://user-images.githubusercontent.com/36766101/222934845-d6240fe5-15da-4176-9228-be89f99287e5.png)
 
 # Create a Resource Group
 RESOURCE_GROUP="MyKeyVault"
@@ -664,3 +668,9 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222903391-a71352aa-c265-46b7-960f-406d72795a0e.png)
 ![image](https://user-images.githubusercontent.com/36766101/222903537-c531155b-7ba2-43e9-ad5b-e55bacb1bbf0.png)
 
+
+# Azure function
+![image](https://user-images.githubusercontent.com/36766101/222945000-f3d430ba-db67-43ac-92e0-5c449dc9f591.png)
+![image](https://user-images.githubusercontent.com/36766101/222944872-2727b9ec-8b18-4fae-adff-048ce23079f3.png)
+![image](https://user-images.githubusercontent.com/36766101/222944886-e73b91ea-4310-454c-b6b6-37e4a8af4f50.png)
+![image](https://user-images.githubusercontent.com/36766101/222944830-f333838d-bb24-4865-a976-e47952bb3895.png)
