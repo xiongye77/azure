@@ -684,3 +684,16 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 
 # Azure Application Insight
 ![image](https://user-images.githubusercontent.com/36766101/222947525-c11c25fd-dd05-4e09-b746-91b52c964edf.png)
+
+
+# Azure Sentinel
+![image](https://user-images.githubusercontent.com/36766101/222955070-5607cf31-1f55-4590-a81f-c9d83c15eb8d.png)
+![image](https://user-images.githubusercontent.com/36766101/222955327-14ab3fe6-6d60-4069-9435-3d98fbcb79bb.png)
+
+
+![image](https://user-images.githubusercontent.com/36766101/222955603-f3fabe1d-fab2-46b1-9546-350e0eb402dd.png)
+![image](https://user-images.githubusercontent.com/36766101/222957033-a43d6d7e-f87b-4c10-99ee-7ddf93b521ff.png)
+
+![image](https://user-images.githubusercontent.com/36766101/222957003-7d7460e7-7613-45a8-8334-128bc9fa3aab.png)
+
+![image](https://user-images.githubusercontent.com/36766101/222956911-43c2b820-c311-4d6b-9f7e-460a001c64e7.png)
