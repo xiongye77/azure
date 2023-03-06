@@ -274,6 +274,7 @@ Azure Monitor Agent (AMA) replaces the Log Analytics agent (also known as MMA an
 
 ![image](https://user-images.githubusercontent.com/36766101/218414168-90456c8b-92b2-4f0e-9678-98b2bd7736c2.png)
 
+![image](https://user-images.githubusercontent.com/36766101/223007800-45220716-8d0e-4434-a578-212cffb7288e.png)
 
 # az storage account keys list
 CDN origin is storage account 
