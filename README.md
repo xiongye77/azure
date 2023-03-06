@@ -195,6 +195,10 @@ Azure Private Link enables customers to access Azure PaaS services and Azure-hos
 
 
 # Azure front door
+![image](https://user-images.githubusercontent.com/36766101/223056882-12014274-2da1-46ab-a935-2f093b417faa.png)
+![image](https://user-images.githubusercontent.com/36766101/223075390-e60fa355-aee7-4fd8-b7e5-7c16b45a07ed.png)
+![image](https://user-images.githubusercontent.com/36766101/223075627-b269ac21-980c-4787-94a5-956f2fb38e50.png)
+
 Azure Front Door is a global, highly available, and scalable service offered by Microsoft Azure that routes incoming traffic to your backends.
 It is designed to improve the performance and availability of your web applications and services. It does this by providing a global network of points of presence (POPs) that can be used to route traffic to the closest available backend.
 Front Door service supports various features including load balancing, custom routing, SSL offloading, and caching. It also provides a Web Application Firewall (WAF) that can be used to protect your web applications and services from various types of attacks.
