@@ -206,7 +206,7 @@ Front Door service is designed to work with other Azure services such as Azure V
 
 
 # Azure Traffic Manager
-Azure Traffic Manager is a Azure service that allows you to distribute traffic across multiple endpoints, such as Azure VMs, web apps, and Azure Cloud Services.
+Azure Traffic Manager is a Azure service that allows you to distribute traffic across multiple A Service Endpoint remains a publicly routable IP address. A Private Endpoint is a private IP in the address space of the virtual network where the private endpoint is configured.s, such as Azure VMs, web apps, and Azure Cloud Services.
 It uses a variety of routing methods, including priority, weight, and geographic, to determine how traffic is directed to the different endpoints.
 Traffic Manager can help improve the availability and performance of your applications by directing traffic to the closest or most available endpoint.
 It can also be used to perform A/B testing and canary deployments, allowing you to test new versions of your application before rolling them out to all users.
@@ -431,6 +431,12 @@ A service endpoint provides secure and direct connectivity to Azure services usi
 
 Unlike a service endpoint, a private endpoint is a network interface that uses a private IP address from your virtual network. This will ensure no traffic leaves the virtual network and all the communication is private.
 
+A Service Endpoint remains a publicly routable IP address. A Private Endpoint is a private IP in the address space of the virtual network where the private endpoint is configured. Create Servce Endpoint policy to control access specific resource.
+
+
+![image](https://user-images.githubusercontent.com/36766101/223276743-5793068b-8208-4ae4-83ac-4cee9a17e675.png)
+![image](https://user-images.githubusercontent.com/36766101/223276913-d7861077-301d-4676-8c20-96d5ca2017f9.png)
+![image](https://user-images.githubusercontent.com/36766101/223277076-83202ca9-8452-49c7-bc81-e46db2dfcdc9.png)
 
 Azure App Service VNET Integration
 ![image](https://user-images.githubusercontent.com/36766101/219645655-09824569-2d0f-4858-a2e4-a73d28b4099e.png)
