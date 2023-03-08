@@ -721,3 +721,7 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 # Azure CDN
 ![image](https://user-images.githubusercontent.com/36766101/223042217-e638d0fa-2de0-4113-a490-2f67fb30b8c4.png)
 ![image](https://user-images.githubusercontent.com/36766101/223042320-9d816768-c760-418f-8038-49ec1375c3a8.png)
+
+
+# Azure VM Scale set custom script extenstion on storage account blob folder
+![image](https://user-images.githubusercontent.com/36766101/223628640-93fb0a20-f86e-43e9-a9cc-58bd5351a67f.png)
