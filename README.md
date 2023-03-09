@@ -728,3 +728,7 @@ custom script extenstion on storage account blob folder
 ![image](https://user-images.githubusercontent.com/36766101/223628640-93fb0a20-f86e-43e9-a9cc-58bd5351a67f.png)
 networking inbound rule 
 ![image](https://user-images.githubusercontent.com/36766101/223636153-922f7020-749b-4801-8914-996a91b60258.png)
+
+# Azure Security
+![image](https://user-images.githubusercontent.com/36766101/223904629-0e29434c-6a6f-49f2-a53f-5aa8ca0d5b3c.png)
+
