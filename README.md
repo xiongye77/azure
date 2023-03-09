@@ -735,3 +735,5 @@ https://learn.microsoft.com/en-us/azure/security/fundamentals/overview
 ![image](https://user-images.githubusercontent.com/36766101/223904629-0e29434c-6a6f-49f2-a53f-5aa8ca0d5b3c.png)
 ![image](https://user-images.githubusercontent.com/36766101/223912362-c3291d2c-d367-47e9-a808-c81510697afc.png)
 
+Azure firewall in hub-spoke network topology 
+![image](https://user-images.githubusercontent.com/36766101/223936834-b16e192b-808c-474c-85b2-fd1ec454bdad.png)
