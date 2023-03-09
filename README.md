@@ -739,3 +739,9 @@ Azure firewall in hub-spoke network topology
 ![image](https://user-images.githubusercontent.com/36766101/223936834-b16e192b-808c-474c-85b2-fd1ec454bdad.png)
 ![image](https://user-images.githubusercontent.com/36766101/223938560-99be314b-47d1-4773-b7c7-e151f225539d.png)
 ![image](https://user-images.githubusercontent.com/36766101/223939884-92095406-9711-49bc-bdca-db9778d4734a.png)
+![image](https://user-images.githubusercontent.com/36766101/223983662-b6a30e34-1976-42d1-a70b-f51f552bf841.png)
+![image](https://user-images.githubusercontent.com/36766101/223985076-eae2d5e9-1c8f-40b4-b818-94b9e23a263a.png)
+![image](https://user-images.githubusercontent.com/36766101/223989911-50c27ecb-a95d-4337-b362-87ef52e3ca3b.png)
+![image](https://user-images.githubusercontent.com/36766101/223990052-51881bd0-721e-4aef-8ed2-6cab8b499618.png)
+![image](https://user-images.githubusercontent.com/36766101/224016851-8e44ef19-65e6-4b92-80f7-d249e00b4fe4.png)
+
