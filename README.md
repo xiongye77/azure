@@ -730,5 +730,8 @@ networking inbound rule
 ![image](https://user-images.githubusercontent.com/36766101/223636153-922f7020-749b-4801-8914-996a91b60258.png)
 
 # Azure Security
+https://learn.microsoft.com/en-us/azure/security/fundamentals/overview
+
 ![image](https://user-images.githubusercontent.com/36766101/223904629-0e29434c-6a6f-49f2-a53f-5aa8ca0d5b3c.png)
+![image](https://user-images.githubusercontent.com/36766101/223912362-c3291d2c-d367-47e9-a808-c81510697afc.png)
 
