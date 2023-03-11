@@ -1,5 +1,7 @@
 # Azure
 
+# Azure AD Custom Domains
+![image](https://user-images.githubusercontent.com/36766101/224464456-66c7d8e9-ba7a-42bd-837b-5b5d068450bb.png)
 
 # What is Azure AD Tenant
 An Azure AD tenant provides identity and access management (IAM) capabilities to applications and resources used by your organization. An identity is a directory object that can be authenticated and authorized for access to a resource. Identity objects exist for human identities such as students and teachers, and non-human identities like classroom and student devices, applications, and service principles.
@@ -58,6 +60,10 @@ The Azure AD tenant is an identity security boundary that is under the control o
 Azure two queue solution, storage account queue and service bus queue
 
 ![image](https://user-images.githubusercontent.com/36766101/218024619-0c2bbbca-ce71-4e3d-b6c6-07021d835ecd.png)
+
+
+# Azure AD signin and audit logs
+![image](https://user-images.githubusercontent.com/36766101/224466098-a82c40b3-b69d-4edb-9d97-5adbd3f0c7f3.png)
 
 Azure Event Grid 
 ![image](https://user-images.githubusercontent.com/36766101/218025269-882324c7-d25e-41de-bc07-29a916ba909e.png)
