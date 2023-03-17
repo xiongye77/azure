@@ -751,3 +751,10 @@ Azure firewall in hub-spoke network topology
 ![image](https://user-images.githubusercontent.com/36766101/223990052-51881bd0-721e-4aef-8ed2-6cab8b499618.png)
 ![image](https://user-images.githubusercontent.com/36766101/224016851-8e44ef19-65e6-4b92-80f7-d249e00b4fe4.png)
 
+
+# Azure Troubleshooting Network Security Groups
+![image](https://user-images.githubusercontent.com/36766101/225883000-cf0fa864-45d3-4875-877b-69127c246363.png)
+![image](https://user-images.githubusercontent.com/36766101/225886079-f62885c6-ede6-47eb-b580-a5785e08ef2c.png)
+![image](https://user-images.githubusercontent.com/36766101/225887256-7421374c-40b8-4e73-8220-ca0b15035bf4.png)
+
+
