@@ -448,6 +448,7 @@ A Service Endpoint remains a publicly routable IP address. A Private Endpoint is
 ![image](https://user-images.githubusercontent.com/36766101/223276913-d7861077-301d-4676-8c20-96d5ca2017f9.png)
 ![image](https://user-images.githubusercontent.com/36766101/223277076-83202ca9-8452-49c7-bc81-e46db2dfcdc9.png)
 
+
 Azure App Service VNET Integration
 ![image](https://user-images.githubusercontent.com/36766101/219645655-09824569-2d0f-4858-a2e4-a73d28b4099e.png)
 ![image](https://user-images.githubusercontent.com/36766101/219655347-3e4cadf3-e121-43b3-90e0-1930e7cd1ff5.png)
