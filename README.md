@@ -359,7 +359,7 @@ There are multiple ways to authorize your app to retrieve the certificate from A
 
 
 If your app is running within Azure, you can use Managed Service Identities.(https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
-In all cases, you can use a Service Principal; in the OAuth2 specs, this is called “Client credentials grant”, or more colloquially “Machine-to-Machine flow”.
+In all cases, you can use a Service Principal; in the OAuth2 specs, this is called "Client credentials grant", or more colloquially "Machine-to-Machine flow".
 
 ![image](https://user-images.githubusercontent.com/36766101/222873637-73530c31-5b07-43ea-9ba3-148e57069bf3.png)
 
