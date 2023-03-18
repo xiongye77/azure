@@ -183,6 +183,8 @@ Azure Firewall Premium provides advanced capabilities including signature-based 
 Azure Firewall Basic is intended for small and medium size (SMB) customers to secure their Azure cloud environments. It provides the essential protection SMB customers need at an affordable price point.
 
 14 Deploy Web Application Firewall,
+![image](https://user-images.githubusercontent.com/36766101/226098777-5fdfd4ba-e8d6-4b8a-8822-d8ea324f6e6c.png)
+
 ![image](https://user-images.githubusercontent.com/36766101/218256149-fb0e4037-6b78-4b1a-b011-9cae74eb5641.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/218257069-15adf8dc-a0de-468b-975b-11d3b98c1e89.png)
@@ -389,13 +391,13 @@ Alternatives to Azure Key Vault are AWS Secrets Manager,AWS Systems Manager Para
 ![image](https://user-images.githubusercontent.com/36766101/218968241-0f271c59-3926-4a74-821b-b9e7c9bc5c0f.png)
 
 
-Azure Service Principle 
+# Azure Service Principle 
 ![image](https://user-images.githubusercontent.com/36766101/219226517-f2a35603-fd94-4534-803b-34aa25a4b3be.png)
 ![image](https://user-images.githubusercontent.com/36766101/219231041-2deb9291-93b0-44a4-9e79-3c91362ae62e.png)
 ![image](https://user-images.githubusercontent.com/36766101/222663734-4c70ed17-da0a-4337-858a-ef61b155ae03.png)
 ![image](https://user-images.githubusercontent.com/36766101/222662695-7c734161-60bb-4c6b-bd43-99efe02fa780.png)
 
-Azure Managed Identity
+# Azure Managed Identity
 ![image](https://user-images.githubusercontent.com/36766101/222669253-7fbd5127-6fac-48ea-b6cb-3449a74693ff.png)
 ![image](https://user-images.githubusercontent.com/36766101/222669628-602f0b9d-854b-4ee2-a2d4-2f1817329070.png)
 ![image](https://user-images.githubusercontent.com/36766101/222670421-7f4dc36d-5d81-4f26-8b17-0c93beeddce9.png)
@@ -590,6 +592,11 @@ verify following operations use acdev1 to login
 ![image](https://user-images.githubusercontent.com/36766101/222872676-cb55c735-700b-4cba-af68-b44f89cf6583.png)
 ![image](https://user-images.githubusercontent.com/36766101/222872835-80a7b790-ada8-4f25-a0f4-8dd144a60b55.png)
 
+# Azure bastion host
+![image](https://user-images.githubusercontent.com/36766101/226101822-90e7133c-afe9-405a-be87-602f48787408.png)
+
+# Azure Just-in-time VM access
+![image](https://user-images.githubusercontent.com/36766101/226103027-d51bcc50-d128-429c-a84a-d76680945034.png)
 
 # Azure CDN
 ![image](https://user-images.github![image](https://user-images.githubusercontent.com/36766101/222873381-7996ed2e-5ed1-4d2b-a439-0355eb3b7971.png)usercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
