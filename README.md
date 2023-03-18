@@ -438,6 +438,10 @@ A service endpoint provides secure and direct connectivity to Azure services usi
 Unlike a service endpoint, a private endpoint is a network interface that uses a private IP address from your virtual network. This will ensure no traffic leaves the virtual network and all the communication is private.
 
 A Service Endpoint remains a publicly routable IP address. A Private Endpoint is a private IP in the address space of the virtual network where the private endpoint is configured. Create Servce Endpoint policy to control access specific resource.
+![image](https://user-images.githubusercontent.com/36766101/226084733-57f066fa-aac8-4525-bb73-e49d20a8ec9f.png)
+![image](https://user-images.githubusercontent.com/36766101/226084749-7b068ee8-7e8c-4731-a49b-93ff31a4f494.png)
+![image](https://user-images.githubusercontent.com/36766101/226084869-6484139a-a044-4ea4-b081-c59e8aad9193.png)
+![image](https://user-images.githubusercontent.com/36766101/226084918-663609bc-9e94-4401-9eeb-ae22d1549118.png)
 
 
 ![image](https://user-images.githubusercontent.com/36766101/223276743-5793068b-8208-4ae4-83ac-4cee9a17e675.png)
