@@ -344,6 +344,13 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ![image](https://user-images.githubusercontent.com/36766101/222878676-b6c597a4-a17a-4518-a854-df9b19422fc5.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878791-c345557d-e35d-4856-bb48-8cdd7b78eca4.png)
 
+# Azure VM endpoint protection
+![image](https://user-images.githubusercontent.com/36766101/226147539-c522e38e-9afc-4ee9-b598-378d82e232b8.png)
+![image](https://user-images.githubusercontent.com/36766101/226147569-23f8b85b-5e85-40ec-bd6b-2a486ff94d9a.png)
+
+![image](https://user-images.githubusercontent.com/36766101/226147472-0aff62bf-905e-4c37-ba96-fe222989106c.png)
+
+![image](https://user-images.githubusercontent.com/36766101/226147452-0c1881b6-e54a-4566-b4f1-c1d33ae5d42c.png)
 
 
 Azure Active Directory (AD) can play a crucial role in not only user management, but also with application security for Azure-based solutions. When an application is registered in Azure AD and provided a service principal, it can be used to securely access other Azure resources that support Azure AD authentication.
@@ -372,6 +379,14 @@ LOCATION="WestUS2"
 az group create   --name "$RESOURCE_GROUP"  --location "$LOCATION"
 
 # Create a Key Vault
+![image](https://user-images.githubusercontent.com/36766101/226144788-3bde3208-6f1c-4b0e-b972-07862ffbefd1.png)
+![image](https://user-images.githubusercontent.com/36766101/226145111-bc75fce1-09d8-4b7b-a1d1-f72b425c714c.png)
+![image](https://user-images.githubusercontent.com/36766101/226145318-10f3458b-931c-4101-9533-4d73dbe4fbf7.png)
+![image](https://user-images.githubusercontent.com/36766101/226145487-37390fd9-9a50-4f3f-a49d-f4b9a7cb1416.png)
+![image](https://user-images.githubusercontent.com/36766101/226145495-8c4637b8-9b96-4c5a-a871-c206502b95b5.png)
+
+![image](https://user-images.githubusercontent.com/36766101/226145304-2f55f89a-267c-47e2-bcf9-4cab5237ea2b.png)
+
 # The name must be globally unique
 KEYVAULT_NAME="withblueink"
 az keyvault create   --name "$KEYVAULT_NAME"  --resource-group "$RESOURCE_GROUP"   --location "$LOCATION"
