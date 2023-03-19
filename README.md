@@ -340,6 +340,16 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ![image](https://user-images.githubusercontent.com/36766101/222878368-fa26ff4f-b7d9-4315-88c0-4fa8d22eada2.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878403-8d2129da-18e1-4e3c-a72d-5d646f38dde4.png)
 
+# Azure Disk Encryption
+![image](https://user-images.githubusercontent.com/36766101/226148010-f8a2be14-7e28-4db7-a1ec-b78ba88a3b15.png)
+![image](https://user-images.githubusercontent.com/36766101/226148132-6b999e83-de82-4018-92bf-f4a4ef8cf068.png)
+![image](https://user-images.githubusercontent.com/36766101/226148201-5bc0544a-c2c7-42c9-b3c4-1acbea8cc892.png)
+
+# Azure VM update
+![image](https://user-images.githubusercontent.com/36766101/226149631-2ede2672-d62e-4695-8aab-c9772dea0cc3.png)
+![image](https://user-images.githubusercontent.com/36766101/226149837-f66f3385-5df7-4ba4-8f5f-ea73d89ad65c.png)
+![image](https://user-images.githubusercontent.com/36766101/226149962-430a91aa-4a44-4208-b13e-5966332b902a.png)
+
 # Azure Always Encrypted and Dynamic Mask
 ![image](https://user-images.githubusercontent.com/36766101/222878676-b6c597a4-a17a-4518-a854-df9b19422fc5.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878791-c345557d-e35d-4856-bb48-8cdd7b78eca4.png)
@@ -351,6 +361,7 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ![image](https://user-images.githubusercontent.com/36766101/226147472-0aff62bf-905e-4c37-ba96-fe222989106c.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/226147452-0c1881b6-e54a-4566-b4f1-c1d33ae5d42c.png)
+![image](https://user-images.githubusercontent.com/36766101/226147865-f41a1d9e-f603-4c01-a6d6-4b5c3bea68b6.png)
 
 
 Azure Active Directory (AD) can play a crucial role in not only user management, but also with application security for Azure-based solutions. When an application is registered in Azure AD and provided a service principal, it can be used to securely access other Azure resources that support Azure AD authentication.
