@@ -800,3 +800,17 @@ Azure firewall in hub-spoke network topology
 ![image](https://user-images.githubusercontent.com/36766101/225887256-7421374c-40b8-4e73-8220-ca0b15035bf4.png)
 
 
+# Azure App Security
+![image](https://user-images.githubusercontent.com/36766101/226169623-93d64acf-d029-4047-b1eb-e6c2f7850a90.png)
+
+# Azure App Service Environment
+![image](https://user-images.githubusercontent.com/36766101/226170024-cbf3edc1-f429-4e55-8516-c0634b00bf12.png)
+![image](https://user-images.githubusercontent.com/36766101/226170103-822c3396-7731-42f0-9f42-cdc36231c28a.png)
+![image](https://user-images.githubusercontent.com/36766101/226170498-f6874991-e7e9-4793-bdcb-4c6c70eadd5c.png)
+
+
+# Azure AKS
+![image](https://user-images.githubusercontent.com/36766101/226173734-e448d97a-d049-4a50-a3f3-4dd955c71925.png)
+![image](https://user-images.githubusercontent.com/36766101/226174004-98169d36-c297-4249-8c07-61609f8a6d7c.png)
+
+
