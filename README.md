@@ -202,7 +202,7 @@ Azure Private Link enables customers to access Azure PaaS services and Azure-hos
 ![image](https://user-images.githubusercontent.com/36766101/218451428-d3e8d1f9-dc4c-4109-b5cb-347e6f26de54.png)
 
 
-# Azure front door
+# Azure Front Door
 ![image](https://user-images.githubusercontent.com/36766101/223056882-12014274-2da1-46ab-a935-2f093b417faa.png)
 ![image](https://user-images.githubusercontent.com/36766101/223075390-e60fa355-aee7-4fd8-b7e5-7c16b45a07ed.png)
 ![image](https://user-images.githubusercontent.com/36766101/223075627-b269ac21-980c-4787-94a5-956f2fb38e50.png)
@@ -746,6 +746,13 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 
 
 # Azure Sentinel
+![image](https://user-images.githubusercontent.com/36766101/226215051-4ad1e9d8-fe37-4a46-9aee-486ab1942311.png)
+![image](https://user-images.githubusercontent.com/36766101/226220517-455cfff1-eb9e-4e91-8dbe-c8e8ef5f7481.png)
+![image](https://user-images.githubusercontent.com/36766101/226220552-99e9d948-a35c-4bd8-9757-6d2567dcd231.png)
+![image](https://user-images.githubusercontent.com/36766101/226221481-335fe565-df39-4075-9a39-6922fd5f6246.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/36766101/222955070-5607cf31-1f55-4590-a81f-c9d83c15eb8d.png)
 ![image](https://user-images.githubusercontent.com/36766101/222955327-14ab3fe6-6d60-4069-9435-3d98fbcb79bb.png)
 
@@ -814,3 +821,5 @@ Azure firewall in hub-spoke network topology
 ![image](https://user-images.githubusercontent.com/36766101/226174004-98169d36-c297-4249-8c07-61609f8a6d7c.png)
 
 
+# Azure defender
+![image](https://user-images.githubusercontent.com/36766101/226228739-94cf67f9-e65d-4013-9eca-882d44cdf17f.png)
