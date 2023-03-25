@@ -843,3 +843,23 @@ Azure firewall in hub-spoke network topology
 
 # Azure SQL Elastic pool and database
 ![image](https://user-images.githubusercontent.com/36766101/227707091-89e1af54-b02c-4419-9fa5-ac6c6d2b9f68.png)
+
+
+# Azure SQL database backup retention and restore
+![image](https://user-images.githubusercontent.com/36766101/227709482-5a853990-7446-4e10-a679-beee425b95ae.png)
+![image](https://user-images.githubusercontent.com/36766101/227709773-a0770ea2-d7df-405c-9bc4-2f21ff4940b9.png)
+
+
+# Azure SQL database HA/DR
+![image](https://user-images.githubusercontent.com/36766101/227710416-999d60b4-b2a5-4097-8292-2ccee11ddf7e.png)
+![image](https://user-images.githubusercontent.com/36766101/227710813-587ef933-15f5-4fe2-b69d-ad063e1d5eb2.png)
+![image](https://user-images.githubusercontent.com/36766101/227710976-f76df508-5f55-4427-a43f-78481e325aa6.png)
+
+# Azure SQL performance view
+![image](https://user-images.githubusercontent.com/36766101/227714921-e2b581c7-5a2a-4630-be1e-27020e5bfc00.png)
+![image](https://user-images.githubusercontent.com/36766101/227715042-78988841-f387-4f70-9888-f66da87bf59b.png)
+![image](https://user-images.githubusercontent.com/36766101/227715203-f8e638a1-ed89-4b46-90c2-da7eb7bb89ff.png)
+![image](https://user-images.githubusercontent.com/36766101/227715228-49963671-0c68-44a8-94d2-bf20f3a9a7a0.png)
+![image](https://user-images.githubusercontent.com/36766101/227715443-d0879e7b-30ad-4458-9b5f-f99fa736a985.png)
+![image](https://user-images.githubusercontent.com/36766101/227716104-78d1e15d-b506-4e36-af9d-c757c8db4460.png)
+
