@@ -823,3 +823,23 @@ Azure firewall in hub-spoke network topology
 
 # Azure defender
 ![image](https://user-images.githubusercontent.com/36766101/226228739-94cf67f9-e65d-4013-9eca-882d44cdf17f.png)
+
+
+# Azure database and server level firewall 
+![image](https://user-images.githubusercontent.com/36766101/227698776-ef14b3ad-61b5-4bab-ace3-5db778c49b04.png)
+![image](https://user-images.githubusercontent.com/36766101/227699907-2da63575-d941-4c4f-9b05-4ea4f9e157e3.png)
+![image](https://user-images.githubusercontent.com/36766101/227699947-5a8420d7-3ed9-44a7-bb6a-4895381c65a4.png)
+
+
+#Azure SQL Server Hyperscale mode 
+![image](https://user-images.githubusercontent.com/36766101/227705619-1fd18af0-3fb1-4ede-92ce-a15781b42488.png)
+
+#Azure import database from storage account backup content and scale up
+![image](https://user-images.githubusercontent.com/36766101/227705852-9b406dc4-91f0-4449-9b88-aaebdef326e7.png)
+![image](https://user-images.githubusercontent.com/36766101/227706116-65bb00a9-ed18-4028-981d-87a26add33a4.png)
+![image](https://user-images.githubusercontent.com/36766101/227706139-f2d37853-76c1-438a-9b20-2ac923cb2711.png)
+![image](https://user-images.githubusercontent.com/36766101/227706201-e8dea552-f119-45f2-83f9-a4dceff565af.png)
+![image](https://user-images.githubusercontent.com/36766101/227706465-9e0b5dd1-3715-460b-8e4b-9139ea2a8a75.png)
+
+# Azure SQL Elastic pool and database
+![image](https://user-images.githubusercontent.com/36766101/227707091-89e1af54-b02c-4419-9fa5-ac6c6d2b9f68.png)
