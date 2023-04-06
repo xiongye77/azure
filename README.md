@@ -873,4 +873,11 @@ Azure firewall in hub-spoke network topology
 ![image](https://user-images.githubusercontent.com/36766101/230090436-df7ea613-7e78-4f37-be7f-ca4b17f5fc22.png)
 ![image](https://user-images.githubusercontent.com/36766101/230090772-e1e4d1d5-1eea-476f-aaeb-db2cd774f7c4.png)
 ![image](https://user-images.githubusercontent.com/36766101/230091177-34d99c8a-2482-4ba4-ad8b-b5e23764c07a.png)
+![image](https://user-images.githubusercontent.com/36766101/230227617-8119fd60-7ed3-490a-936e-79360c386e61.png)
+![image](https://user-images.githubusercontent.com/36766101/230236382-d611c1a0-40a5-4ac6-a51c-2bbfa676c58d.png)
+https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/
+![image](https://user-images.githubusercontent.com/36766101/230237100-ada7bab0-a141-4428-909d-478944115f36.png)
+![image](https://user-images.githubusercontent.com/36766101/230237946-33b412f9-5b0a-4492-bafe-4b2b5b2fa2b2.png)
+![image](https://user-images.githubusercontent.com/36766101/230239748-2a5361ee-3c04-4245-989b-892e141b7a75.png)
+![image](https://user-images.githubusercontent.com/36766101/230241161-a39a6a0b-b0c1-47c6-93b8-102b4688a44e.png)
 
