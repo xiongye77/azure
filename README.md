@@ -886,4 +886,5 @@ https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/
 ![image](https://user-images.githubusercontent.com/36766101/230274466-5fad3cfc-103b-4eea-ac84-eaeec0d2f13d.png)
 ![image](https://user-images.githubusercontent.com/36766101/230275320-d4ec4ec9-24b0-4178-b487-8a5a27c28d7f.png)
 ![image](https://user-images.githubusercontent.com/36766101/230276305-2c0b9af4-96b0-45af-bdb1-95afbe309de5.png)
+![image](https://user-images.githubusercontent.com/36766101/230289551-f247a23b-18a8-4cc5-91ce-207237f2e2a4.png)
 
