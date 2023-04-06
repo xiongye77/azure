@@ -880,4 +880,10 @@ https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/
 ![image](https://user-images.githubusercontent.com/36766101/230237946-33b412f9-5b0a-4492-bafe-4b2b5b2fa2b2.png)
 ![image](https://user-images.githubusercontent.com/36766101/230239748-2a5361ee-3c04-4245-989b-892e141b7a75.png)
 ![image](https://user-images.githubusercontent.com/36766101/230241161-a39a6a0b-b0c1-47c6-93b8-102b4688a44e.png)
+![image](https://user-images.githubusercontent.com/36766101/230272550-4fa043d2-064a-4dd4-9527-325caab01f16.png)
+![image](https://user-images.githubusercontent.com/36766101/230272788-99867af8-1440-4504-aade-849548c952e3.png)
+![image](https://user-images.githubusercontent.com/36766101/230273975-d0bd6db3-ffac-4325-9fa1-4b0376204d08.png)
+![image](https://user-images.githubusercontent.com/36766101/230274466-5fad3cfc-103b-4eea-ac84-eaeec0d2f13d.png)
+![image](https://user-images.githubusercontent.com/36766101/230275320-d4ec4ec9-24b0-4178-b487-8a5a27c28d7f.png)
+![image](https://user-images.githubusercontent.com/36766101/230276305-2c0b9af4-96b0-45af-bdb1-95afbe309de5.png)
 
