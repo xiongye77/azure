@@ -929,3 +929,4 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 ![image](https://user-images.githubusercontent.com/36766101/231056317-ac86f8e8-9b84-45df-a864-05641136cc90.png)
 ![image](https://user-images.githubusercontent.com/36766101/231048420-c5cbb1e6-6cbd-4b9c-bfb5-5343bc307156.png)
 ![image](https://user-images.githubusercontent.com/36766101/231067996-96f45f5d-5896-42d9-a850-a385de4c27bb.png)
+![image](https://user-images.githubusercontent.com/36766101/231068715-92bae6ea-8b90-4746-99e0-df79c55fe36e.png)
