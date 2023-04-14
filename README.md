@@ -562,6 +562,8 @@ verify following operations use acdev1 to login
 
 # Azure NSG
 ![image](https://user-images.githubusercontent.com/36766101/222581657-cff44930-4069-4197-966a-5ac936d979a5.png)
+![image](https://user-images.githubusercontent.com/36766101/231902187-c66e0a0e-ef22-4b64-a851-d0b7464065b7.png)
+![image](https://user-images.githubusercontent.com/36766101/231902288-478a1a85-7a93-4db1-b6c1-80fd79850b83.png)
 
 # Azure Virtual Network NAT （Compare to AWS	NAT Gateway）associate with multiple subnets
 ![image](https://user-images.githubusercontent.com/36766101/222584968-25ef7791-f562-4e61-95c9-ec6f59d213b6.png)
