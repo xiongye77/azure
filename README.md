@@ -865,6 +865,8 @@ Azure firewall in hub-spoke network topology
 ![image](https://user-images.githubusercontent.com/36766101/227715443-d0879e7b-30ad-4458-9b5f-f99fa736a985.png)
 ![image](https://user-images.githubusercontent.com/36766101/227716104-78d1e15d-b506-4e36-af9d-c757c8db4460.png)
 
+#Azure application 
+![image](https://user-images.githubusercontent.com/36766101/235807474-d9753c1a-f2fd-4bbe-bd51-8379c0a8dfcd.png)
 
 
 # AKS 
