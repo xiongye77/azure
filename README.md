@@ -934,3 +934,8 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 ![image](https://user-images.githubusercontent.com/36766101/231048420-c5cbb1e6-6cbd-4b9c-bfb5-5343bc307156.png)
 ![image](https://user-images.githubusercontent.com/36766101/231067996-96f45f5d-5896-42d9-a850-a385de4c27bb.png)
 ![image](https://user-images.githubusercontent.com/36766101/231068715-92bae6ea-8b90-4746-99e0-df79c55fe36e.png)
+
+
+# Azure Standard Load Balancer- Inbound NAT Rules
+![image](https://github.com/xiongye77/azure/assets/36766101/da8e11c4-0a1c-4d10-aca6-825753fee801)
+
