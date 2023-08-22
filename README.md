@@ -939,3 +939,6 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 # Azure Standard Load Balancer- Inbound NAT Rules
 ![image](https://github.com/xiongye77/azure/assets/36766101/da8e11c4-0a1c-4d10-aca6-825753fee801)
 
+# Azure Internet LB+ Web VMSS + Internal LB + App VMSS 
+![image](https://github.com/xiongye77/azure/assets/36766101/5a41a642-f6a5-45f1-9c36-784faea5d293)
+
