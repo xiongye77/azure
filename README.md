@@ -942,3 +942,15 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 # Azure Internet LB+ Web VMSS + Internal LB + App VMSS 
 ![image](https://github.com/xiongye77/azure/assets/36766101/5a41a642-f6a5-45f1-9c36-784faea5d293)
 
+# Azure SQL TDE 
+![image](https://github.com/xiongye77/azure/assets/36766101/5ba5a3f8-f65f-4df3-8a33-df20f5ffae92)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/011d6e9b-ec20-4f58-bbe5-4e1f45d71534)
+
+# Azure SQL Add AD user 
+![image](https://github.com/xiongye77/azure/assets/36766101/ad78dd67-7a35-484e-b1ca-590c028f643d)
+
+# Azure DB security connection
+![image](https://github.com/xiongye77/azure/assets/36766101/93ea5453-f8b4-4ee3-a335-1be2ed0ac52e)
+![image](https://github.com/xiongye77/azure/assets/36766101/6d31dbe2-f0ca-4b64-8989-b1739875f734)
+
