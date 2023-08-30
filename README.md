@@ -954,3 +954,12 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 ![image](https://github.com/xiongye77/azure/assets/36766101/93ea5453-f8b4-4ee3-a335-1be2ed0ac52e)
 ![image](https://github.com/xiongye77/azure/assets/36766101/6d31dbe2-f0ca-4b64-8989-b1739875f734)
 
+# Azure Managed Identity and key vault access policy for it
+![image](https://github.com/xiongye77/azure/assets/36766101/6c2d96f3-e3bb-460c-934a-a57d74e3b8eb)
+![image](https://github.com/xiongye77/azure/assets/36766101/4f827184-8606-4f72-93e6-f0ab71e028bb)
+
+
+# Azure key vault only allow private subnet access through private endpoint connection
+![image](https://github.com/xiongye77/azure/assets/36766101/95908b68-a5bb-4da9-a122-6e524ec25c93)
+![image](https://github.com/xiongye77/azure/assets/36766101/d42b6279-1291-401d-bd75-b7317a6753f2)
+
