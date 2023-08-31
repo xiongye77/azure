@@ -440,7 +440,7 @@ Authorization
 
 
 
-Azure Availability Set
+# Azure Availability Set
 ![image](https://user-images.githubusercontent.com/36766101/219276779-5cf1a40a-4ddb-4e1c-aabf-c7d1062ae22c.png)
 ![image](https://user-images.githubusercontent.com/36766101/219277381-d1b99439-744f-44dc-a2ce-b8eba37710d4.png)
 ![image](https://user-images.githubusercontent.com/36766101/219277597-56cf4cfa-44e1-4620-b49e-ee9afbf41480.png)
@@ -456,10 +456,10 @@ Azure Vnet peering
 ![image](https://user-images.githubusercontent.com/36766101/219570155-d1d4b11b-f2e0-49d5-b6ce-b6b08caa0d12.png)
 
 
-Azure Network Watcher/Topology
+# Azure Network Watcher/Topology
 ![image](https://user-images.githubusercontent.com/36766101/219602753-f3132e86-89a4-4573-92ba-18b0c1a52425.png)
 
-Azure Network Watcher/Connection Monitor
+# Azure Network Watcher/Connection Monitor
 ![image](https://user-images.githubusercontent.com/36766101/219603123-1ef950fa-5c74-451e-b2e3-7675d94515c3.png)
 
 Azure Service Endpoint VS  Azure Private Link
@@ -486,15 +486,21 @@ A Service Endpoint remains a publicly routable IP address. A Private Endpoint is
 # Azure App Service VNET Integration
 ![image](https://user-images.githubusercontent.com/36766101/219645655-09824569-2d0f-4858-a2e4-a73d28b4099e.png)
 ![image](https://user-images.githubusercontent.com/36766101/219655347-3e4cadf3-e121-43b3-90e0-1930e7cd1ff5.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/81952352-c7a1-4aea-9e43-d42042566bb4)
 
+# Azure App Service access Key Vault using Managed Identity
+![image](https://github.com/xiongye77/azure/assets/36766101/78c5b2fa-62f2-44ae-9ad8-06186f4cd843)
 
-Azure App Service Migration Assistant
+# Azure App Service Migration Assistant
 ![image](https://user-images.githubusercontent.com/36766101/219633154-6e1e1d65-7be2-450c-a3cf-f94b66ebd0a6.png)
 ![image](https://user-images.githubusercontent.com/36766101/219635121-052ffe76-fb6a-4aa9-9f49-b117fbc5809a.png)
 ![image](https://user-images.githubusercontent.com/36766101/219642026-fed64852-baf5-404f-b49a-95f6ee1855f5.png)
 
+# Firewalls in Azure
+![image](https://github.com/xiongye77/azure/assets/36766101/64720c8b-7c44-4344-9bd5-e668a63bbcdd)
 
-Azure SQL options
+
+# Azure SQL options
 ![image](https://user-images.githubusercontent.com/36766101/219923387-973bfc08-62e9-4897-bd18-e62667715a95.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/219647699-27a5e26e-1c8c-47c2-8269-10d05d6b782b.png)
@@ -503,7 +509,7 @@ Azure SQL options
 ![image](https://user-images.githubusercontent.com/36766101/219651590-e583e580-4638-402b-b587-a6745c7bb3e2.png)
 
 
-Azure SQL Protect Data
+# Azure SQL Protect Data
 ![image](https://user-images.githubusercontent.com/36766101/219850215-d037bb15-c26c-4df5-a1a8-e1811cd4c3e7.png)
 ![image](https://user-images.githubusercontent.com/36766101/219850680-6120183b-4e8c-4a29-bd0f-1d2b5fd696a8.png)
 ![image](https://user-images.githubusercontent.com/36766101/219850819-fec5cdc4-487d-40f4-9232-f03a4470f9d0.png)
@@ -626,7 +632,7 @@ verify following operations use acdev1 to login
 ![image](https://user-images.githubusercontent.com/36766101/222872676-cb55c735-700b-4cba-af68-b44f89cf6583.png)
 ![image](https://user-images.githubusercontent.com/36766101/222872835-80a7b790-ada8-4f25-a0f4-8dd144a60b55.png)
 
-# Azure bastion host
+# Azure Bastion Host
 ![image](https://user-images.githubusercontent.com/36766101/226101822-90e7133c-afe9-405a-be87-602f48787408.png)
 
 # Azure Just-in-time VM access
@@ -723,7 +729,7 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222897015-231178c0-35ca-4d42-b960-390412d01b11.png)
 ![image](https://user-images.githubusercontent.com/36766101/222897120-923bbb4d-a0e0-4d00-ada6-b8c9289e9808.png)
 
-# Azure monitor
+# Azure Monitor
 ![image](https://user-images.githubusercontent.com/36766101/222948701-42380354-36ec-422d-88dd-31a3fe24d378.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/222897590-ed1fefba-34e2-4409-88b2-54ca5e08bd53.png)
@@ -738,7 +744,7 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222903537-c531155b-7ba2-43e9-ad5b-e55bacb1bbf0.png)
 
 
-# Azure function
+# Azure Function
 ![image](https://user-images.githubusercontent.com/36766101/222945000-f3d430ba-db67-43ac-92e0-5c449dc9f591.png)
 ![image](https://user-images.githubusercontent.com/36766101/222944872-2727b9ec-8b18-4fae-adff-048ce23079f3.png)
 ![image](https://user-images.githubusercontent.com/36766101/222944886-e73b91ea-4310-454c-b6b6-37e4a8af4f50.png)
