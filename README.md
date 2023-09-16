@@ -985,3 +985,14 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 # Azure monitor for change analysis
 ![image](https://github.com/xiongye77/azure/assets/36766101/b7ff8d4d-f51a-4ff4-a3d3-212b3b23965f)
 
+
+# Azure Blueprint
+![image](https://github.com/xiongye77/azure/assets/36766101/20f4bb32-353b-4515-9657-b26823c9c3b2)
+
+
+# Azure landing zone
+![image](https://github.com/xiongye77/azure/assets/36766101/03498397-2f26-471c-a0dd-581837a7d29a)
+
+
+# Azure management group 
+If your organization has many Azure subscriptions, you may need a way to efficiently manage access, policies, and compliance for those subscriptions. Management groups provide a governance scope above subscriptions. You organize subscriptions into management groups; the governance conditions you apply cascade by inheritance to all associated subscriptions.
