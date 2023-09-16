@@ -973,3 +973,13 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 ![image](https://github.com/xiongye77/azure/assets/36766101/95908b68-a5bb-4da9-a122-6e524ec25c93)
 ![image](https://github.com/xiongye77/azure/assets/36766101/d42b6279-1291-401d-bd75-b7317a6753f2)
 
+
+# Azure policy
+![image](https://github.com/xiongye77/azure/assets/36766101/bfb391fe-5bf2-4122-b2d9-f017f5d93814)
+![image](https://github.com/xiongye77/azure/assets/36766101/660ba771-81c9-481d-bce4-5367c292ab61)
+![image](https://github.com/xiongye77/azure/assets/36766101/f179ac62-63fd-4f6d-9233-f39e74529f62)
+
+
+# Azure monitor for change analysis
+![image](https://github.com/xiongye77/azure/assets/36766101/b7ff8d4d-f51a-4ff4-a3d3-212b3b23965f)
+
