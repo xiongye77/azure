@@ -835,6 +835,8 @@ Azure firewall in hub-spoke network topology
 
 # Azure defender
 ![image](https://user-images.githubusercontent.com/36766101/226228739-94cf67f9-e65d-4013-9eca-882d44cdf17f.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/edfb63fe-3fb8-4808-adaf-9fc68a7635b7)
+![image](https://github.com/xiongye77/azure/assets/36766101/7251edc7-d605-4cea-b826-2d9fb4e97783)
 
 
 # Azure database and server level firewall 
