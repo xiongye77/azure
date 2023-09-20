@@ -233,6 +233,10 @@ It provides the tools you need to scale both global distribution pattern and com
 # Azure Monitor
 ![image](https://user-images.githubusercontent.com/36766101/218302991-e59e05c4-b99c-4d10-a60f-dbd784e82d7e.png)
 ![image](https://user-images.githubusercontent.com/36766101/218303525-f464265d-16bc-40aa-a39c-bd7a09c4fb26.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/9031e62a-5360-4376-bf21-ad53213fd065)
+![image](https://github.com/xiongye77/azure/assets/36766101/a8528e93-10f4-4b99-8549-ff2528f09944)
+![image](https://github.com/xiongye77/azure/assets/36766101/f7ae4a49-d467-4242-b166-c7a6e100bd50)
+
 
 Azure Monitor collects monitoring telemetry from a variety of on-premises and Azure sources. Management tools, such as those in Azure Security Center and Azure Automation, also push log data to Azure Monitor. 
 
