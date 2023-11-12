@@ -1012,3 +1012,10 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 ![image](https://github.com/xiongye77/azure/assets/36766101/8326a14e-df01-46b1-bced-f4b972ae0335)
 ![image](https://github.com/xiongye77/azure/assets/36766101/490b9b67-0b60-4532-8b7b-abb39e3d0659)
 
+
+# Azure Privileged Identity Management 
+![image](https://github.com/xiongye77/azure/assets/36766101/fa985fc3-bf0a-414a-b22e-ae9378b7a1be)
+![image](https://github.com/xiongye77/azure/assets/36766101/18c254b4-5281-4757-bc7d-08b519e610a0)
+
+# Azure administrative units
+![image](https://github.com/xiongye77/azure/assets/36766101/3c6ce562-c879-4aaa-b397-91cfcfd2014c)
