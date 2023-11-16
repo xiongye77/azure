@@ -226,6 +226,8 @@ Azure Cosmos DB offers single-digit millisecond response times, automatic and in
 Cosmos DB is a database service that is globally distributed. It allows you to manage your data even if you keep them in data centers that are scattered throughout the world. 
 It provides the tools you need to scale both global distribution pattern and computational resources, and these tools are provided by Microsoft Azure.
 
+![image](https://github.com/xiongye77/azure/assets/36766101/4167bc33-8de2-4bee-85c5-9183ab07ffe4)
+
 ![image](https://user-images.githubusercontent.com/36766101/218296778-6782e14c-a878-4001-85a0-cf4e813faf82.png)
 ![image](https://user-images.githubusercontent.com/36766101/218296849-badaaec4-1b2b-4f7e-b341-60e147ccf5be.png)
 
@@ -841,6 +843,8 @@ Azure firewall in hub-spoke network topology
 
 # Azure defender
 Microsoft Defender for Cloud offers advanced threat protection and automated security assessments, giving organizations centralized security management for their cloud infrastructure. The tool’s vulnerability assessment capabilities enable users to identify weaknesses within their systems and prioritize remediation efforts.
+
+![image](https://github.com/xiongye77/azure/assets/36766101/b0c96439-fccf-4ed7-be58-68e5157a5c70)
 
 ![image](https://user-images.githubusercontent.com/36766101/226228739-94cf67f9-e65d-4013-9eca-882d44cdf17f.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/edfb63fe-3fb8-4808-adaf-9fc68a7635b7)
