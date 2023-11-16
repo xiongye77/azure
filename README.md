@@ -840,9 +840,15 @@ Azure firewall in hub-spoke network topology
 
 
 # Azure defender
+Microsoft Defender for Cloud offers advanced threat protection and automated security assessments, giving organizations centralized security management for their cloud infrastructure. The tool’s vulnerability assessment capabilities enable users to identify weaknesses within their systems and prioritize remediation efforts.
+
 ![image](https://user-images.githubusercontent.com/36766101/226228739-94cf67f9-e65d-4013-9eca-882d44cdf17f.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/edfb63fe-3fb8-4808-adaf-9fc68a7635b7)
 ![image](https://github.com/xiongye77/azure/assets/36766101/7251edc7-d605-4cea-b826-2d9fb4e97783)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/1d0a8688-38cf-4804-af09-e53e93fa0a00)
+![image](https://github.com/xiongye77/azure/assets/36766101/5d61a2d1-edac-43d7-bf27-5cd234b1c41f)
+
 
 
 # Azure database and server level firewall 
