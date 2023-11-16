@@ -853,6 +853,8 @@ Microsoft Defender for Cloud offers advanced threat protection and automated sec
 ![image](https://github.com/xiongye77/azure/assets/36766101/1d0a8688-38cf-4804-af09-e53e93fa0a00)
 ![image](https://github.com/xiongye77/azure/assets/36766101/5d61a2d1-edac-43d7-bf27-5cd234b1c41f)
 
+![image](https://github.com/xiongye77/azure/assets/36766101/6e85dc36-c934-48f5-bc2b-0768d6d764d8)
+
 
 
 # Azure database and server level firewall 
