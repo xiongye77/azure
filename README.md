@@ -854,6 +854,12 @@ Microsoft Defender for Cloud offers advanced threat protection and automated sec
 ![image](https://github.com/xiongye77/azure/assets/36766101/5d61a2d1-edac-43d7-bf27-5cd234b1c41f)
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/6e85dc36-c934-48f5-bc2b-0768d6d764d8)
+![image](https://github.com/xiongye77/azure/assets/36766101/8b7ff4c9-262f-4a01-80b6-034a3944b24a)
+![image](https://github.com/xiongye77/azure/assets/36766101/14f0faaa-0336-4f66-b585-fceaede4a823)
+![image](https://github.com/xiongye77/azure/assets/36766101/5ba5f9ff-403f-4f51-9f2a-a54115ffb8bf)
+![image](https://github.com/xiongye77/azure/assets/36766101/57420939-3258-4e1f-86e5-24533fe6f7ef)
+![image](https://github.com/xiongye77/azure/assets/36766101/2be3d168-4b2c-4beb-af6c-2e9c417cc6fa)
+![image](https://github.com/xiongye77/azure/assets/36766101/5a59b4fd-6016-4218-871e-0bdc496c3885)
 
 
 
