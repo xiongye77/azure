@@ -1,4 +1,4 @@
-![image](https://github.com/xiongye77/azure/assets/36766101/45dcef18-81e9-4b9a-8570-f965d580547a)# Azure
+# Azure
 
 # Azure AD Custom Domains
 ![image](https://user-images.githubusercontent.com/36766101/224464456-66c7d8e9-ba7a-42bd-837b-5b5d068450bb.png)
@@ -766,6 +766,7 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 # Azure Sentinel
 Microsoft Sentinel is a cloud-native security information and event management (SIEM) platform that uses built-in AI to help analyze large volumes of data across an enterprise—fast.
 Microsoft Sentinel is a cloud-native SIEM (security information and event management) solution with SOAR (security orchestration, automation, and response) capabilities. You can use Microsoft Sentinel to collect, detect, investigate, and respond to security threats across your infrastructure. In this lab, you will deploy Microsoft Sentinel, generate some security alerts, and investigate those alerts.
+![image](https://github.com/xiongye77/azure/assets/36766101/45dcef18-81e9-4b9a-8570-f965d580547a)
 ![image](https://github.com/xiongye77/azure/assets/36766101/02a6b90c-db3c-4779-a94a-8c88f1d0688d)
 ![image](https://github.com/xiongye77/azure/assets/36766101/d8cd06d6-e4ed-4831-90d0-c887793a8128)
 ![image](https://github.com/xiongye77/azure/assets/36766101/e0b057fa-ae41-426e-9178-815a91dd32b9)
