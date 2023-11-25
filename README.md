@@ -87,6 +87,9 @@ Azure Event Grid
 
 
 # Azure API Management
+![image](https://github.com/xiongye77/azure/assets/36766101/09d0f1af-22ed-4df5-ac5f-681cba5ae753)
+![image](https://github.com/xiongye77/azure/assets/36766101/3458fab5-f569-4c56-8097-7672728be870)
+
 
 internal mode
 ![image](https://user-images.githubusercontent.com/36766101/218082600-2cd8f1be-7a53-4d4f-b6c4-9ddae815d4a7.png)
