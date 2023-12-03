@@ -1061,3 +1061,7 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 
 # Azure administrative units
 ![image](https://github.com/xiongye77/azure/assets/36766101/3c6ce562-c879-4aaa-b397-91cfcfd2014c)
+
+# Azure VPN Gateway and Virtual Network Gateway (2023/12/04)
+![image](https://github.com/xiongye77/azure/assets/36766101/e8c95802-d539-4c6f-bc78-18ff44e2cf59)
+
