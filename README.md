@@ -587,6 +587,7 @@ verify following operations use acdev1 to login
 
 # Azure Vnet Peering
 ![image](https://user-images.githubusercontent.com/36766101/222587410-08e3fa61-ea99-4953-b3a9-8a17137f7473.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/e576afaa-972c-43d3-bb32-0bacab9be2f4)
 
 
 # Azure Service Endpoint (AWS VPC endpoints)
