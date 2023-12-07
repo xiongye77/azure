@@ -1064,4 +1064,12 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 
 # Azure VPN Gateway and Virtual Network Gateway (2023/12/04)
 ![image](https://github.com/xiongye77/azure/assets/36766101/e8c95802-d539-4c6f-bc78-18ff44e2cf59)
+![image](https://github.com/xiongye77/azure/assets/36766101/be66ed4d-bd77-45f1-a937-03fcd55067cd)
+![image](https://github.com/xiongye77/azure/assets/36766101/f30449ac-fc96-4f3e-ae8b-50341daac1dd)
 
+# Azure Express Route
+![image](https://github.com/xiongye77/azure/assets/36766101/e3cd0ff5-5162-4c2b-94f6-6a218b29aae7)
+
+# Azure DDOS protection plan and enable it on VNET 
+![image](https://github.com/xiongye77/azure/assets/36766101/cd133455-8456-4578-bd93-a022f558b7bf)
+![image](https://github.com/xiongye77/azure/assets/36766101/fba3de7c-02b5-4b6f-aa13-6141f62e4f62)
