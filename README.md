@@ -506,7 +506,10 @@ A Service Endpoint remains a publicly routable IP address. A Private Endpoint is
 ![image](https://user-images.githubusercontent.com/36766101/219642026-fed64852-baf5-404f-b49a-95f6ee1855f5.png)
 
 # Firewalls in Azure
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/64720c8b-7c44-4344-9bd5-e668a63bbcdd)
+![image](https://github.com/xiongye77/azure/assets/36766101/1c6bd029-afa3-479e-8192-5652031eed01)
+![image](https://github.com/xiongye77/azure/assets/36766101/519fe0a7-2a6f-4942-85c7-5e7bdf6bd56f)
 
 
 # Azure SQL options
