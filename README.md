@@ -209,6 +209,8 @@ Azure Private Link enables customers to access Azure PaaS services and Azure-hos
 ![image](https://user-images.githubusercontent.com/36766101/223056882-12014274-2da1-46ab-a935-2f093b417faa.png)
 ![image](https://user-images.githubusercontent.com/36766101/223075390-e60fa355-aee7-4fd8-b7e5-7c16b45a07ed.png)
 ![image](https://user-images.githubusercontent.com/36766101/223075627-b269ac21-980c-4787-94a5-956f2fb38e50.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/b0b94b6e-f393-4a41-b5bf-79c9bb01417a)
+![image](https://github.com/xiongye77/azure/assets/36766101/cd370dd8-de2b-4087-9547-4faf0dc565c5)
 
 Azure Front Door is a global, highly available, and scalable service offered by Microsoft Azure that routes incoming traffic to your backends.
 It is designed to improve the performance and availability of your web applications and services. It does this by providing a global network of points of presence (POPs) that can be used to route traffic to the closest available backend.
@@ -479,6 +481,8 @@ A service endpoint provides secure and direct connectivity to Azure services usi
 Unlike a service endpoint, a private endpoint is a network interface that uses a private IP address from your virtual network. This will ensure no traffic leaves the virtual network and all the communication is private.
 
 A Service Endpoint remains a publicly routable IP address. A Private Endpoint is a private IP in the address space of the virtual network where the private endpoint is configured. Create Servce Endpoint policy to control access specific resource.
+![image](https://github.com/xiongye77/azure/assets/36766101/8eb34a88-f60a-49eb-8b29-fb37c28229d6)
+
 ![image](https://user-images.githubusercontent.com/36766101/226084733-57f066fa-aac8-4525-bb73-e49d20a8ec9f.png)
 ![image](https://user-images.githubusercontent.com/36766101/226084749-7b068ee8-7e8c-4731-a49b-93ff31a4f494.png)
 ![image](https://user-images.githubusercontent.com/36766101/226084869-6484139a-a044-4ea4-b081-c59e8aad9193.png)
@@ -857,6 +861,7 @@ Azure firewall in hub-spoke network topology
 
 # Azure App Security
 ![image](https://user-images.githubusercontent.com/36766101/226169623-93d64acf-d029-4047-b1eb-e6c2f7850a90.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/177dcdaf-b138-41f1-b1f3-fc194711c67b)
 
 # Azure App Service Environment
 ![image](https://user-images.githubusercontent.com/36766101/226170024-cbf3edc1-f429-4e55-8516-c0634b00bf12.png)
