@@ -633,6 +633,7 @@ verify following operations use acdev1 to login
 # Azure Web application firewall
 ![image](https://user-images.githubusercontent.com/36766101/222658726-3ab193b6-f147-489f-bce9-3f498cac37e5.png)
 ![image](https://user-images.githubusercontent.com/36766101/222658889-73410dbe-8305-421d-97a0-42da63dbbc35.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/8d353141-8dd0-431d-821c-3ad9d052635f)
 
 
 # Azure Firewall Manager
