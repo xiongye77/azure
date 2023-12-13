@@ -76,6 +76,12 @@ Azure two queue solution, storage account queue and service bus queue
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/90093624-9d6a-4d54-82e6-b88df4155c3e)
 ![image](https://github.com/xiongye77/azure/assets/36766101/f3df6c01-54b1-4128-aecd-066284fae7e9)
+![image](https://github.com/xiongye77/azure/assets/36766101/a6fddf9a-1c19-4d98-9560-a05c604f1241)
+![image](https://github.com/xiongye77/azure/assets/36766101/eb14f47f-816f-4a0f-b926-b4d6ebfa336c)
+![image](https://github.com/xiongye77/azure/assets/36766101/34a88b8a-6714-449e-abe9-4768af2f58b8)
+![image](https://github.com/xiongye77/azure/assets/36766101/37eda920-da9b-4163-b118-861ae6c64969)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/b5b1c34e-7269-4a41-9f96-ce0e5aa833ef)
 
 
 # Azure Event Grid
@@ -1089,3 +1095,7 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 # Azure DDOS protection plan and enable it on VNET 
 ![image](https://github.com/xiongye77/azure/assets/36766101/cd133455-8456-4578-bd93-a022f558b7bf)
 ![image](https://github.com/xiongye77/azure/assets/36766101/fba3de7c-02b5-4b6f-aa13-6141f62e4f62)
+
+# Azure data brick
+![image](https://github.com/xiongye77/azure/assets/36766101/d035ec13-b17b-431b-a91d-2ab89b67b54d)
+
