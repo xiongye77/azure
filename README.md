@@ -74,12 +74,17 @@ Azure two queue solution, storage account queue and service bus queue
 ![image](https://github.com/xiongye77/azure/assets/36766101/a869339b-ec5d-452e-839f-53e16ad56d36)
 ![image](https://github.com/xiongye77/azure/assets/36766101/6864467f-0882-4c7a-a89f-e380b6454278)
 
+![image](https://github.com/xiongye77/azure/assets/36766101/90093624-9d6a-4d54-82e6-b88df4155c3e)
+![image](https://github.com/xiongye77/azure/assets/36766101/f3df6c01-54b1-4128-aecd-066284fae7e9)
 
 
 # Azure Event Grid
+![image](https://github.com/xiongye77/azure/assets/36766101/73aa39da-715e-4b5a-8b32-7bf3ac75873c)
+
 ![image](https://user-images.githubusercontent.com/36766101/218061223-b4a84512-26c9-4cb7-8142-e7e35578037c.png)
 ![image](https://user-images.githubusercontent.com/36766101/218061382-bda6f428-3998-4560-b317-1de38974691f.png)
 ![image](https://user-images.githubusercontent.com/36766101/218025269-882324c7-d25e-41de-bc07-29a916ba909e.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/66825cbf-7ac8-4192-a26f-79483ad39c39)
 
 # Azure CDN
 
