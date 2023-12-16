@@ -403,7 +403,9 @@ In all cases, you can use a Service Principal; in the OAuth2 specs, this is call
 
 ![image](https://user-images.githubusercontent.com/36766101/222873637-73530c31-5b07-43ea-9ba3-148e57069bf3.png)
 
-Key vault can be accessed by selected Principle
+Key vault can be accessed by selected Service Principle
+![image](https://github.com/xiongye77/azure/assets/36766101/825becc1-ee3a-407c-aabd-1eeb228c3caa)
+
 ![image](https://user-images.githubusercontent.com/36766101/222934845-d6240fe5-15da-4176-9228-be89f99287e5.png)
 
 # Create a Resource Group
