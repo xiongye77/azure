@@ -5,9 +5,13 @@
 ![image](https://github.com/xiongye77/azure/assets/36766101/460824be-092c-4741-80e1-76ce7592c979)
 ![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)
 ![image](https://github.com/xiongye77/azure/assets/36766101/6a06c193-0d26-49c5-9c58-863b4bd671a6)
+# Change one subscription to another tenant
+![image](https://github.com/xiongye77/azure/assets/36766101/56af1322-d5c3-4af9-a774-192b7acb76b2)
 
 # Azure AD Custom Domains
 ![image](https://user-images.githubusercontent.com/36766101/224464456-66c7d8e9-ba7a-42bd-837b-5b5d068450bb.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/ea64f986-fef5-4d35-a07a-0ec9c1edd411)
+![Uploading image.png…]()
 
 # What is Azure AD Tenant
 An Azure AD tenant provides identity and access management (IAM) capabilities to applications and resources used by your organization. An identity is a directory object that can be authenticated and authorized for access to a resource. Identity objects exist for human identities such as students and teachers, and non-human identities like classroom and student devices, applications, and service principles.
