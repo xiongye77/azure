@@ -1,4 +1,9 @@
-# Azure
+# Azure User Assigned Identity
+![image](https://github.com/xiongye77/azure/assets/36766101/aef0fa45-9dcd-4c86-8923-82d6a0e5259b)
+![image](https://github.com/xiongye77/azure/assets/36766101/420b2368-802e-47ef-8a8a-5a70f7a49511)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/81aef1b6-10ec-40ac-835a-c4010d919a84)
+
 # Azure Entra ID
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
 
