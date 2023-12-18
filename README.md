@@ -1,4 +1,10 @@
 # Azure
+# Azure Entra ID
+![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/460824be-092c-4741-80e1-76ce7592c979)
+![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)
+![image](https://github.com/xiongye77/azure/assets/36766101/6a06c193-0d26-49c5-9c58-863b4bd671a6)
 
 # Azure AD Custom Domains
 ![image](https://user-images.githubusercontent.com/36766101/224464456-66c7d8e9-ba7a-42bd-837b-5b5d068450bb.png)
