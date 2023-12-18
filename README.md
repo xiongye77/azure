@@ -484,6 +484,7 @@ Authorization
 ![image](https://user-images.githubusercontent.com/36766101/222696112-c10b6996-7605-4042-9ab4-821625e4ebe3.png)
 ![image](https://user-images.githubusercontent.com/36766101/222696713-86f5104e-5412-4b1c-8001-9accebe2b668.png)
 
+![image](https://github.com/xiongye77/azure/assets/36766101/a92b2835-157d-4c87-85ca-99803f17567f)
 
 
 # Azure Availability Set
