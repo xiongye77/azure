@@ -11,7 +11,9 @@
 # Azure AD Custom Domains
 ![image](https://user-images.githubusercontent.com/36766101/224464456-66c7d8e9-ba7a-42bd-837b-5b5d068450bb.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/ea64f986-fef5-4d35-a07a-0ec9c1edd411)
-![Uploading image.png…]()
+![image](https://github.com/xiongye77/azure/assets/36766101/eb6e171a-328d-4f60-b54b-3474dee876ec)
+![image](https://github.com/xiongye77/azure/assets/36766101/2cd6f384-a127-4f44-9a59-1abcd3be97f6)
+
 
 # What is Azure AD Tenant
 An Azure AD tenant provides identity and access management (IAM) capabilities to applications and resources used by your organization. An identity is a directory object that can be authenticated and authorized for access to a resource. Identity objects exist for human identities such as students and teachers, and non-human identities like classroom and student devices, applications, and service principles.
@@ -66,8 +68,18 @@ The Azure AD tenant is an identity security boundary that is under the control o
 
 ![image](https://user-images.githubusercontent.com/36766101/217718425-89ee990e-71ac-4084-8c5e-f8c69a98fbc9.png)
 
+![image](https://github.com/xiongye77/azure/assets/36766101/216e6ff7-9b55-4306-a0ac-078ddde203a0)
 
-Azure two queue solution, storage account queue and service bus queue
+# Entra ID User Identities
+![image](https://github.com/xiongye77/azure/assets/36766101/b8af00f3-8930-4358-a3ec-5d011db8a08c)
+
+# Register Application in Entra ID
+![image](https://github.com/xiongye77/azure/assets/36766101/ef21a153-1509-4a80-bb19-072b6cf415ae)
+
+# Azure grant resource group reader access to service principle
+![image](https://github.com/xiongye77/azure/assets/36766101/76fffa4a-aacd-4bbd-938b-af218dd3536c)
+
+# Azure two queue solution, storage account queue and service bus queue
 
 ![image](https://user-images.githubusercontent.com/36766101/218024619-0c2bbbca-ce71-4e3d-b6c6-07021d835ecd.png)
 
