@@ -1,8 +1,3 @@
-# Azure User Assigned Identity
-![image](https://github.com/xiongye77/azure/assets/36766101/aef0fa45-9dcd-4c86-8923-82d6a0e5259b)
-![image](https://github.com/xiongye77/azure/assets/36766101/420b2368-802e-47ef-8a8a-5a70f7a49511)
-
-![image](https://github.com/xiongye77/azure/assets/36766101/81aef1b6-10ec-40ac-835a-c4010d919a84)
 
 # Azure Entra ID
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
@@ -18,6 +13,15 @@
 ![image](https://github.com/xiongye77/azure/assets/36766101/ea64f986-fef5-4d35-a07a-0ec9c1edd411)
 ![image](https://github.com/xiongye77/azure/assets/36766101/eb6e171a-328d-4f60-b54b-3474dee876ec)
 ![image](https://github.com/xiongye77/azure/assets/36766101/2cd6f384-a127-4f44-9a59-1abcd3be97f6)
+
+# Azure User Assigned Identity
+![image](https://github.com/xiongye77/azure/assets/36766101/aef0fa45-9dcd-4c86-8923-82d6a0e5259b)
+![image](https://github.com/xiongye77/azure/assets/36766101/420b2368-802e-47ef-8a8a-5a70f7a49511)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/81aef1b6-10ec-40ac-835a-c4010d919a84)
+
+# Azure Entra ID Groups
+![image](https://github.com/xiongye77/azure/assets/36766101/d68b095c-6551-428f-9b44-04719d08ce78)
 
 
 # What is Azure AD Tenant
@@ -1129,3 +1133,14 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 # Azure data brick
 ![image](https://github.com/xiongye77/azure/assets/36766101/d035ec13-b17b-431b-a91d-2ab89b67b54d)
 
+# Azure file storage (AWS EFS) 2023/12/19
+![image](https://github.com/xiongye77/azure/assets/36766101/8bee49af-e045-4e4a-996a-0a3360298601)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/f01b702f-5c55-4084-9670-84bf18343313)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/edbf4a16-2a23-4176-9384-c07b83816243)
+![image](https://github.com/xiongye77/azure/assets/36766101/be3fde41-5daf-4d1a-90d2-d54572168e8f)
+![image](https://github.com/xiongye77/azure/assets/36766101/b3fd1181-b5fc-44e4-973e-01737a083707)
+![image](https://github.com/xiongye77/azure/assets/36766101/61e3be13-3d14-4e0f-b197-a7ce6b9fca44)
+![image](https://github.com/xiongye77/azure/assets/36766101/87865169-8835-48c1-bda3-99aaa37a7c3d)
+![image](https://github.com/xiongye77/azure/assets/36766101/40d8b763-de04-447b-ba1e-bd09d389fe34)
