@@ -1143,4 +1143,6 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 ![image](https://github.com/xiongye77/azure/assets/36766101/b3fd1181-b5fc-44e4-973e-01737a083707)
 ![image](https://github.com/xiongye77/azure/assets/36766101/61e3be13-3d14-4e0f-b197-a7ce6b9fca44)
 ![image](https://github.com/xiongye77/azure/assets/36766101/87865169-8835-48c1-bda3-99aaa37a7c3d)
+![image](https://github.com/xiongye77/azure/assets/36766101/c0cd27f5-b1ac-425e-904f-7c1b4d65da6f)
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/40d8b763-de04-447b-ba1e-bd09d389fe34)
