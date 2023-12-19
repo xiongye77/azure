@@ -1146,3 +1146,7 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 ![image](https://github.com/xiongye77/azure/assets/36766101/c0cd27f5-b1ac-425e-904f-7c1b4d65da6f)
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/40d8b763-de04-447b-ba1e-bd09d389fe34)
+
+
+# Azure file sync 
+![image](https://github.com/xiongye77/azure/assets/36766101/9924c116-000c-4295-bd66-547f30cfc725)
