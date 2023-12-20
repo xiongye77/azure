@@ -704,8 +704,8 @@ verify following operations use acdev1 to login
 ![image](https://user-images.githubusercontent.com/36766101/226103027-d51bcc50-d128-429c-a84a-d76680945034.png)
 
 # Azure CDN
-![image](https://user-images.github![image](https://user-images.githubusercontent.com/36766101/222873381-7996ed2e-5ed1-4d2b-a439-0355eb3b7971.png)usercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
-
+![image](https://user-images.githubusercontent.com/36766101/222873381-7996ed2e-5ed1-4d2b-a439-0355eb3b7971.png)
+![image](https://user-images.githubusercontent.com/36766101/222704979-4002d836-927f-42d6-9736-c67702f5a558.png)
 
 # Azure Storage Account registered with AD DS   https://blog.51sec.org/2022/03/azure-file-shares-integrating-with.html
 ![image](https://user-images.githubusercontent.com/36766101/222855103-a224715f-7a01-4fbd-a2b5-34e13ff00757.png)
