@@ -1165,3 +1165,23 @@ Azure Blob Storage
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/81873841-70f3-466d-993d-e8537f24e24f)
 ![image](https://github.com/xiongye77/azure/assets/36766101/5c83330f-8eed-42db-8694-251b4a70c4f6)
+
+Resource group Access Control (IAM)
+![image](https://github.com/xiongye77/azure/assets/36766101/f988304c-a8b3-4ab1-a512-2b3080ec479c)
+
+# Azure Storage Redundancy 
+![image](https://github.com/xiongye77/azure/assets/36766101/48b3d56f-4de1-451f-abab-1b301e53b080)
+![image](https://github.com/xiongye77/azure/assets/36766101/81d1f4c9-a2ac-4660-b22b-4fec6d008fb9)
+![image](https://github.com/xiongye77/azure/assets/36766101/ec37ea42-5b5d-4d0b-88cf-496cef163e44)
+![image](https://github.com/xiongye77/azure/assets/36766101/4095d26e-d706-468d-8dba-e7641f37537b)
+![image](https://github.com/xiongye77/azure/assets/36766101/f4706fe4-fb78-4c40-a5b5-be17a0dc0b95)
+![image](https://github.com/xiongye77/azure/assets/36766101/c2fef2d8-3015-425b-90a0-5ab6ba14dc62)
+
+# Azure Secondary Read Access
+![image](https://github.com/xiongye77/azure/assets/36766101/03de018e-ba47-4827-b246-6ab28283dd01)
+
+# Azure Storage Account Failover
+![image](https://github.com/xiongye77/azure/assets/36766101/4a7cf7ae-c772-4bd7-818f-4d08abfa907c)
+
+
+
