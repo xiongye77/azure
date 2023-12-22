@@ -633,6 +633,15 @@ verify following operations use acdev1 to login
 ![image](https://user-images.githubusercontent.com/36766101/222581657-cff44930-4069-4197-966a-5ac936d979a5.png)
 ![image](https://user-images.githubusercontent.com/36766101/231902187-c66e0a0e-ef22-4b64-a851-d0b7464065b7.png)
 ![image](https://user-images.githubusercontent.com/36766101/231902288-478a1a85-7a93-4db1-b6c1-80fd79850b83.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/11c77a38-a23b-4539-8d03-843088648155)
+![image](https://github.com/xiongye77/azure/assets/36766101/26d073ab-9c57-44a9-8f50-531c0d74f0c4)
+![image](https://github.com/xiongye77/azure/assets/36766101/ffb46bc4-85b3-4d09-9b97-9f2707204b17)
+Augmented Security Rules use Application Security Group 
+![image](https://github.com/xiongye77/azure/assets/36766101/b366bac2-8b3e-4408-a956-8f2f834f6b11)
+![image](https://github.com/xiongye77/azure/assets/36766101/bbbdb11c-47be-4e0c-b6a4-b71b72eee60e)
+Service Tag
+![image](https://github.com/xiongye77/azure/assets/36766101/fd679a99-3689-4a87-a27c-64e3512cb3ea)
+
 
 # Azure Virtual Network NAT （Compare to AWS	NAT Gateway）associate with multiple subnets
 ![image](https://user-images.githubusercontent.com/36766101/222584968-25ef7791-f562-4e61-95c9-ec6f59d213b6.png)
@@ -1177,11 +1186,22 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/f4706fe4-fb78-4c40-a5b5-be17a0dc0b95)
 ![image](https://github.com/xiongye77/azure/assets/36766101/c2fef2d8-3015-425b-90a0-5ab6ba14dc62)
 
+# Azure VM Storage performance
+![image](https://github.com/xiongye77/azure/assets/36766101/c2c89473-f0a2-4a9e-9904-a7eaf4c2c033)
+![image](https://github.com/xiongye77/azure/assets/36766101/aa72fcb9-24dc-4767-aedb-4e54d9fbea64)
+![image](https://github.com/xiongye77/azure/assets/36766101/2b917961-7720-452e-bb15-d01a5d0601ab)
+
+
 # Azure Secondary Read Access
 ![image](https://github.com/xiongye77/azure/assets/36766101/03de018e-ba47-4827-b246-6ab28283dd01)
 
 # Azure Storage Account Failover
 ![image](https://github.com/xiongye77/azure/assets/36766101/4a7cf7ae-c772-4bd7-818f-4d08abfa907c)
 
+# Azure Vnet default routes (2023/12/22)
+![image](https://github.com/xiongye77/azure/assets/36766101/b2e00a6f-33b9-4793-a621-1fc60112aa12)
+# Azure NAT Gateway attch to subnets
+![image](https://github.com/xiongye77/azure/assets/36766101/8a50d120-0d05-451a-b12d-c9e76a72b58d)
 
-
+# Azure attach network interface to VM
+![image](https://github.com/xiongye77/azure/assets/36766101/d4379f9a-a81a-4dc0-8205-e4f29136b568)
