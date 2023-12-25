@@ -3,7 +3,7 @@
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/460824be-092c-4741-80e1-76ce7592c979)
-![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)
+![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)fsy
 ![image](https://github.com/xiongye77/azure/assets/36766101/6a06c193-0d26-49c5-9c58-863b4bd671a6)
 # Change one subscription to another tenant
 ![image](https://github.com/xiongye77/azure/assets/36766101/56af1322-d5c3-4af9-a774-192b7acb76b2)
@@ -520,6 +520,10 @@ Azure Vnet peering
 
 Azure Service Endpoint VS  Azure Private Link
 ![image](https://user-images.githubusercontent.com/36766101/219610103-214d6611-c3a9-4fbd-a647-4182235482f8.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/fd196123-9b51-4b2b-a037-afde473d68b8)
+![image](https://github.com/xiongye77/azure/assets/36766101/a3b5cec4-4f67-4018-84cf-f6dee60257ce)
+![image](https://github.com/xiongye77/azure/assets/36766101/8a062ece-e62d-45c0-9375-47a7e11c979f)
+![image](https://github.com/xiongye77/azure/assets/36766101/1e0365ea-6d94-4214-9496-f9b7bc688de7)
 
 A service endpoint provides secure and direct connectivity to Azure services using the Azure backbone network. When you enable a service endpoint for a subnet, it allows private IP addresses in the VNet to communicate or reach that particular resource type using the public IP of a resource.
 
@@ -537,6 +541,13 @@ A Service Endpoint remains a publicly routable IP address. A Private Endpoint is
 ![image](https://user-images.githubusercontent.com/36766101/223276743-5793068b-8208-4ae4-83ac-4cee9a17e675.png)
 ![image](https://user-images.githubusercontent.com/36766101/223276913-d7861077-301d-4676-8c20-96d5ca2017f9.png)
 ![image](https://user-images.githubusercontent.com/36766101/223277076-83202ca9-8452-49c7-bc81-e46db2dfcdc9.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/0a4b350e-07e5-4d51-8c3e-d5949b3ac682)
+![image](https://github.com/xiongye77/azure/assets/36766101/a9f9ed06-c0f4-461e-9140-568831f71a8d)
+![image](https://github.com/xiongye77/azure/assets/36766101/24d953d2-6cb6-4eae-b784-4225865dd086)
+![image](https://github.com/xiongye77/azure/assets/36766101/9dcd0113-94de-48db-a35f-f9c7969deebf)
+![image](https://github.com/xiongye77/azure/assets/36766101/f498d381-e303-44b7-9b00-84a6c0aac162)
+![image](https://github.com/xiongye77/azure/assets/36766101/b82fd8bb-475b-4cd7-b17d-d689491cf33f)
+
 
 # Azure App Service Managed identity
 ![image](https://github.com/xiongye77/azure/assets/36766101/1c71f81e-a0aa-4926-a0fc-cd9ac34d3af3)
@@ -688,10 +699,14 @@ Service Tag
 ![image](https://user-images.githubusercontent.com/36766101/222661827-995acebd-9b49-49b1-afdb-46d45c65c309.png)
 
 
-# Azure Web application firewall
+# Azure web application firewall
 ![image](https://user-images.githubusercontent.com/36766101/222658726-3ab193b6-f147-489f-bce9-3f498cac37e5.png)
 ![image](https://user-images.githubusercontent.com/36766101/222658889-73410dbe-8305-421d-97a0-42da63dbbc35.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/8d353141-8dd0-431d-821c-3ad9d052635f)
+![image](https://github.com/xiongye77/azure/assets/36766101/2d888509-00a9-4401-92ca-04440a90cc41)
+![image](https://github.com/xiongye77/azure/assets/36766101/59e8369e-9bf3-41d2-a951-9f622378aed5)
+![image](https://github.com/xiongye77/azure/assets/36766101/753841ef-fc8b-4053-95de-d7860f64baec)
+
 
 
 # Azure Firewall Manager
@@ -737,6 +752,7 @@ Both the object store model (such as Azure blob storage) and the hierarchical fi
 
 ![image](https://user-images.githubusercontent.com/36766101/222870407-934283bd-4324-49f8-a53c-abff5acc9b76.png)
 ![image](https://user-images.githubusercontent.com/36766101/222870426-766507ad-3f24-4aea-aebc-ee7e95db3725.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/1f80fa05-b6ab-4d47-b6d6-11935792f7f5)
 
 
 
@@ -1143,8 +1159,9 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 ![image](https://github.com/xiongye77/azure/assets/36766101/cd133455-8456-4578-bd93-a022f558b7bf)
 ![image](https://github.com/xiongye77/azure/assets/36766101/fba3de7c-02b5-4b6f-aa13-6141f62e4f62)
 
-# Azure data brick
+# Azure data brick (2023/12/25)
 ![image](https://github.com/xiongye77/azure/assets/36766101/d035ec13-b17b-431b-a91d-2ab89b67b54d)
+![image](https://github.com/xiongye77/azure/assets/36766101/7ac4269e-fa6c-4f08-9a43-0381ec354e2a)
 
 # Azure file storage (AWS EFS) 2023/12/19
 ![image](https://github.com/xiongye77/azure/assets/36766101/8bee49af-e045-4e4a-996a-0a3360298601)
@@ -1209,3 +1226,9 @@ Resource group Access Control (IAM)
 
 # Azure attach network interface to VM
 ![image](https://github.com/xiongye77/azure/assets/36766101/d4379f9a-a81a-4dc0-8205-e4f29136b568)
+
+# Azure Data Factory
+![image](https://github.com/xiongye77/azure/assets/36766101/3dc00ab8-414c-4cfd-99f0-f5e7e8fd147b)
+![image](https://github.com/xiongye77/azure/assets/36766101/9148cd41-0eb8-4dda-973a-503e32144176)
+![image](https://github.com/xiongye77/azure/assets/36766101/5c31b0c7-0e12-4a2f-b758-27810eb65b0f)
+
