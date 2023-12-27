@@ -1091,6 +1091,14 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 ![image](https://github.com/xiongye77/azure/assets/36766101/5ba5a3f8-f65f-4df3-8a33-df20f5ffae92)
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/011d6e9b-ec20-4f58-bbe5-4e1f45d71534)
+![image](https://github.com/xiongye77/azure/assets/36766101/7ce0e45f-18e4-4fbe-95bb-148e1d2e4ce4)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/d3c834b3-4dfa-486f-bd6f-e21bca9703c9)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/357dd5a9-8035-4b62-8ce5-749be6a2f4d2)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/dbf0d1c6-b5f4-4d04-bb6c-4e4720dac491)
+![image](https://github.com/xiongye77/azure/assets/36766101/808d0014-9670-47d5-bf70-89b484dbc843)
 
 # Azure SQL Add AD user 
 ![image](https://github.com/xiongye77/azure/assets/36766101/ad78dd67-7a35-484e-b1ca-590c028f643d)
