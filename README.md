@@ -282,6 +282,8 @@ It provides the tools you need to scale both global distribution pattern and com
 ![image](https://github.com/xiongye77/azure/assets/36766101/6298449b-1e46-4b24-91c9-74851eaa7b9e)
 ![image](https://github.com/xiongye77/azure/assets/36766101/314658ac-08fd-4d99-9e0b-ed777aa5ecdb)
 ![image](https://github.com/xiongye77/azure/assets/36766101/d73c313c-d92e-4510-ae21-75bc94eabadf)
+![image](https://github.com/xiongye77/azure/assets/36766101/339c96e8-f2a6-45e8-94f9-e561af691254)
+![image](https://github.com/xiongye77/azure/assets/36766101/2008bbcc-7545-4acd-826d-6969ba5e2c10)
 
 
 # Azure Monitor
