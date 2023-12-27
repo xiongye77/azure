@@ -855,6 +855,21 @@ Geo Replication is used for only Azure SQL Database but Failover groups is appli
 ![image](https://user-images.githubusercontent.com/36766101/222903391-a71352aa-c265-46b7-960f-406d72795a0e.png)
 ![image](https://user-images.githubusercontent.com/36766101/222903537-c531155b-7ba2-43e9-ad5b-e55bacb1bbf0.png)
 
+# Monitor Storage for Security Events with Azure Monitor
+The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes log and performance data from monitored resources. In this lab, you will enable diagnostic settings on a storage account to send Blob storage logs to a Log Analytics workspace. You will also use Azure Monitor Logs to query for anonymous access to blobs and create an Azure Monitor alert to notify you when anonymous access to a storage account is logged.
+Solution
+![image](https://github.com/xiongye77/azure/assets/36766101/601a4ae0-bbdc-4823-8098-465910a91382)
+![image](https://github.com/xiongye77/azure/assets/36766101/b4718867-3009-4bce-b028-4c8bdb968598)
+![image](https://github.com/xiongye77/azure/assets/36766101/42ba1659-714d-4b3c-8aab-ca9d0cda166a)
+![image](https://github.com/xiongye77/azure/assets/36766101/5f831d73-a46f-4742-9c68-ac44e362e05f)
+![image](https://github.com/xiongye77/azure/assets/36766101/57f5f921-9d80-4099-a133-c8992be94188)
+![image](https://github.com/xiongye77/azure/assets/36766101/ba29d612-c7ed-4cfd-b8fb-f3ecb2c6a225)
+![image](https://github.com/xiongye77/azure/assets/36766101/2b7253c7-2170-4c2a-8bfe-51cfbfe052af)
+![image](https://github.com/xiongye77/azure/assets/36766101/b837e55c-37ba-4b3a-8b6e-6cf59406cf5d)
+
+
+
+
 
 # Azure Function
 ![image](https://user-images.githubusercontent.com/36766101/222945000-f3d430ba-db67-43ac-92e0-5c449dc9f591.png)
