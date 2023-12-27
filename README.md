@@ -403,9 +403,16 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ![image](https://user-images.githubusercontent.com/36766101/226149837-f66f3385-5df7-4ba4-8f5f-ea73d89ad65c.png)
 ![image](https://user-images.githubusercontent.com/36766101/226149962-430a91aa-4a44-4208-b13e-5966332b902a.png)
 
-# Azure Always Encrypted and Dynamic Mask
+# Azure SQL Always Encrypted and Dynamic Mask
+![image](https://github.com/xiongye77/azure/assets/36766101/7cc186de-c16a-4b08-8db5-01daf532cab4)
+![image](https://github.com/xiongye77/azure/assets/36766101/43bb46f7-5d7b-41ac-bf21-535cb614d27d)
+![image](https://github.com/xiongye77/azure/assets/36766101/018de68c-68c6-4988-9404-8c3b684beadf)
+![image](https://github.com/xiongye77/azure/assets/36766101/29dc4637-d124-4837-934b-1350fa94836b)
+
 ![image](https://user-images.githubusercontent.com/36766101/222878676-b6c597a4-a17a-4518-a854-df9b19422fc5.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878791-c345557d-e35d-4856-bb48-8cdd7b78eca4.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/3548c207-0217-45ab-9033-d2d74ea7af34)
+![image](https://github.com/xiongye77/azure/assets/36766101/f39326f1-1cf9-4594-a516-6771a33b5d93)
 
 # Azure VM endpoint protection
 ![image](https://user-images.githubusercontent.com/36766101/226147539-c522e38e-9afc-4ee9-b598-378d82e232b8.png)
