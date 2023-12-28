@@ -1284,3 +1284,10 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/9148cd41-0eb8-4dda-973a-503e32144176)
 ![image](https://github.com/xiongye77/azure/assets/36766101/5c31b0c7-0e12-4a2f-b758-27810eb65b0f)
 
+
+# Azure Web App
+![image](https://github.com/xiongye77/azure/assets/36766101/d72dbc81-e853-49a1-b891-b95ed0684bfb)
+![image](https://github.com/xiongye77/azure/assets/36766101/060ab23d-9f1a-4ea7-bd9f-03dfb8229cc0)
+![image](https://github.com/xiongye77/azure/assets/36766101/15aea27c-b4a0-4dac-b661-9559b3ae4f13)
+
+
