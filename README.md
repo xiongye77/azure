@@ -341,6 +341,12 @@ Configure Log Analytics for a Virtual Machine
 
 Azure Monitor Agent (AMA) replaces the Log Analytics agent (also known as MMA and OMS) for both Windows and Linux machines, in both Azure and non-Azure (on-premises and third-party clouds) environments. It introduces a simplified, flexible method of configuring collection configuration called data collection rules (DCRs). This article outlines the benefits of migrating to Azure Monitor Agent and provides guidance on how to implement a successful migration.
 
+# Azure Monitor Data Collection Rule
+![image](https://github.com/xiongye77/azure/assets/36766101/a4e823ea-741d-46f4-978a-860b4ef29eb1)
+![image](https://github.com/xiongye77/azure/assets/36766101/744a9d87-4cbf-4407-8814-db408f502cc5)
+![image](https://github.com/xiongye77/azure/assets/36766101/03333ea5-4447-41b4-a70a-9ceb946b0720)
+![image](https://github.com/xiongye77/azure/assets/36766101/75fbd95a-c074-4939-908e-f7ed4bd8c1e0)
+![image](https://github.com/xiongye77/azure/assets/36766101/e189fe01-9412-4c06-ab9b-4bfde44c1acf)
 
 
 # Azure Virtual Network NAT
