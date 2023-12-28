@@ -894,6 +894,8 @@ Solution
 ![image](https://github.com/xiongye77/azure/assets/36766101/83f008e5-dc57-4a44-8434-88ba63105ef2)
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/b3090557-8778-4e62-9be2-6b9029c4b7e7)
+![image](https://github.com/xiongye77/azure/assets/36766101/689e5b9e-f9bc-4b61-8d5a-4d34ca86828e)
+![image](https://github.com/xiongye77/azure/assets/36766101/22dafda8-6dc8-4f47-9cc6-7650662b6b09)
 
 
 # Azure Sentinel
