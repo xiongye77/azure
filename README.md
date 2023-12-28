@@ -536,11 +536,21 @@ Azure Vnet peering
 
 # Azure Network Watcher/Topology
 ![image](https://user-images.githubusercontent.com/36766101/219602753-f3132e86-89a4-4573-92ba-18b0c1a52425.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/fd2500eb-8a66-4358-898b-1c7e7caea875)
+![image](https://github.com/xiongye77/azure/assets/36766101/072b7e78-2262-4ea5-8207-023050cc86e6)
+![image](https://github.com/xiongye77/azure/assets/36766101/2b56f3f7-8d43-48ce-921e-0f6893a410e3)
+
 
 # Azure Network Watcher/Connection Monitor
 ![image](https://user-images.githubusercontent.com/36766101/219603123-1ef950fa-5c74-451e-b2e3-7675d94515c3.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/349073fb-d5c1-43e9-aafc-9c8b153b6af6)
+![image](https://github.com/xiongye77/azure/assets/36766101/60685d03-0299-48ab-b90e-9f8e9a50ec41)
+![image](https://github.com/xiongye77/azure/assets/36766101/b6870404-5cd5-4226-afd8-0c7e4e0b1d59)
+![image](https://github.com/xiongye77/azure/assets/36766101/c0e6f843-0e84-4add-8c37-a64181d14826)
+![image](https://github.com/xiongye77/azure/assets/36766101/66a4f5b7-d5e6-46ee-9342-cdf99160bbcd)
 
-Azure Service Endpoint VS  Azure Private Link
+
+# Azure Service Endpoint VS  Azure Private Link
 ![image](https://user-images.githubusercontent.com/36766101/219610103-214d6611-c3a9-4fbd-a647-4182235482f8.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/fd196123-9b51-4b2b-a037-afde473d68b8)
 ![image](https://github.com/xiongye77/azure/assets/36766101/a3b5cec4-4f67-4018-84cf-f6dee60257ce)
@@ -1289,5 +1299,16 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/d72dbc81-e853-49a1-b891-b95ed0684bfb)
 ![image](https://github.com/xiongye77/azure/assets/36766101/060ab23d-9f1a-4ea7-bd9f-03dfb8229cc0)
 ![image](https://github.com/xiongye77/azure/assets/36766101/15aea27c-b4a0-4dac-b661-9559b3ae4f13)
+
+# Azure Container Registry
+![image](https://github.com/xiongye77/azure/assets/36766101/af977cb5-ac9c-48cd-8370-b6c28d165b96)
+
+
+
+# Azure Devops (2023/12/29)
+![image](https://github.com/xiongye77/azure/assets/36766101/b2b40bfe-c511-421a-88d8-1840b949113c)
+![image](https://github.com/xiongye77/azure/assets/36766101/30cdf206-df72-4b78-ba09-8dfe130c7780)
+![image](https://github.com/xiongye77/azure/assets/36766101/c2f9a1e7-fcc2-40bd-ad6d-ab57a8ff2a3e)
+![image](https://github.com/xiongye77/azure/assets/36766101/ac5e85e3-53be-4bbc-b907-bab2bed8b74f)
 
 
