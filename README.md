@@ -1323,4 +1323,15 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/34c1e298-a145-497d-9e9a-a135d2f24069)
 ![image](https://github.com/xiongye77/azure/assets/36766101/f5e43306-b103-4bbe-8040-25df9d8132de)
 
+# Use Kubernetes Secret to pull private Docker Images from DockerHub/ACR
+![image](https://github.com/xiongye77/azure/assets/36766101/cc2e78ca-b830-4ce3-9385-1993126ce273)
+![image](https://github.com/xiongye77/azure/assets/36766101/37ecdfe5-51df-493c-bbfe-1e1c9187372c)
+kubectl create secret docker-registry my-registry-secret \
+— docker-username=DOCKER_USER \
+— docker-password=DOCKER_PASSWORD \
+— docker-email=DOCKER_EMAIL
+![image](https://github.com/xiongye77/azure/assets/36766101/11647232-313d-49d0-9a5b-7b09fbde0834)
+
+
+
 
