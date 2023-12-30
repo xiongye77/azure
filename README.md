@@ -1322,6 +1322,7 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/6ce74320-2a68-4ecd-b5c5-060e0421dbe8)
 ![image](https://github.com/xiongye77/azure/assets/36766101/34c1e298-a145-497d-9e9a-a135d2f24069)
 ![image](https://github.com/xiongye77/azure/assets/36766101/f5e43306-b103-4bbe-8040-25df9d8132de)
+![image](https://github.com/xiongye77/azure/assets/36766101/091fe65f-7bc5-4bbe-9962-88d1709ce93b)
 
 # Use Kubernetes Secret to pull private Docker Images from DockerHub/ACR
 ![image](https://github.com/xiongye77/azure/assets/36766101/cc2e78ca-b830-4ce3-9385-1993126ce273)
