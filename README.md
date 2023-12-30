@@ -1327,6 +1327,12 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/9283a252-3a2b-4501-bfb5-edb9d0210824)
 ![image](https://github.com/xiongye77/azure/assets/36766101/b05b9fa0-132e-4b6b-88c6-cc7634889983)
 ![image](https://github.com/xiongye77/azure/assets/36766101/89313400-db80-493f-b428-b063c518acfb)
+![image](https://github.com/xiongye77/azure/assets/36766101/52451624-95e0-4140-8b5d-50c15ca519ce)
+![image](https://github.com/xiongye77/azure/assets/36766101/c5ccb608-fc03-4cac-9b44-b95095f24222)
+![image](https://github.com/xiongye77/azure/assets/36766101/f24dbaee-874e-4a92-a548-6a85de0c2a2f)
+![image](https://github.com/xiongye77/azure/assets/36766101/7eb986f8-600d-44ed-bf2e-5898ed8370ef)
+![image](https://github.com/xiongye77/azure/assets/36766101/6dce457e-6c0f-4721-88d7-11cd2099f7f4)
+![image](https://github.com/xiongye77/azure/assets/36766101/d40306d3-46b3-4076-a84e-3d85c3bf00f0)
 
 # Use Kubernetes Secret to pull private Docker Images from DockerHub/ACR
 ![image](https://github.com/xiongye77/azure/assets/36766101/cc2e78ca-b830-4ce3-9385-1993126ce273)
