@@ -1306,6 +1306,9 @@ Resource group Access Control (IAM)
 
 
 # Azure Devops (2023/12/29)
+![image](https://github.com/xiongye77/azure/assets/36766101/1e6a065e-3985-4242-8407-91a62ef8981a)
+![image](https://github.com/xiongye77/azure/assets/36766101/943ee5da-759f-4a89-92e4-d1d9d8d28623)
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/b2b40bfe-c511-421a-88d8-1840b949113c)
 ![image](https://github.com/xiongye77/azure/assets/36766101/30cdf206-df72-4b78-ba09-8dfe130c7780)
 ![image](https://github.com/xiongye77/azure/assets/36766101/c2f9a1e7-fcc2-40bd-ad6d-ab57a8ff2a3e)
