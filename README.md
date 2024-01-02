@@ -378,6 +378,7 @@ CDN origin is storage account
 ![image](https://user-images.githubusercontent.com/36766101/222857649-a26def25-12db-4783-b396-ce3fb4da95ab.png)
 ![image](https://user-images.githubusercontent.com/36766101/222876563-d4917e08-0266-41c0-9f4c-5d13b57721f7.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/4823daa0-2326-4f60-b38a-11d819ba1030)
+![image](https://github.com/xiongye77/azure/assets/36766101/6167138e-dc9d-4eeb-9ff2-19d7e53b00b0)
 
 Purchase Models
 ![image](https://user-images.githubusercontent.com/36766101/222857979-eb6c80e3-5643-4ac7-ae06-f7fdc3464b5c.png)
