@@ -272,6 +272,9 @@ Azure Cosmos DB is a fully managed NoSQL and relational database for modern app 
 Azure Cosmos DB offers single-digit millisecond response times, automatic and instant scalability, along with guarantee speed at any scale. 
 Cosmos DB is a database service that is globally distributed. It allows you to manage your data even if you keep them in data centers that are scattered throughout the world. 
 It provides the tools you need to scale both global distribution pattern and computational resources, and these tools are provided by Microsoft Azure.
+![image](https://github.com/xiongye77/azure/assets/36766101/e250f7fd-4b44-4763-8215-dc8e350f00d8)
+
+
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/4167bc33-8de2-4bee-85c5-9183ab07ffe4)
 
