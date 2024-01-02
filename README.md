@@ -373,9 +373,11 @@ CDN origin is storage account
 # Azure SQL Server
 ![image](https://github.com/xiongye77/azure/assets/36766101/8002cb0b-e0f2-46be-b2f1-ba15bee2e3cf)
 ![image](https://github.com/xiongye77/azure/assets/36766101/b713c182-d26b-4e54-872f-3df09f895a93)
+![image](https://github.com/xiongye77/azure/assets/36766101/232a44d2-22cd-40b3-8941-6a69cb13bb4d)
 
 ![image](https://user-images.githubusercontent.com/36766101/222857649-a26def25-12db-4783-b396-ce3fb4da95ab.png)
 ![image](https://user-images.githubusercontent.com/36766101/222876563-d4917e08-0266-41c0-9f4c-5d13b57721f7.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/4823daa0-2326-4f60-b38a-11d819ba1030)
 
 Purchase Models
 ![image](https://user-images.githubusercontent.com/36766101/222857979-eb6c80e3-5643-4ac7-ae06-f7fdc3464b5c.png)
@@ -384,6 +386,9 @@ Purchase Models
 Service Tiers
 ![image](https://user-images.githubusercontent.com/36766101/222858078-de17812a-714d-4b9a-a3a7-e3699b0c8668.png)
 ![image](https://user-images.githubusercontent.com/36766101/218712534-7ac6623b-9dc8-4648-880e-66eff2a4527f.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/5c703306-ae4a-478f-9acc-bcd689027907)
+![image](https://github.com/xiongye77/azure/assets/36766101/9e00bcfe-99c6-4e2a-ba24-be208f25d476)
+
 root@linuxvm:~# dig  sqlservererty.database.windows.net
 
 ; <<>> DiG 9.16.1-Ubuntu <<>> sqlservererty.database.windows.net
