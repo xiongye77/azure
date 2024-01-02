@@ -371,6 +371,9 @@ CDN origin is storage account
 
 
 # Azure SQL Server
+![image](https://github.com/xiongye77/azure/assets/36766101/8002cb0b-e0f2-46be-b2f1-ba15bee2e3cf)
+![image](https://github.com/xiongye77/azure/assets/36766101/b713c182-d26b-4e54-872f-3df09f895a93)
+
 ![image](https://user-images.githubusercontent.com/36766101/222857649-a26def25-12db-4783-b396-ce3fb4da95ab.png)
 ![image](https://user-images.githubusercontent.com/36766101/222876563-d4917e08-0266-41c0-9f4c-5d13b57721f7.png)
 
