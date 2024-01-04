@@ -1377,3 +1377,4 @@ kubectl create secret docker-registry my-registry-secret \
 ![image](https://github.com/xiongye77/azure/assets/36766101/7f5272ad-51b9-42c8-be11-be52ccd5bcb2)
 ![image](https://github.com/xiongye77/azure/assets/36766101/aae8f050-4ea1-46dc-afd2-174ff25a5f1b)
 ![image](https://github.com/xiongye77/azure/assets/36766101/26133af0-8f2c-4f98-a290-01f7b19a9d7c)
+![image](https://github.com/xiongye77/azure/assets/36766101/c53e7a87-667f-45e0-9771-547faf31d0e6)
