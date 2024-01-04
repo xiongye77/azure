@@ -1369,3 +1369,11 @@ kubectl create secret docker-registry my-registry-secret \
 ![image](https://github.com/xiongye77/azure/assets/36766101/8d416b66-8fb9-42fd-998e-b2941869dbf4)
 ![image](https://github.com/xiongye77/azure/assets/36766101/f6cb6579-752e-47f8-8bd5-e3e301b14674)
 ![image](https://github.com/xiongye77/azure/assets/36766101/64a8504a-4917-4427-b414-e66edbca3fa9)
+
+
+# Azure SQL Server （Restore from File and Maintenance Plan Tasks）
+![image](https://github.com/xiongye77/azure/assets/36766101/1c1ae6c7-96b3-4d18-93b4-5c1967bf7eee)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/7f5272ad-51b9-42c8-be11-be52ccd5bcb2)
+![image](https://github.com/xiongye77/azure/assets/36766101/aae8f050-4ea1-46dc-afd2-174ff25a5f1b)
+![image](https://github.com/xiongye77/azure/assets/36766101/26133af0-8f2c-4f98-a290-01f7b19a9d7c)
