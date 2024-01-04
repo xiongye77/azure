@@ -416,6 +416,11 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 
 ![image](https://user-images.githubusercontent.com/36766101/222950420-2013bba6-40e4-4cdf-ae2e-1f4a21c55734.png)
 
+# SQL Server Continuity Solutions
+
+![image](https://github.com/xiongye77/azure/assets/36766101/64864a5e-f633-46c7-8f42-2fa9861c7180)
+
+
 # Azure Transparent Data Encryption
 ![image](https://user-images.githubusercontent.com/36766101/222878368-fa26ff4f-b7d9-4315-88c0-4fa8d22eada2.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878403-8d2129da-18e1-4e3c-a72d-5d646f38dde4.png)
@@ -1359,3 +1364,8 @@ kubectl create secret docker-registry my-registry-secret \
 
 
 
+# Azure Automation Account 
+![image](https://github.com/xiongye77/azure/assets/36766101/b2207822-6a7a-4158-aa8f-9cca0a1f94c6)
+![image](https://github.com/xiongye77/azure/assets/36766101/8d416b66-8fb9-42fd-998e-b2941869dbf4)
+![image](https://github.com/xiongye77/azure/assets/36766101/f6cb6579-752e-47f8-8bd5-e3e301b14674)
+![image](https://github.com/xiongye77/azure/assets/36766101/64a8504a-4917-4427-b414-e66edbca3fa9)
