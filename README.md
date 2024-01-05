@@ -1388,3 +1388,7 @@ kubectl create secret docker-registry my-registry-secret \
 
 If Database does not support managed identity , use Web App to access key vault which stored database username/password through managed identity 
 
+# Azure Web App log and App Insight
+![image](https://github.com/xiongye77/azure/assets/36766101/9e8b1741-f01a-4a0a-b51e-582de6eb8264)
+![image](https://github.com/xiongye77/azure/assets/36766101/e29995e9-eafa-44ad-b701-37b447b17c07)
+![image](https://github.com/xiongye77/azure/assets/36766101/156deefa-521e-4248-81af-e59081d59c2e)
