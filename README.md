@@ -1381,3 +1381,10 @@ kubectl create secret docker-registry my-registry-secret \
 ![image](https://github.com/xiongye77/azure/assets/36766101/aae8f050-4ea1-46dc-afd2-174ff25a5f1b)
 ![image](https://github.com/xiongye77/azure/assets/36766101/26133af0-8f2c-4f98-a290-01f7b19a9d7c)
 ![image](https://github.com/xiongye77/azure/assets/36766101/c53e7a87-667f-45e0-9771-547faf31d0e6)
+
+# Azure Web App use managed identity to access SQL Server without embed username/password 
+![image](https://github.com/xiongye77/azure/assets/36766101/0a2b7c82-4c2c-4a09-a982-3bc5158d6ba9)
+![image](https://github.com/xiongye77/azure/assets/36766101/f57187d8-58d4-4494-b46e-884c6aae15c8)
+
+If Database does not support managed identity , use Web App to access key vault which stored database username/password through managed identity 
+
