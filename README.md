@@ -740,6 +740,7 @@ Service Tag
 ![image](https://user-images.githubusercontent.com/36766101/222605080-772b48da-14b7-4eaa-a81e-bc0799820bb8.png)
 ![image](https://github.com/xiongye77/azure/assets/36766101/3d84d885-a96e-4ecf-bc1f-e62588b4db59)
 ![image](https://github.com/xiongye77/azure/assets/36766101/7be39432-c2b7-4f75-a4b8-b11a884ba32f)
+![image](https://github.com/xiongye77/azure/assets/36766101/ca390389-f0ca-4fb5-977d-f707831580c0)
 
 # Azure Traffic Manager
 ![image](https://user-images.githubusercontent.com/36766101/222617384-c19cf4d2-21d6-4b22-8e3b-9cadbe0c17b6.png)
