@@ -1223,6 +1223,16 @@ If your organization has many Azure subscriptions, you may need a way to efficie
 # Azure Resource Tag
 ![image](https://github.com/xiongye77/azure/assets/36766101/16cbc6aa-3ad7-460b-8a8b-1fbf95dc166e)
 ![image](https://github.com/xiongye77/azure/assets/36766101/74796312-48a0-493f-b80d-56dc6e262a13)
+![image](https://github.com/xiongye77/azure/assets/36766101/d1e44512-9613-4f3e-b2ff-f3a8618bac7a)
+![image](https://github.com/xiongye77/azure/assets/36766101/8f47eb20-beaf-45bc-ad39-959ace13cc96)
+
+Get tags: Get-AzTag
+Get tags with name: Get-AzTag -Name "department"
+Get resources with tags: Get-AzResources -TagName is-temporary -TagValue True
+
+# Azure Resource Lock
+![image](https://github.com/xiongye77/azure/assets/36766101/a01aa4a7-98eb-456b-af19-6aaf29b21b26)
+![image](https://github.com/xiongye77/azure/assets/36766101/cec12b5c-e9ab-4d70-b326-b9ac94ce4d6a)
 
 # Azure advisor (2023/11/12)
 ![image](https://github.com/xiongye77/azure/assets/36766101/a34626f9-c90f-4586-a58c-d9a219c24a70)
