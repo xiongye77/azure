@@ -1356,6 +1356,18 @@ Resource group Access Control (IAM)
 ![image](https://github.com/xiongye77/azure/assets/36766101/6dce457e-6c0f-4721-88d7-11cd2099f7f4)
 ![image](https://github.com/xiongye77/azure/assets/36766101/d40306d3-46b3-4076-a84e-3d85c3bf00f0)
 
+# Azure Devops pipeline 
+Create release pipeline to deploy 
+![image](https://github.com/xiongye77/azure/assets/36766101/e1af2310-06d3-406e-a9f8-84aa77a181ad)
+
+![image](https://github.com/xiongye77/azure/assets/36766101/476e5c1d-551e-4ce6-9bcb-b2e11fce2efe)
+![image](https://github.com/xiongye77/azure/assets/36766101/a9726d43-95b4-44ee-bf7f-51337dcc01ff)
+![image](https://github.com/xiongye77/azure/assets/36766101/197ee10a-0e26-46cc-8196-8496fee70e38)
+![image](https://github.com/xiongye77/azure/assets/36766101/2ebef868-f523-4a0a-b029-caf828e58c03)
+![image](https://github.com/xiongye77/azure/assets/36766101/da67c893-ef38-4415-9b1b-cdf0d3466cf5)
+
+
+
 # Use Kubernetes Secret to pull private Docker Images from DockerHub/ACR
 ![image](https://github.com/xiongye77/azure/assets/36766101/cc2e78ca-b830-4ce3-9385-1993126ce273)
 ![image](https://github.com/xiongye77/azure/assets/36766101/37ecdfe5-51df-493c-bbfe-1e1c9187372c)
