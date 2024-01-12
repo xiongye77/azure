@@ -1214,9 +1214,15 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 
 
 # Azure management group 
+![image](https://github.com/xiongye77/azure/assets/36766101/badb1e2b-b6f2-42d2-9852-73ef36ce0890)
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/f1dfb6c7-d5ef-4eaa-9f9b-715d4ae22586)
 
 If your organization has many Azure subscriptions, you may need a way to efficiently manage access, policies, and compliance for those subscriptions. Management groups provide a governance scope above subscriptions. You organize subscriptions into management groups; the governance conditions you apply cascade by inheritance to all associated subscriptions.
+
+# Azure Resource Tag
+![image](https://github.com/xiongye77/azure/assets/36766101/16cbc6aa-3ad7-460b-8a8b-1fbf95dc166e)
+![image](https://github.com/xiongye77/azure/assets/36766101/74796312-48a0-493f-b80d-56dc6e262a13)
 
 # Azure advisor (2023/11/12)
 ![image](https://github.com/xiongye77/azure/assets/36766101/a34626f9-c90f-4586-a58c-d9a219c24a70)
