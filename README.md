@@ -1365,6 +1365,10 @@ Create release pipeline to deploy
 ![image](https://github.com/xiongye77/azure/assets/36766101/197ee10a-0e26-46cc-8196-8496fee70e38)
 ![image](https://github.com/xiongye77/azure/assets/36766101/2ebef868-f523-4a0a-b029-caf828e58c03)
 ![image](https://github.com/xiongye77/azure/assets/36766101/da67c893-ef38-4415-9b1b-cdf0d3466cf5)
+![image](https://github.com/xiongye77/azure/assets/36766101/6dfc4de8-f4f4-45df-8dec-ff7c9d7d23d0)
+![image](https://github.com/xiongye77/azure/assets/36766101/5a1eb2c8-afc4-4308-9a03-c08744dc8ee2)
+![image](https://github.com/xiongye77/azure/assets/36766101/70a47556-c0bc-4fc3-9a85-cdc3c81e1c69)
+![image](https://github.com/xiongye77/azure/assets/36766101/93f5399b-0c37-4787-ab24-a7c1b7ded6f7)
 
 
 
