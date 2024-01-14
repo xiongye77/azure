@@ -623,6 +623,12 @@ A Service Endpoint remains a publicly routable IP address. A Private Endpoint is
 ![image](https://github.com/xiongye77/azure/assets/36766101/64720c8b-7c44-4344-9bd5-e668a63bbcdd)
 ![image](https://github.com/xiongye77/azure/assets/36766101/1c6bd029-afa3-479e-8192-5652031eed01)
 ![image](https://github.com/xiongye77/azure/assets/36766101/519fe0a7-2a6f-4942-85c7-5e7bdf6bd56f)
+![image](https://github.com/xiongye77/azure/assets/36766101/cd6e2aef-89c4-4762-885a-d6d458bf050c)
+![image](https://github.com/xiongye77/azure/assets/36766101/480ed920-361f-4ac6-b110-29e65be9cd03)
+![image](https://github.com/xiongye77/azure/assets/36766101/a39c0762-3454-443d-9ea2-13d3845639a3)
+
+# Azure NSG association with network interface or subnet
+![image](https://github.com/xiongye77/azure/assets/36766101/1e27f7a4-8b78-4cf5-872a-a6368e74d4f3)
 
 
 # Azure SQL options
