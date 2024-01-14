@@ -179,7 +179,8 @@ Azure Blobs - Overview of operational backup for Azure Blobs
 
 # Azure virtual network
 ![image](https://user-images.githubusercontent.com/36766101/218245613-2551e44e-ee30-4203-8a30-6078e20460a3.png)
-Virtual Network NAT is a fully managed and highly resilient Network Address Translation (NAT) service. Virtual Network NAT simplifies outbound Internet connectivity for virtual networks. When configured on a subnet, all outbound connectivity uses the Virtual Network NAT's static public IP addresses.
+A NAT gateway can be attached to multiple subnets within a virtual network to provide outbound connectivity to the internet. When a NAT gateway is attached to a subnet, it assumes the default route to the internet. The NAT gateway will then be the next hop type for all outbound traffic destined to the internet.
+Virtual Network NAT gateway is a fully managed and highly resilient Network Address Translation (NAT) service. Virtual Network NAT gateway simplifies outbound Internet connectivity for virtual networks. When configured on a subnet, all outbound connectivity uses the Virtual Network NAT gayeway's static public IP addresses.
 
 
 # Azure network best practice
@@ -775,7 +776,11 @@ Service Tag
 ![image](https://user-images.githubusercontent.com/36766101/222872835-80a7b790-ada8-4f25-a0f4-8dd144a60b55.png)
 
 # Azure Bastion Host
+Azure Bastion is a fully managed PaaS service that you provision to securely connect to virtual machines via private IP address. It provides secure and seamless RDP/SSH connectivity to your virtual machines directly over TLS from the Azure portal, or via the native SSH or RDP client already installed on your local computer. When you connect via Azure Bastion, your virtual machines don't need a public IP address, agent, or special client software.
+Bastion provides secure RDP and SSH connectivity to all of the VMs in the virtual network for which it's provisioned. Using Azure Bastion protects your virtual machines from exposing RDP/SSH ports to the outside world, while still providing secure access using RDP/SSH.
+
 ![image](https://user-images.githubusercontent.com/36766101/226101822-90e7133c-afe9-405a-be87-602f48787408.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/573600da-433f-4e02-a089-3807e4860ae9)
 
 # Azure Just-in-time VM access
 ![image](https://user-images.githubusercontent.com/36766101/226103027-d51bcc50-d128-429c-a84a-d76680945034.png)
