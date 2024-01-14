@@ -1204,10 +1204,20 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 ![image](https://github.com/xiongye77/azure/assets/36766101/bfb391fe-5bf2-4122-b2d9-f017f5d93814)
 ![image](https://github.com/xiongye77/azure/assets/36766101/660ba771-81c9-481d-bce4-5367c292ab61)
 ![image](https://github.com/xiongye77/azure/assets/36766101/f179ac62-63fd-4f6d-9233-f39e74529f62)
+![image](https://github.com/xiongye77/azure/assets/36766101/69b98f70-375a-4ffb-97b4-a0580a374c5e)
+
+# Azure policy assignment and remediation (2024/01/14)
+![image](https://github.com/xiongye77/azure/assets/36766101/6ff45203-808b-48be-9590-c300a45edcaa)
+![image](https://github.com/xiongye77/azure/assets/36766101/7a19007b-7ccc-41ed-9d1e-e767f4c380f4)
+![image](https://github.com/xiongye77/azure/assets/36766101/cd93caa7-8269-4e01-a9a7-6908ea247dbc)
+![image](https://github.com/xiongye77/azure/assets/36766101/898b1e78-2acd-4a67-ba48-23a258d0a7c2)
+![image](https://github.com/xiongye77/azure/assets/36766101/526188e5-9b5f-44d3-b29e-c8fa6a2db705)
+![image](https://github.com/xiongye77/azure/assets/36766101/fc7919c6-4afa-46a3-af3c-d85af47a9b18)
 
 
 # Azure monitor for change analysis
 ![image](https://github.com/xiongye77/azure/assets/36766101/b7ff8d4d-f51a-4ff4-a3d3-212b3b23965f)
+![image](https://github.com/xiongye77/azure/assets/36766101/66d9b0bc-99d3-4ef4-aa77-8609d1edac8d)
 
 
 # Azure Blueprint
