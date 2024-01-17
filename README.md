@@ -187,9 +187,15 @@ Virtual Network NAT gateway is a fully managed and highly resilient Network Addr
 1 Control public IP addresses,Public IP addresses in Azure can be associated with VMs, load balancers, application gateways, and VPN gateways.A better practice is to put VMs behind Azure Load Balancer or Azure Application Gateway. 
 
 2 Use application security groups,Application Security Groups helps to manage the security of Virtual Machines by grouping them according the applications that runs on them. It is a feature that allows the application-centric use of Network Security Groups.ASGs are used within a NSG to apply a network security rule to a specific workload or group of VMs.
+![image](https://github.com/xiongye77/azure/assets/36766101/fcbc4096-d763-4c70-a6f7-96a7fe6ebd2e)
 
 ![image](https://user-images.githubusercontent.com/36766101/218248348-4114be25-e09d-4fb3-8d98-a758ace34d53.png)
 ![image](https://user-images.githubusercontent.com/36766101/218249082-e59de4df-81a1-4ba7-96a9-55a8720c397d.png)
+
+Application Security Groups (ASG) are a feature within Azure that helps simplify the management of Network Security Group (NSG) rules. ASGs can be used to group related applications together and manage their security together.
+
+For example, you could create an ASG for all your web applications and another ASG for all your database applications. You can then add NSG rules to the ASGs that apply to all the applications within that group. This makes it easy to manage the security for all your applications at once.
+![image](https://github.com/xiongye77/azure/assets/36766101/e4ca39c6-da26-4a39-80bf-109fc2c1f17a)
 
 3 Secure north/south and east/west traffic.To secure virtual networks, consider attack vectors. Note the following points:
 Using only subnet NSGs simplifies your environment, but only secures traffic into your subnet. This traffic is known as north/south traffic.
@@ -751,12 +757,16 @@ Service Tag
 
 # Azure Traffic Manager
 ![image](https://user-images.githubusercontent.com/36766101/222617384-c19cf4d2-21d6-4b22-8e3b-9cadbe0c17b6.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/96f4c1f3-53fa-48d9-bd6f-422229551ac9)
+![image](https://github.com/xiongye77/azure/assets/36766101/b18366f5-6f93-44b6-9bb9-24a82941ada6)
+
 
 # Azure frontdoor (AWS Cloudfront)
 ![image](https://user-images.githubusercontent.com/36766101/222622462-9c25f1b1-6c5b-48b4-b655-5510abdce9d1.png)
 ![image](https://user-images.githubusercontent.com/36766101/222622798-c5ab4115-3481-4247-b6c8-a23b6f999f60.png)
 ![image](https://user-images.githubusercontent.com/36766101/222623641-13a71e8a-8542-4a3a-959e-90f7307b365c.png)
 ![image](https://user-images.githubusercontent.com/36766101/222661827-995acebd-9b49-49b1-afdb-46d45c65c309.png)
+![image](https://github.com/xiongye77/azure/assets/36766101/fa6301a6-9f20-4750-8e70-042b50a52033)
 
 
 # Azure web application firewall
