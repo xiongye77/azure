@@ -141,6 +141,9 @@ external mode
 ![image](https://user-images.githubusercontent.com/36766101/218082642-1ee0b9e3-247d-4906-b976-44778f354931.png)
 
 
+![image](https://github.com/xiongye77/azure/assets/36766101/05629dd5-40ba-4e94-8734-ca3aed1374ea)
+
+
 # OAuth2 (Open Authorization) workflow
 OAuth2 is a standard designed to allow a website or application to access resources hosted by other web apps on behalf of a user.OAuth 2.0 is an authorization protocol and NOT an authentication protocol. As such, it is designed primarily as a means of granting access to a set of resources, for example, remote APIs or user data.
 
