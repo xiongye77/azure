@@ -1042,6 +1042,10 @@ Azure firewall in hub-spoke network topology
 
 
 # Azure App Service Environment
+![image](https://github.com/xiongye77/azure/assets/36766101/6f76a7e0-2d72-49f2-bb45-6a9666456fb4)
+![image](https://github.com/xiongye77/azure/assets/36766101/9ce4901f-d916-41d0-81fd-370ff5e5a86b)
+![image](https://github.com/xiongye77/azure/assets/36766101/15019ca0-0921-461a-b629-4df63b22f844)
+
 ![image](https://user-images.githubusercontent.com/36766101/226170024-cbf3edc1-f429-4e55-8516-c0634b00bf12.png)
 ![image](https://user-images.githubusercontent.com/36766101/226170103-822c3396-7731-42f0-9f42-cdc36231c28a.png)
 ![image](https://user-images.githubusercontent.com/36766101/226170498-f6874991-e7e9-4793-bdcb-4c6c70eadd5c.png)
