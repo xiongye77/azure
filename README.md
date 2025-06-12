@@ -1,3 +1,8 @@
+<img width="1480" alt="image" src="https://github.com/user-attachments/assets/12e52ed8-de4a-4158-b6dd-7ad84b120a84" />
+<img width="1230" alt="image" src="https://github.com/user-attachments/assets/7fcc16f6-3535-45e6-9e3e-554a680c7405" />
+<img width="1478" alt="image" src="https://github.com/user-attachments/assets/962476ba-8fe5-499d-b792-2b64d0d3a2ae" />
+<img width="1357" alt="image" src="https://github.com/user-attachments/assets/43d32aa7-e137-4f78-b010-408ea5049b57" />
+
 
 # Azure Entra ID
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
