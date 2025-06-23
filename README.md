@@ -4,6 +4,18 @@
 # Azure Entra ID
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
 
+# Azure Advisor 
+<img width="1287" alt="image" src="https://github.com/user-attachments/assets/ea032e14-8402-4695-891a-5923b563a805" />
+# Azure Sentinel
+<img width="1554" alt="image" src="https://github.com/user-attachments/assets/bc7b24a2-aec7-4585-83a6-c32bf28be5cf" />
+
+# Azure Defender for Cloud
+<img width="1641" alt="image" src="https://github.com/user-attachments/assets/d54b9e0d-1af6-4e90-85e5-edf86b1ff499" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/a0ead794-5e8c-4528-b01e-41d70c2dd969" />
+![image](https://github.com/user-attachments/assets/4de2acfb-f3eb-442c-90c0-ef8e7d68b9dc)
+
+
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/460824be-092c-4741-80e1-76ce7592c979)
 ![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)fsy
 ![image](https://github.com/xiongye77/azure/assets/36766101/6a06c193-0d26-49c5-9c58-863b4bd671a6)
