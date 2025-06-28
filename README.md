@@ -7,6 +7,15 @@
 # MS Zero Trust Principle 
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/eb367625-7b57-489a-9782-b01789c14008" />
 
+# Azure Sentinel
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/9739511f-2b47-48de-95f0-5a1031ff990b" />
+<img width="1713" alt="image" src="https://github.com/user-attachments/assets/dcb078de-1499-4670-a2c7-cc4540a1ddd3" />
+<img width="1152" alt="image" src="https://github.com/user-attachments/assets/97ea27ee-ce26-488e-83de-095808ceb740" />
+<img width="1725" alt="image" src="https://github.com/user-attachments/assets/55f8307d-5abb-473f-b462-fa3aa0808a0f" />
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/6a7ec68b-e241-4cdf-973a-82f66be95fcb" />
+<img width="1720" alt="image" src="https://github.com/user-attachments/assets/2c1b2647-6e0f-4c2a-8b5e-c4c92a146e4b" />
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/30a62f8e-805b-481a-a149-21b9749851d3" />
+
 
 # Azure Advisor 
 <img width="1287" alt="image" src="https://github.com/user-attachments/assets/ea032e14-8402-4695-891a-5923b563a805" />
@@ -289,6 +298,23 @@ It is designed to improve the performance and availability of your web applicati
 Front Door service supports various features including load balancing, custom routing, SSL offloading, and caching. It also provides a Web Application Firewall (WAF) that can be used to protect your web applications and services from various types of attacks.
 Front Door service is designed to work with other Azure services such as Azure Virtual Machines, Azure App Service, and Azure Container Instances. It can also be used with non-Azure backends such as on-premises servers or other cloud-based services.
 
+# Azure WAF 
+OWASP identifies the "what" and "why": It provides the industry-recognized list of common web application vulnerabilities that organizations should be concerned about.
+# Examples of OWASP Top 10 vulnerabilities include:
+
+Injection (e.g., SQL Injection, Cross-Site Scripting - XSS)
+
+Broken Access Control
+
+Cryptographic Failures
+
+Security Misconfiguration
+
+Vulnerable and Outdated Components
+
+Server-Side Request Forgery (SSRF
+<img width="1541" alt="image" src="https://github.com/user-attachments/assets/7e8a1cd1-2d81-46b3-ba83-73e96ebf1e69" />
+WAF provides a "how" for mitigation: It's a tool (a web application firewall) that you can deploy to protect your applications against many of the attacks described in the OWASP Top 10. Specifically, its managed rule groups are explicitly designed with the OWASP Top 10 in mind.
 
 # Azure Traffic Manager
 Azure Traffic Manager is a Azure service that allows you to distribute traffic across multiple A Service Endpoint remains a publicly routable IP address. A Private Endpoint is a private IP in the address space of the virtual network where the private endpoint is configured.s, such as Azure VMs, web apps, and Azure Cloud Services.
