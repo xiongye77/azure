@@ -312,9 +312,11 @@ Security Misconfiguration
 
 Vulnerable and Outdated Components
 
-Server-Side Request Forgery (SSRF
+Server-Side Request Forgery (SSRF)
 <img width="1541" alt="image" src="https://github.com/user-attachments/assets/7e8a1cd1-2d81-46b3-ba83-73e96ebf1e69" />
 WAF provides a "how" for mitigation: It's a tool (a web application firewall) that you can deploy to protect your applications against many of the attacks described in the OWASP Top 10. Specifically, its managed rule groups are explicitly designed with the OWASP Top 10 in mind.
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/2c8dfa79-2865-40c8-b52f-4ea7cc6dba78" />
+<img width="1611" alt="image" src="https://github.com/user-attachments/assets/11aa78bf-e0d7-429d-b950-3585e928b7ac" />
 
 # Azure Traffic Manager
 Azure Traffic Manager is a Azure service that allows you to distribute traffic across multiple A Service Endpoint remains a publicly routable IP address. A Private Endpoint is a private IP in the address space of the virtual network where the private endpoint is configured.s, such as Azure VMs, web apps, and Azure Cloud Services.
