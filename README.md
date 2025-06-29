@@ -16,14 +16,125 @@
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/2c1b2647-6e0f-4c2a-8b5e-c4c92a146e4b" />
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/30a62f8e-805b-481a-a149-21b9749851d3" />
 
+# Microsoft Defender for Cloud 
+Microsoft Defender for Cloud (MDC) Cloud Workload Protection (CWP) is designed to identify and protect against various threats and misconfigurations across your cloud (Azure, AWS, GCP) and hybrid workloads (servers, containers, databases, storage, etc.)
+These are generally the most common findings, as they represent deviations from security best practices and can often be easily remediated. MDC's Cloud Security Posture Management (CSPM) component is heavily involved here.
+
+Network Misconfigurations:
+
+Overly Permissive Network Security Groups (NSGs)/Security Groups: Ports open to the internet (e.g., RDP, SSH, SQL, databases, web application ports) that should be restricted to specific IPs or internal networks. This is a top attack vector.
+
+Publicly Exposed Storage Accounts: Blob containers or file shares configured for anonymous public read/write access. This can lead to data leakage or malware uploads.
+
+Lack of Just-in-Time (JIT) VM Access: VMs with persistent open management ports (RDP/SSH) instead of using JIT to open them only when needed for a limited time.
+
+Missing or Misconfigured Firewalls: Workloads not protected by a properly configured network firewall.
+
+Identity and Access Management (IAM) Issues:
+
+Over-privileged Identities/Accounts: Users, service principals, or managed identities with more permissions than required (Principle of Least Privilege violation).
+
+Unused Accounts/Credentials: Inactive accounts or orphaned credentials that could be exploited.
+
+Lack of Multi-Factor Authentication (MFA): Accounts, especially administrative ones, not enforcing MFA.
+
+Weak Password Policies: No strong password requirements.
+
+Compute (VMs, Containers) Misconfigurations:
+
+Missing OS Security Updates/Patches: Servers (Windows and Linux) not having the latest security patches installed.
+
+Missing Endpoint Protection (Antimalware): VMs without an active and up-to-date endpoint protection solution (e.g., Microsoft Defender for Endpoint).
+
+Vulnerabilities in Container Images: Container images with known vulnerabilities (CVEs) found during vulnerability assessments.
+
+Insecure Container Configurations: Containers running with elevated privileges, sharing sensitive host namespaces, or exposing unnecessary ports.
+
+Unencrypted Disks: VM disks (OS and data) not encrypted at rest.
+
+Lack of File Integrity Monitoring (FIM): Not monitoring critical system files and directories for unauthorized changes.
+
+Database Misconfigurations:
+
+Missing Database Encryption: Databases not encrypted at rest (e.g., Transparent Data Encryption - TDE).
+
+Weak Authentication to Databases: Using SQL authentication instead of Azure AD authentication.
+
+Missing Auditing/Logging: Database auditing not enabled to track access and activities.
+
+Over-privileged Database Users: Database users with excessive permissions.
+
+General Configuration Issues:
+
+Lack of Diagnostic Logging: Critical services not sending diagnostic logs to a central log analytics workspace.
+
+Lack of Encryption for Data in Transit: Services not enforcing TLS 1.2 or higher.
+
+Unmanaged Certificates: Expired or soon-to-expire certificates.
+
+II. Security Alerts (runtime threat detection):
+
+While misconfigurations are proactive, CWP also generates alerts when actual suspicious or malicious activity is detected.
+
+Compromised Accounts/Identities:
+
+Brute-force attacks against SSH/RDP.
+
+Unusual login locations or impossible travel.
+
+Attempts to enumerate directory services (e.g., Active Directory).
+
+Credential dumping attempts.
+
+Malicious Activity on Servers (VMs):
+
+Malware detection and execution (ransomware, viruses, crypto-miners).
+
+Suspicious process execution (e.g., execution from unusual locations, unsigned binaries).
+
+Abnormal network connections (e.g., communication with known malicious IPs, command and control servers).
+
+Discovery or reconnaissance attempts (e.g., port scanning from within the network).
+
+Privilege escalation attempts.
+
+Suspicious file modifications (e.g., web shell uploads).
+
+Container Runtime Threats:
+
+Suspicious activities within containers (e.g., execution of unknown binaries, privileged container deployments, SSH servers in containers).
+
+Attempts to escape containers or gain access to the host.
+
+Database Attacks:
+
+SQL injection attempts.
+
+Brute-force attacks against database logins.
+
+Data exfiltration attempts from databases.
+
+Suspicious queries or access patterns.
+
+Storage Account Threats:
+
+Malware uploaded to storage accounts.
+
+Detection of compromised Shared Access Signatures (SAS) tokens.
+
+Unusual access patterns to storage (e.g., from unusual locations, IP addresses from Microsoft Threat Intelligence).
+
+Data exfiltration attempts from storage.
+
+Blob-hunting attempts (scanning for publicly exposed storage).
 
 # Azure Advisor 
 <img width="1287" alt="image" src="https://github.com/user-attachments/assets/ea032e14-8402-4695-891a-5923b563a805" />
 
-# Azure Sentinel
+# Microsoft Sentinel
 <img width="1554" alt="image" src="https://github.com/user-attachments/assets/bc7b24a2-aec7-4585-83a6-c32bf28be5cf" />
 
-# Azure Defender for Cloud
+# Microsoft Defender for Cloud 
 <img width="1641" alt="image" src="https://github.com/user-attachments/assets/d54b9e0d-1af6-4e90-85e5-edf86b1ff499" />
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/a0ead794-5e8c-4528-b01e-41d70c2dd969" />
 ![image](https://github.com/user-attachments/assets/4de2acfb-f3eb-442c-90c0-ef8e7d68b9dc)
@@ -31,8 +142,30 @@
 
 
 ![image](https://github.com/xiongye77/azure/assets/36766101/460824be-092c-4741-80e1-76ce7592c979)
-![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)fsy
+![image](https://github.com/xiongye77/azure/assets/36766101/b0d18413-dc65-4e17-9340-d847f1bad404)
 ![image](https://github.com/xiongye77/azure/assets/36766101/6a06c193-0d26-49c5-9c58-863b4bd671a6)
+
+<img width="1160" alt="image" src="https://github.com/user-attachments/assets/09c5cd59-f88a-415a-bfb1-34de78ae3477" />
+<img width="1713" alt="image" src="https://github.com/user-attachments/assets/3587ab2a-0ffc-432e-8f86-7f17f78c9e34" />
+<img width="1727" alt="image" src="https://github.com/user-attachments/assets/d7fd4897-271d-4ea6-8e17-3b300b3b85a1" />
+<img width="1493" alt="image" src="https://github.com/user-attachments/assets/ea16bb74-0d3d-4530-8159-8cc7a0c31950" />
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/9af9b1c8-7f5b-4260-840e-d2648915ad51" />
+
+# MDC (Microsoft Defender for Cloud) Inventory 
+<img width="1149" alt="image" src="https://github.com/user-attachments/assets/b0323e25-c644-4c9e-afc1-3b62c7eff747" />
+<img width="1123" alt="image" src="https://github.com/user-attachments/assets/88d97bef-1ec0-4dc3-b4e5-2169256581e5" />
+<img width="1108" alt="image" src="https://github.com/user-attachments/assets/300bec35-59bc-4eab-8454-3c2263112772" />
+
+# MDC Recommendations 
+<img width="1116" alt="image" src="https://github.com/user-attachments/assets/8c248e1e-b0b6-4091-a540-63230b9b31c1" />
+
+# Microsoft Cloud Security Benchmark (MCSB)
+The Microsoft Cloud Security Benchmark (MCSB) is a comprehensive, multi-cloud security framework published by Microsoft. Its primary purpose is to provide prescriptive best practices and recommendations to help organizations improve the security posture of their workloads, data, and services deployed in cloud environments.
+
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/7154b15e-7511-4644-9b4c-7024bd57aa41" />
+
+<img width="1243" alt="image" src="https://github.com/user-attachments/assets/74900b88-1241-4f74-9778-4b3ebd87f8cf" />
+
 # Change one subscription to another tenant
 ![image](https://github.com/xiongye77/azure/assets/36766101/56af1322-d5c3-4af9-a774-192b7acb76b2)
 
