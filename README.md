@@ -77,6 +77,19 @@ Offers environment hardening, vulnerability assessments for images (Registry and
 Protects your Azure App Service plans, detecting threats targeting web applications, APIs, and functions (e.g., web shell attacks, suspicious file modifications).
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/e6e3f3ec-6e35-4c56-8ab3-7608cdcde167" />
 
+# MDC recommendations 
+<img width="1699" alt="image" src="https://github.com/user-attachments/assets/b25ed945-6db9-49c2-ace1-2b9b681900f8" />
+<img width="1701" alt="image" src="https://github.com/user-attachments/assets/1a6b0fee-e6e9-4c8e-b0e1-0f983f5d6f6b" />
+<img width="1725" alt="image" src="https://github.com/user-attachments/assets/d38e26cb-c1db-4936-b5cb-5e5bbcc00b17" />
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/cc7792d0-62ce-4ff4-a85c-c3659d471419" />
+
+# Microsoft Cloud Security Benchmark
+Alignment with Industry Frameworks: A significant benefit of MCSB is its mapping to various well-known industry security frameworks and standards, such as: CIS Controls (Center for Internet Security),NIST SP 800-53 (National Institute of Standards and Technology),PCI DSS (Payment Card Industry Data Security Standard),ISO 27001
+
+
+Integration with Microsoft Defender for Cloud (MDC): The MCSB is natively integrated into Microsoft Defender for Cloud. This means that MDC (specifically its CSPM capabilities) automatically assesses your Azure, AWS, and GCP resources against the MCSB 
+![image](https://github.com/user-attachments/assets/016a43d8-f902-4eed-9469-776afa7005a6)
+
 
 # Microsoft Defender for Cloud 
 <img width="1631" alt="image" src="https://github.com/user-attachments/assets/a22f4166-4681-46e5-81cd-e64ec6e95787" />
@@ -192,6 +205,9 @@ Unusual access patterns to storage (e.g., from unusual locations, IP addresses f
 Data exfiltration attempts from storage.
 
 Blob-hunting attempts (scanning for publicly exposed storage).
+
+<img width="1721" alt="image" src="https://github.com/user-attachments/assets/0018ba8a-b54e-4168-a432-d700dd91d806" />
+
 
 # Azure Advisor 
 <img width="1287" alt="image" src="https://github.com/user-attachments/assets/ea032e14-8402-4695-891a-5923b563a805" />
