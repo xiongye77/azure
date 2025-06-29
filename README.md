@@ -19,6 +19,7 @@
 
 # Azure Advisor 
 <img width="1287" alt="image" src="https://github.com/user-attachments/assets/ea032e14-8402-4695-891a-5923b563a805" />
+
 # Azure Sentinel
 <img width="1554" alt="image" src="https://github.com/user-attachments/assets/bc7b24a2-aec7-4585-83a6-c32bf28be5cf" />
 
