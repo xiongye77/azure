@@ -86,10 +86,14 @@ Protects your Azure App Service plans, detecting threats targeting web applicati
 # Microsoft Cloud Security Benchmark
 Alignment with Industry Frameworks: A significant benefit of MCSB is its mapping to various well-known industry security frameworks and standards, such as: CIS Controls (Center for Internet Security),NIST SP 800-53 (National Institute of Standards and Technology),PCI DSS (Payment Card Industry Data Security Standard),ISO 27001
 
+# Security Policy for MDC 
+<img width="1718" alt="image" src="https://github.com/user-attachments/assets/078a5d51-58c3-4720-b4b1-4d74cf9ce7af" />
+
 
 Integration with Microsoft Defender for Cloud (MDC): The MCSB is natively integrated into Microsoft Defender for Cloud. This means that MDC (specifically its CSPM capabilities) automatically assesses your Azure, AWS, and GCP resources against the MCSB 
 ![image](https://github.com/user-attachments/assets/016a43d8-f902-4eed-9469-776afa7005a6)
 
+![image](https://github.com/user-attachments/assets/f8b10630-140a-4172-8a12-eff4109c3437)
 
 # Microsoft Defender for Cloud 
 <img width="1631" alt="image" src="https://github.com/user-attachments/assets/a22f4166-4681-46e5-81cd-e64ec6e95787" />
@@ -205,6 +209,9 @@ Unusual access patterns to storage (e.g., from unusual locations, IP addresses f
 Data exfiltration attempts from storage.
 
 Blob-hunting attempts (scanning for publicly exposed storage).
+
+# Azure policy to Deny Public Access on Storage Accounts
+<img width="1722" alt="image" src="https://github.com/user-attachments/assets/dfb30c70-fcef-4e29-81c0-a1b4a42af7ac" />
 
 <img width="1721" alt="image" src="https://github.com/user-attachments/assets/0018ba8a-b54e-4168-a432-d700dd91d806" />
 
