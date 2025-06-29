@@ -16,11 +16,76 @@
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/2c1b2647-6e0f-4c2a-8b5e-c4c92a146e4b" />
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/30a62f8e-805b-481a-a149-21b9749851d3" />
 
+# MDC defender plan 
+Cloud Security Posture Management (CSPM) Plans:
+
+1. Foundational CSPM (Free): this provides the basic security posture assessment and recommendations across your Azure, AWS, and GCP environments.
+
+2. Defender Cloud Security Posture Management (Defender CSPM):
+
+This is the enhanced paid CSPM plan. It includes advanced features beyond the free tier, such as:
+
+Attack Path Analysis: Visualizes potential attack paths to identify and prioritize risks.
+
+Cloud Security Explorer: Allows you to query your cloud environment to find security risks.
+
+Security Governance: Tools to drive and track security improvements across your organization.
+
+Data Security Posture Management (DSPM): Automatically discovers datastores with sensitive data and helps reduce data breach risks.
+
+Microsoft Entra Permissions Management (CIEM): Provides comprehensive visibility and control over permissions for any identity and resource across Azure, AWS, and GCP.
+<img width="1701" alt="image" src="https://github.com/user-attachments/assets/e2200d46-8edd-4441-a010-18614167fb3d" />
+
+
+# Cloud Workload Protection (CWP) Plans
+1. Microsoft Defender for Servers: Plan 2: Includes all Plan 1 features, plus more advanced capabilities like:
+
+Agentless scanning for posture, vulnerability assessment, and secrets scanning.
+
+Compliance assessment against various regulatory standards.
+
+Premium Microsoft Defender Vulnerability Management.
+
+File Integrity Monitoring (FIM).
+
+Just-in-Time (JIT) VM access.
+
+Adaptive application controls.
+
+A free data ingestion benefit for specific data types to Log Analytics workspace.
+
+2. Microsoft Defender for Storage:
+
+Detects unusual and potentially harmful attempts to access or exploit your Azure Storage accounts (Blob, File, Azure Data Lake).
+
+Includes Malware Scanning (an add-on) for Blob Storage, which scans uploaded blobs for malware using Microsoft Defender Antivirus capabilities.
+
+3. Microsoft Defender for SQL:
+
+Protects various SQL database types, including Azure SQL Database, SQL Managed Instance, SQL Server on Azure VMs, and SQL Servers on machines (on-premises or other clouds via Azure Arc).
+
+Provides vulnerability assessment, advanced threat protection (e.g., SQL injection, brute-force attacks), and sensitive data discovery.
+
+4. Microsoft Defender for Containers:
+
+Secures your containerized environments, including Azure Kubernetes Service (AKS), Azure Container Instances (ACI), and non-Azure Kubernetes distributions (via Azure Arc).
+
+Offers environment hardening, vulnerability assessments for images (Registry and Runtime), and runtime protection for nodes and clusters.
+
+5. Microsoft Defender for App Service:
+
+Protects your Azure App Service plans, detecting threats targeting web applications, APIs, and functions (e.g., web shell attacks, suspicious file modifications).
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/e6e3f3ec-6e35-4c56-8ab3-7608cdcde167" />
+
+
 # Microsoft Defender for Cloud 
+<img width="1631" alt="image" src="https://github.com/user-attachments/assets/a22f4166-4681-46e5-81cd-e64ec6e95787" />
+
 Microsoft Defender for Cloud (MDC) Cloud Workload Protection (CWP) is designed to identify and protect against various threats and misconfigurations across your cloud (Azure, AWS, GCP) and hybrid workloads (servers, containers, databases, storage, etc.)
+I. Misconfigurations (often leading to security posture recommendations):
 These are generally the most common findings, as they represent deviations from security best practices and can often be easily remediated. MDC's Cloud Security Posture Management (CSPM) component is heavily involved here.
 
-Network Misconfigurations:
+1. Network Misconfigurations:
 
 Overly Permissive Network Security Groups (NSGs)/Security Groups: Ports open to the internet (e.g., RDP, SSH, SQL, databases, web application ports) that should be restricted to specific IPs or internal networks. This is a top attack vector.
 
@@ -30,7 +95,7 @@ Lack of Just-in-Time (JIT) VM Access: VMs with persistent open management ports 
 
 Missing or Misconfigured Firewalls: Workloads not protected by a properly configured network firewall.
 
-Identity and Access Management (IAM) Issues:
+2. Identity and Access Management (IAM) Issues:
 
 Over-privileged Identities/Accounts: Users, service principals, or managed identities with more permissions than required (Principle of Least Privilege violation).
 
@@ -40,7 +105,7 @@ Lack of Multi-Factor Authentication (MFA): Accounts, especially administrative o
 
 Weak Password Policies: No strong password requirements.
 
-Compute (VMs, Containers) Misconfigurations:
+3. Compute (VMs, Containers) Misconfigurations:
 
 Missing OS Security Updates/Patches: Servers (Windows and Linux) not having the latest security patches installed.
 
@@ -54,7 +119,7 @@ Unencrypted Disks: VM disks (OS and data) not encrypted at rest.
 
 Lack of File Integrity Monitoring (FIM): Not monitoring critical system files and directories for unauthorized changes.
 
-Database Misconfigurations:
+4. Database Misconfigurations:
 
 Missing Database Encryption: Databases not encrypted at rest (e.g., Transparent Data Encryption - TDE).
 
@@ -64,7 +129,7 @@ Missing Auditing/Logging: Database auditing not enabled to track access and acti
 
 Over-privileged Database Users: Database users with excessive permissions.
 
-General Configuration Issues:
+5. General Configuration Issues:
 
 Lack of Diagnostic Logging: Critical services not sending diagnostic logs to a central log analytics workspace.
 
@@ -76,7 +141,7 @@ II. Security Alerts (runtime threat detection):
 
 While misconfigurations are proactive, CWP also generates alerts when actual suspicious or malicious activity is detected.
 
-Compromised Accounts/Identities:
+1. Compromised Accounts/Identities:
 
 Brute-force attacks against SSH/RDP.
 
@@ -86,7 +151,7 @@ Attempts to enumerate directory services (e.g., Active Directory).
 
 Credential dumping attempts.
 
-Malicious Activity on Servers (VMs):
+2. Malicious Activity on Servers (VMs):
 
 Malware detection and execution (ransomware, viruses, crypto-miners).
 
@@ -100,13 +165,13 @@ Privilege escalation attempts.
 
 Suspicious file modifications (e.g., web shell uploads).
 
-Container Runtime Threats:
+3. Container Runtime Threats:
 
 Suspicious activities within containers (e.g., execution of unknown binaries, privileged container deployments, SSH servers in containers).
 
 Attempts to escape containers or gain access to the host.
 
-Database Attacks:
+4. Database Attacks:
 
 SQL injection attempts.
 
@@ -116,7 +181,7 @@ Data exfiltration attempts from databases.
 
 Suspicious queries or access patterns.
 
-Storage Account Threats:
+5. Storage Account Threats:
 
 Malware uploaded to storage accounts.
 
