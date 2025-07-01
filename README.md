@@ -12,6 +12,11 @@
 <img width="1556" alt="image" src="https://github.com/user-attachments/assets/124fc6fa-e284-4f42-8bb9-5828c3499d0e" />
 <img width="1579" alt="image" src="https://github.com/user-attachments/assets/28464fa4-7771-49ea-8956-3229f3118fae" />
 
+# Azure cost management 
+<img width="1112" alt="image" src="https://github.com/user-attachments/assets/69b83ad5-5c8b-47f8-a45a-e716cb1ee3f9" />
+<img width="1677" alt="image" src="https://github.com/user-attachments/assets/e9e3e328-a44d-4124-8d4e-b2ba525fb9d2" />
+<img width="1715" alt="image" src="https://github.com/user-attachments/assets/51385f7a-5dba-4a4c-b0b3-930d2d582634" />
+
 
 # MS Zero Trust Principle 
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/eb367625-7b57-489a-9782-b01789c14008" />
@@ -24,6 +29,13 @@
 <img width="1239" alt="image" src="https://github.com/user-attachments/assets/6a7ec68b-e241-4cdf-973a-82f66be95fcb" />
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/2c1b2647-6e0f-4c2a-8b5e-c4c92a146e4b" />
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/30a62f8e-805b-481a-a149-21b9749851d3" />
+
+
+# Azure Activity Log 
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/7919709f-16bc-4ecf-8d8d-b4c9e82d72eb" />
+<img width="1259" alt="image" src="https://github.com/user-attachments/assets/fa761593-950e-439b-9100-81eaa91d84c0" />
+The ARM (Azure Resource Manager) REST API (Azure Resource Manager REST API) is Microsoft Azure's RESTful interface that allows you to programmatically manage Azure resources.
+
 
 # MDC defender plan 
 Cloud Security Posture Management (CSPM) Plans:
