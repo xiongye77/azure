@@ -4,6 +4,15 @@
 # Azure Entra ID
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
 
+# Entra ID Access review
+<img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
+<img width="1606" alt="image" src="https://github.com/user-attachments/assets/db6c8750-2fe2-4699-a111-f645286de107" />
+
+# Entra ID conditional access
+<img width="1556" alt="image" src="https://github.com/user-attachments/assets/124fc6fa-e284-4f42-8bb9-5828c3499d0e" />
+<img width="1579" alt="image" src="https://github.com/user-attachments/assets/28464fa4-7771-49ea-8956-3229f3118fae" />
+
+
 # MS Zero Trust Principle 
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/eb367625-7b57-489a-9782-b01789c14008" />
 
@@ -214,6 +223,21 @@ Blob-hunting attempts (scanning for publicly exposed storage).
 <img width="1722" alt="image" src="https://github.com/user-attachments/assets/dfb30c70-fcef-4e29-81c0-a1b4a42af7ac" />
 
 <img width="1721" alt="image" src="https://github.com/user-attachments/assets/0018ba8a-b54e-4168-a432-d700dd91d806" />
+
+<img width="1602" alt="image" src="https://github.com/user-attachments/assets/974178e9-ac6d-4db4-a7a3-4f3f4aab0481" />
+<img width="1681" alt="image" src="https://github.com/user-attachments/assets/f6314826-9923-4298-a0fb-da8bfb7b88d2" />
+
+
+# Azure policy and Initiative
+<img width="1725" alt="image" src="https://github.com/user-attachments/assets/747346cb-633a-49dd-808c-245974682779" />
+
+# Azure policy assignment and Exclusion and Remediation
+<img width="1711" alt="image" src="https://github.com/user-attachments/assets/9ba70dde-c6f5-4eaa-ada0-84e41aac16f6" />
+<img width="1700" alt="image" src="https://github.com/user-attachments/assets/fb3d6555-cd89-4c8f-bbb3-8fe48551bf11" />
+<img width="1619" alt="image" src="https://github.com/user-attachments/assets/91b3b2f8-5891-409e-ae65-b4de69a9e103" />
+
+# Azure policy compliance report
+<img width="1725" alt="image" src="https://github.com/user-attachments/assets/fa261e94-c598-457a-9cb0-086d080ae3a0" />
 
 
 # Azure Advisor 
