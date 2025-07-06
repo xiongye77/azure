@@ -3,6 +3,7 @@
 
 # Azure Entra ID
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/2ca4880f-e468-4a4d-9e6b-dc382d8acda4" />
 
 # Entra ID Access review
 <img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
@@ -22,6 +23,9 @@
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/eb367625-7b57-489a-9782-b01789c14008" />
 
 # Azure Sentinel
+<img width="1132" alt="image" src="https://github.com/user-attachments/assets/ffebb6a5-8214-4b0b-9ed0-c48283e63513" />
+MDC: Microsoft Defender for Cloud 
+MDE: Microsoft Defender for Endpoint
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/9739511f-2b47-48de-95f0-5a1031ff990b" />
 <img width="1713" alt="image" src="https://github.com/user-attachments/assets/dcb078de-1499-4670-a2c7-cc4540a1ddd3" />
 <img width="1152" alt="image" src="https://github.com/user-attachments/assets/97ea27ee-ce26-488e-83de-095808ceb740" />
@@ -35,7 +39,32 @@
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/7919709f-16bc-4ecf-8d8d-b4c9e82d72eb" />
 <img width="1259" alt="image" src="https://github.com/user-attachments/assets/fa761593-950e-439b-9100-81eaa91d84c0" />
 The ARM (Azure Resource Manager) REST API (Azure Resource Manager REST API) is Microsoft Azure's RESTful interface that allows you to programmatically manage Azure resources.
+Activity log is recroded at subscription level
+![image](https://github.com/user-attachments/assets/88a88a37-3a96-4fca-91f3-547b78d534c4)
+Archive activity log to storage account 
+<img width="1639" alt="image" src="https://github.com/user-attachments/assets/3e523cec-250f-4c9a-afaf-a48a6286d104" />
+<img width="1268" alt="image" src="https://github.com/user-attachments/assets/6161da4a-d4af-416c-bc03-1e6bdad84dc1" />
 
+
+# Azure Migration Tool
+<img width="1597" alt="image" src="https://github.com/user-attachments/assets/eb03c708-fef4-4b68-84a1-dab1e17789e7" />
+
+# Azure database migration tool
+<img width="1183" alt="image" src="https://github.com/user-attachments/assets/3fd7cef1-e738-4443-aad8-268fc7e16df2" />
+
+# Azure data studio with extensions to support Azure SQL Migration
+<img width="1314" alt="image" src="https://github.com/user-attachments/assets/af6a4d0d-14a4-4a95-a5a9-19f44b63c44a" />
+<img width="1269" alt="image" src="https://github.com/user-attachments/assets/76a9bbc5-0c01-4e86-bd8b-40202f95dc84" />
+
+# Azure defender for Storage
+<img width="1726" alt="image" src="https://github.com/user-attachments/assets/1e9c3471-65d1-40f3-ab99-5422f2b0d1de" />
+
+
+# Azure SQL Audit logs 
+configure audit log for Azure SQL Server 
+<img width="1037" alt="image" src="https://github.com/user-attachments/assets/a6935e60-da20-489b-aad6-db03538e2dbe" />
+
+<img width="1327" alt="image" src="https://github.com/user-attachments/assets/9827af83-5a92-4fb8-9687-6160a6462e49" />
 
 # MDC defender plan 
 Cloud Security Posture Management (CSPM) Plans:
@@ -687,6 +716,8 @@ CDN origin is storage account
 
 
 # Azure SQL Server
+<img width="1165" alt="image" src="https://github.com/user-attachments/assets/7e8535ae-5278-4295-9ce3-48f0256c8871" />
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/8002cb0b-e0f2-46be-b2f1-ba15bee2e3cf)
 ![image](https://github.com/xiongye77/azure/assets/36766101/b713c182-d26b-4e54-872f-3df09f895a93)
 ![image](https://github.com/xiongye77/azure/assets/36766101/232a44d2-22cd-40b3-8941-6a69cb13bb4d)
@@ -737,9 +768,12 @@ sqlservererty.privatelink.database.windows.net.1643 INA 10.0.1.4
 ![image](https://github.com/xiongye77/azure/assets/36766101/64864a5e-f633-46c7-8f42-2fa9861c7180)
 
 
-# Azure Transparent Data Encryption
+# Azure SQL Transparent Data Encryption
 ![image](https://user-images.githubusercontent.com/36766101/222878368-fa26ff4f-b7d9-4315-88c0-4fa8d22eada2.png)
 ![image](https://user-images.githubusercontent.com/36766101/222878403-8d2129da-18e1-4e3c-a72d-5d646f38dde4.png)
+<img width="1171" alt="image" src="https://github.com/user-attachments/assets/bc413d14-954d-4243-9d25-1c2971ee1ffa" />
+<img width="1153" alt="image" src="https://github.com/user-attachments/assets/58052974-0c4f-47c2-b3f1-ec8e37981e6b" />
+<img width="1146" alt="image" src="https://github.com/user-attachments/assets/e8f1fd5e-c835-4866-9e61-0385c048fe0e" />
 
 # Azure Disk Encryption
 ![image](https://user-images.githubusercontent.com/36766101/226148010-f8a2be14-7e28-4db7-a1ec-b78ba88a3b15.png)
