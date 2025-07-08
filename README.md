@@ -1608,9 +1608,20 @@ Get tags: Get-AzTag
 Get tags with name: Get-AzTag -Name "department"
 Get resources with tags: Get-AzResources -TagName is-temporary -TagValue True
 
-# Azure Resource Lock
+
+# Microsoft Service Trust Portal (STP)
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/14b986fb-8920-4a61-ba88-22342c9e25f5" />
+
+
+
+# Azure Resource Lock （Resource lock override RBAC permissions）
+Lock Prevails: If a resource lock is present and denies the specific action (e.g., a CanNotDelete lock for a delete operation, or a ReadOnly lock for any modification/deletion), the operation fails, even if the user is an Owner or User Access Administrator for that resource.
+
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/a01aa4a7-98eb-456b-af19-6aaf29b21b26)
 ![image](https://github.com/xiongye77/azure/assets/36766101/cec12b5c-e9ab-4d70-b326-b9ac94ce4d6a)
+<img width="1074" alt="image" src="https://github.com/user-attachments/assets/9dd56ae9-7c30-414f-95e4-606eb7c13a46" />
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/412533a4-463d-4a2a-8a9d-742a29bf7187" />
 
 # Azure advisor (2023/11/12)
 ![image](https://github.com/xiongye77/azure/assets/36766101/a34626f9-c90f-4586-a58c-d9a219c24a70)
