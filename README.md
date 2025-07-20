@@ -5,6 +5,10 @@
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/2ca4880f-e468-4a4d-9e6b-dc382d8acda4" />
 
+# Azure Resource Manager 
+<img width="1685" height="942" alt="image" src="https://github.com/user-attachments/assets/4d1d50b5-106a-4ebf-a999-376f89d3625c" />
+<img width="1566" height="934" alt="image" src="https://github.com/user-attachments/assets/7c6e9834-d3f2-456a-9de6-53d253706231" />
+
 # Entra ID Access review
 <img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
 <img width="1606" alt="image" src="https://github.com/user-attachments/assets/db6c8750-2fe2-4699-a111-f645286de107" />
@@ -1615,6 +1619,8 @@ Get resources with tags: Get-AzResources -TagName is-temporary -TagValue True
 
 
 # Azure Resource Lock （Resource lock override RBAC permissions）
+<img width="1728" height="893" alt="image" src="https://github.com/user-attachments/assets/f9603bae-cc70-46e7-b42e-8e5e9214fabe" />
+
 Lock Prevails: If a resource lock is present and denies the specific action (e.g., a CanNotDelete lock for a delete operation, or a ReadOnly lock for any modification/deletion), the operation fails, even if the user is an Owner or User Access Administrator for that resource.
 
 
