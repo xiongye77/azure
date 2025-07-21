@@ -13,6 +13,10 @@
 <img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
 <img width="1606" alt="image" src="https://github.com/user-attachments/assets/db6c8750-2fe2-4699-a111-f645286de107" />
 
+# On premise application access Azure resource through App registration and get certificate 
+Obtain a Client ID and potentially Client Secret/Certificate: The application uses these credentials to request tokens from Microsoft Entra ID for authentication and authorization.
+<img width="1163" height="643" alt="image" src="https://github.com/user-attachments/assets/3c4bcebb-ce07-4c3c-9382-464b366c6271" />
+
 # Entra ID conditional access
 <img width="1556" alt="image" src="https://github.com/user-attachments/assets/124fc6fa-e284-4f42-8bb9-5828c3499d0e" />
 <img width="1579" alt="image" src="https://github.com/user-attachments/assets/28464fa4-7771-49ea-8956-3229f3118fae" />
@@ -1178,6 +1182,8 @@ Both the object store model (such as Azure blob storage) and the hierarchical fi
 
 
 # Azure RBAC 
+<img width="3292" height="1720" alt="image" src="https://github.com/user-attachments/assets/54038a52-4755-4f07-9400-9a1d837e0f1d" />
+
 ![image](https://user-images.githubusercontent.com/36766101/222871289-d5565576-4761-4963-a6b3-d987c486ed7e.png)
 ![image](https://user-images.githubusercontent.com/36766101/222871492-4f763190-11d8-41d6-9ad5-7e7f316488f8.png)
 ![image](https://user-images.githubusercontent.com/36766101/222871823-1ed26062-217d-447d-ad2b-ac02f55e2544.png)
