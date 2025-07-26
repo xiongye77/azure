@@ -5,6 +5,17 @@
 ![image](https://github.com/xiongye77/azure/assets/36766101/0ce4f6d0-c044-4ebe-b3a4-2a1a4cc48c63)
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/2ca4880f-e468-4a4d-9e6b-dc382d8acda4" />
 
+# Azure Entra ID Role and Group
+<img width="1724" height="870" alt="image" src="https://github.com/user-attachments/assets/b573c744-7973-426a-a432-7f2fb6757126" />
+<img width="846" height="794" alt="image" src="https://github.com/user-attachments/assets/9625d39d-2cb1-45e8-b20f-bfb865c041f5" />
+
+# Azure Entra ID role VS Azure RBAC
+<img width="1152" height="615" alt="image" src="https://github.com/user-attachments/assets/3ccd2f97-a87a-416a-9617-283e9d9d7bc7" />
+
+# Entra ID governance
+<img width="1176" height="585" alt="image" src="https://github.com/user-attachments/assets/c4e399ed-2544-45bd-b29b-27a439c1349a" />
+
+
 # Azure Resource Manager 
 <img width="1685" height="942" alt="image" src="https://github.com/user-attachments/assets/4d1d50b5-106a-4ebf-a999-376f89d3625c" />
 <img width="1566" height="934" alt="image" src="https://github.com/user-attachments/assets/7c6e9834-d3f2-456a-9de6-53d253706231" />
@@ -12,6 +23,17 @@
 # Entra ID Access review
 <img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
 <img width="1606" alt="image" src="https://github.com/user-attachments/assets/db6c8750-2fe2-4699-a111-f645286de107" />
+
+
+# Entra Connect for hybrid identity 
+Microsoft Entra Connect (formerly Azure AD Connect) is a crucial tool for organizations that have a hybrid identity infrastructure, meaning they use both on-premises Active Directory and Microsoft Entra ID (the cloud-based identity and access management service)
+Bridging On-Premises and Cloud: Its primary purpose is to synchronize identity data (users, groups, contacts, and their attributes) between your on-premises Active Directory (AD) and Microsoft Entra ID. This creates a unified identity system across your local network and Microsoft's cloud services
+
+
+<img width="1633" height="871" alt="image" src="https://github.com/user-attachments/assets/91923b3d-e0c8-4223-a4f1-d1949ca15b26" />
+<img width="1648" height="814" alt="image" src="https://github.com/user-attachments/assets/3560b78c-5d4f-493e-9d31-1c281e1028e8" />
+<img width="1576" height="846" alt="image" src="https://github.com/user-attachments/assets/57577785-2240-4d4b-afcf-167e77a33fd4" />
+
 
 # On premise application access Azure resource through App registration and get certificate 
 Obtain a Client ID and potentially Client Secret/Certificate: The application uses these credentials to request tokens from Microsoft Entra ID for authentication and authorization.
@@ -1188,6 +1210,14 @@ Both the object store model (such as Azure blob storage) and the hierarchical fi
 ![image](https://user-images.githubusercontent.com/36766101/222871492-4f763190-11d8-41d6-9ad5-7e7f316488f8.png)
 ![image](https://user-images.githubusercontent.com/36766101/222871823-1ed26062-217d-447d-ad2b-ac02f55e2544.png)
 ![image](https://user-images.githubusercontent.com/36766101/222871948-e4c510e2-423c-441b-a57f-73866805413c.png)
+<img width="1304" height="611" alt="image" src="https://github.com/user-attachments/assets/c73cd57f-a9bb-4e26-b6ff-7e099628a137" />
+<img width="847" height="858" alt="image" src="https://github.com/user-attachments/assets/818b97f9-d51d-4d8f-a775-495da623f6c1" />
+<img width="1673" height="816" alt="image" src="https://github.com/user-attachments/assets/dcf9f390-cb68-4176-9e63-20159b005e90" />
+
+
+
+# Azure RBAC customer role 
+<img width="934" height="436" alt="image" src="https://github.com/user-attachments/assets/41fce675-e99c-4dcb-802d-a569d29bc6c2" />
 
 
 # Azure powershell cli 
