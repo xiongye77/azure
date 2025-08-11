@@ -86,8 +86,38 @@ Archive activity log to storage account
 <img width="1314" alt="image" src="https://github.com/user-attachments/assets/af6a4d0d-14a4-4a95-a5a9-19f44b63c44a" />
 <img width="1269" alt="image" src="https://github.com/user-attachments/assets/76a9bbc5-0c01-4e86-bd8b-40202f95dc84" />
 
+# Azure defender for Servers plan
+<img width="800" height="667" alt="image" src="https://github.com/user-attachments/assets/657a25db-d13b-4378-adad-9371b97b3224" />
+
+# Agents 
+
+<img width="2048" height="1060" alt="image" src="https://github.com/user-attachments/assets/7674597d-e722-4e35-a045-a0f74990f3cb" />
+<img width="1538" height="972" alt="image" src="https://github.com/user-attachments/assets/7d94750a-3b54-43bd-97dc-032408f24af1" />
+
+
 # Azure defender for Storage
 <img width="1726" alt="image" src="https://github.com/user-attachments/assets/1e9c3471-65d1-40f3-ab99-5422f2b0d1de" />
+
+# Azure defender for Database
+<img width="1506" height="856" alt="image" src="https://github.com/user-attachments/assets/30ed2491-c71b-4d6c-821f-c355a76d3a2f" />
+<img width="1588" height="851" alt="image" src="https://github.com/user-attachments/assets/967cd611-5216-4bdb-bd31-3b2144f505d3" />
+<img width="1728" height="846" alt="image" src="https://github.com/user-attachments/assets/c60e85e2-b8aa-45a7-8d37-fc5f625a9397" />
+<img width="1714" height="797" alt="image" src="https://github.com/user-attachments/assets/53919945-36a8-41ab-a9d3-0dfbc2deb02b" />
+<img width="1692" height="815" alt="image" src="https://github.com/user-attachments/assets/da016872-06ed-4d1f-8819-cb576e822b1e" />
+
+
+# Azure ARC
+<img width="1228" height="675" alt="image" src="https://github.com/user-attachments/assets/e2b2a0ea-9ca1-4662-8160-abf5424bdceb" />
+
+
+# Kusto Query Language (KQL)
+Kusto Query Language (KQL) is a powerful, read-only query language used to interact with and analyze data in services like Azure Data Explorer, Azure Monitor Logs, and Microsoft Sentinel. It's designed to be simple to read and write, with a syntax that's often compared to SQL, but tailored for fast, ad-hoc analysis of large volumes of streaming data.
+<img width="1266" height="693" alt="image" src="https://github.com/user-attachments/assets/5d188c19-5b9b-40e7-8d7e-15dac7a9f6bc" />
+<img width="1040" height="521" alt="image" src="https://github.com/user-attachments/assets/ad506325-2fbb-46a3-9813-b0420ab5984f" />
+
+# Sentinel Analytics Rule 
+<img width="860" height="518" alt="image" src="https://github.com/user-attachments/assets/4360cf41-e5f0-4746-b70d-8322ba301b2e" />
+<img width="783" height="926" alt="image" src="https://github.com/user-attachments/assets/b5ddec1d-0ff9-4fc7-b34e-851a0d63294c" />
 
 
 # Azure SQL Audit logs 
@@ -167,6 +197,8 @@ Protects your Azure App Service plans, detecting threats targeting web applicati
 Alignment with Industry Frameworks: A significant benefit of MCSB is its mapping to various well-known industry security frameworks and standards, such as: CIS Controls (Center for Internet Security),NIST SP 800-53 (National Institute of Standards and Technology),PCI DSS (Payment Card Industry Data Security Standard),ISO 27001
 
 # Security Policy for MDC 
+
+
 <img width="1718" alt="image" src="https://github.com/user-attachments/assets/078a5d51-58c3-4720-b4b1-4d74cf9ce7af" />
 
 
@@ -175,8 +207,20 @@ Integration with Microsoft Defender for Cloud (MDC): The MCSB is natively integr
 
 ![image](https://github.com/user-attachments/assets/f8b10630-140a-4172-8a12-eff4109c3437)
 
+# Azure policy to enable Defender for Cloud 
+<img width="1282" height="324" alt="image" src="https://github.com/user-attachments/assets/bba9bac2-5bfc-438a-8cc6-63ed323530a0" />
+Microsoft Defender for Cloud can be enabled using Azure Policy on all Azure subscriptions the same under the management group (MG). This is more convenient than going to the portal and logging in to each one separately, and it works even if the subscriptions are owned by different persons.
+<img width="2430" height="1218" alt="image" src="https://github.com/user-attachments/assets/296c9fc6-4939-4a41-bdc9-36a94209a3ba" />
+
+
+
 # Microsoft Defender for Cloud 
+<img width="1271" height="656" alt="image" src="https://github.com/user-attachments/assets/f6dbdcaa-60f1-409b-bf88-597884d3993a" />
+
 <img width="1631" alt="image" src="https://github.com/user-attachments/assets/a22f4166-4681-46e5-81cd-e64ec6e95787" />
+<img width="1266" height="641" alt="image" src="https://github.com/user-attachments/assets/f0073496-27fd-4b8f-87ab-c8267aa4bd10" />
+
+<img width="1562" height="690" alt="image" src="https://github.com/user-attachments/assets/79224990-447d-4e37-a786-12de831d0bbd" />
 
 Microsoft Defender for Cloud (MDC) Cloud Workload Protection (CWP) is designed to identify and protect against various threats and misconfigurations across your cloud (Azure, AWS, GCP) and hybrid workloads (servers, containers, databases, storage, etc.)
 I. Misconfigurations (often leading to security posture recommendations):
