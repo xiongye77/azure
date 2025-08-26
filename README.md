@@ -14,6 +14,8 @@
 
 # Entra ID governance
 <img width="1176" height="585" alt="image" src="https://github.com/user-attachments/assets/c4e399ed-2544-45bd-b29b-27a439c1349a" />
+<img width="792" height="454" alt="image" src="https://github.com/user-attachments/assets/a266a0e7-86ce-41d1-b918-da1e7382b408" />
+
 
 
 # Azure Resource Manager 
@@ -24,6 +26,14 @@
 <img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
 <img width="1606" alt="image" src="https://github.com/user-attachments/assets/db6c8750-2fe2-4699-a111-f645286de107" />
 
+
+
+# Entra ID protection 
+<img width="891" height="442" alt="image" src="https://github.com/user-attachments/assets/13f99ab7-057c-4f24-8a2b-88e62242c0e5" />
+<img width="1623" height="888" alt="image" src="https://github.com/user-attachments/assets/c08a87fe-fefa-4d83-a859-de0f116ab1d0" />
+<img width="1644" height="833" alt="image" src="https://github.com/user-attachments/assets/3b0a4034-876e-4294-87cd-9d0bc401e1bb" />
+<img width="1592" height="858" alt="image" src="https://github.com/user-attachments/assets/43e2a82a-4c34-48aa-93c8-5711f7b94442" />
+<img width="798" height="980" alt="image" src="https://github.com/user-attachments/assets/aa68e716-5e94-4336-bbdf-603fe826364d" />
 
 # Entra Connect for hybrid identity 
 Microsoft Entra Connect (formerly Azure AD Connect) is a crucial tool for organizations that have a hybrid identity infrastructure, meaning they use both on-premises Active Directory and Microsoft Entra ID (the cloud-based identity and access management service)
@@ -42,11 +52,27 @@ Obtain a Client ID and potentially Client Secret/Certificate: The application us
 # Entra ID conditional access
 <img width="1556" alt="image" src="https://github.com/user-attachments/assets/124fc6fa-e284-4f42-8bb9-5828c3499d0e" />
 <img width="1579" alt="image" src="https://github.com/user-attachments/assets/28464fa4-7771-49ea-8956-3229f3118fae" />
+<img width="1697" height="839" alt="image" src="https://github.com/user-attachments/assets/765ee5f7-8db6-41e8-bf8d-78f58eb1e351" />
 
 # Azure cost management 
 <img width="1112" alt="image" src="https://github.com/user-attachments/assets/69b83ad5-5c8b-47f8-a45a-e716cb1ee3f9" />
 <img width="1677" alt="image" src="https://github.com/user-attachments/assets/e9e3e328-a44d-4124-8d4e-b2ba525fb9d2" />
 <img width="1715" alt="image" src="https://github.com/user-attachments/assets/51385f7a-5dba-4a4c-b0b3-930d2d582634" />
+
+# Entra ID Privileged Identity Management (PIM)
+<img width="1782" height="908" alt="image" src="https://github.com/user-attachments/assets/573f80f9-61f3-4f46-ad6a-7cdd8e7b556e" />
+<img width="755" height="963" alt="image" src="https://github.com/user-attachments/assets/4dadc0e7-efe8-4a02-8b6a-144f526120ca" />
+
+# Entra ID tenant type 
+
+<img width="1317" height="783" alt="image" src="https://github.com/user-attachments/assets/f3ca4741-b51b-4042-a696-4555cb8ca7d7" />
+The two main types of Entra ID tenants you will encounter are:
+
+Workforce Tenants (Standard Microsoft Entra ID)
+
+Customer Tenants (Entra External ID for customers, formerly Azure AD B2C)
+
+<img width="819" height="836" alt="image" src="https://github.com/user-attachments/assets/e0e2df8c-0805-4e23-9e8f-9631a98676e3" />
 
 
 # MS Zero Trust Principle 
@@ -128,6 +154,26 @@ Threat Hunting: Think of a detective who, after the alarm has gone off, or even 
 
 In a nutshell, threat detection provides the essential, automated foundation for security operations, while threat hunting adds a critical layer of human-led proactive defense to catch the sophisticated threats that automation alone might miss. They are both essential components of a mature security program in Sentinel.
 
+# Azure different Defender plan (plan1 and plan2) for different servers in same subscription 
+<img width="824" height="981" alt="image" src="https://github.com/user-attachments/assets/dde4737e-9063-443a-8beb-f8bdeb008000" />
+
+# Defender for Server Just in time VM access
+<img width="1188" height="628" alt="image" src="https://github.com/user-attachments/assets/c294869b-8cf3-4734-8fdb-b77335c6de44" />
+
+# Defener for Server File Integrity Monitor 
+https://docs.azure.cn/en-us/defender-for-cloud/media/file-integrity-monitoring-overview/open-file-integrity-monitoring.png#lightbox<img width="1321" height="877" alt="image" src="https://github.com/user-attachments/assets/b2604a45-f2a2-43f0-a1be-15ea2f315c24" />
+<img width="1297" height="568" alt="image" src="https://github.com/user-attachments/assets/a59c6d50-62a9-4936-b2fb-a281793ee3bc" />
+
+# Defender for Server Network Map
+<img width="1185" height="603" alt="image" src="https://github.com/user-attachments/assets/476ccf63-960c-40c7-9b47-e1083881ed1d" />
+<img width="1376" height="755" alt="image" src="https://github.com/user-attachments/assets/963ab581-a718-457a-8d45-36245c25c9e8" />
+<img width="1296" height="797" alt="image" src="https://github.com/user-attachments/assets/3cab0e8e-908e-4a70-8f48-2850c7362a9b" />
+
+
+# Defender for Container
+<img width="1221" height="673" alt="image" src="https://github.com/user-attachments/assets/8f6647ff-b445-413c-8b18-efa50d5a018c" />
+
+
 
 # Azure Activity Log 
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/7919709f-16bc-4ecf-8d8d-b4c9e82d72eb" />
@@ -138,6 +184,16 @@ Activity log is recroded at subscription level
 Archive activity log to storage account 
 <img width="1639" alt="image" src="https://github.com/user-attachments/assets/3e523cec-250f-4c9a-afaf-a48a6286d104" />
 <img width="1268" alt="image" src="https://github.com/user-attachments/assets/6161da4a-d4af-416c-bc03-1e6bdad84dc1" />
+
+# Azure Blob activity log in Log Analytics 
+<img width="1277" height="931" alt="image" src="https://github.com/user-attachments/assets/200887b0-a109-45a6-b027-cc0dc8e4a014" />
+
+
+# Azure Firewall VS NSG 
+<img width="978" height="457" alt="image" src="https://github.com/user-attachments/assets/6bac170b-3d98-498f-80af-0987939eb211" />
+<img width="869" height="890" alt="image" src="https://github.com/user-attachments/assets/17d0cc16-98bf-48a2-bb24-f2725318fe3e" />
+<img width="876" height="943" alt="image" src="https://github.com/user-attachments/assets/7d449795-ea5b-4fa1-9a9f-fdf8377e09dc" />
+
 
 
 # Azure Migration Tool
@@ -162,6 +218,20 @@ Archive activity log to storage account
 # Azure defender for Storage
 <img width="1726" alt="image" src="https://github.com/user-attachments/assets/1e9c3471-65d1-40f3-ab99-5422f2b0d1de" />
 
+# Most commonnly used data connectors to ingest log into Log analytics workspace
+<img width="2332" height="1582" alt="image" src="https://github.com/user-attachments/assets/deed3409-2385-4cf0-9212-38b746196aaa" />
+
+# Best practices for using these connectors
+<img width="758" height="999" alt="image" src="https://github.com/user-attachments/assets/95e736c8-dbef-4281-a417-968ed2c99aeb" />
+
+# Indgest Defender XDR findings into Sentinel 
+<img width="1691" height="765" alt="image" src="https://github.com/user-attachments/assets/6443da92-6bb2-4c04-83c8-46c656747759" />
+<img width="1218" height="616" alt="image" src="https://github.com/user-attachments/assets/97c3bb71-3177-4bfe-8ffd-0e94aaf6659c" />
+
+# Conditional Access for Office 365
+<img width="1267" height="610" alt="image" src="https://github.com/user-attachments/assets/fe8d0afb-36a4-4bfa-8cb0-e2718f703c8c" />
+
+
 # Azure defender for Database
 <img width="1506" height="856" alt="image" src="https://github.com/user-attachments/assets/30ed2491-c71b-4d6c-821f-c355a76d3a2f" />
 <img width="1588" height="851" alt="image" src="https://github.com/user-attachments/assets/967cd611-5216-4bdb-bd31-3b2144f505d3" />
@@ -179,9 +249,17 @@ Kusto Query Language (KQL) is a powerful, read-only query language used to inter
 <img width="1266" height="693" alt="image" src="https://github.com/user-attachments/assets/5d188c19-5b9b-40e7-8d7e-15dac7a9f6bc" />
 <img width="1040" height="521" alt="image" src="https://github.com/user-attachments/assets/ad506325-2fbb-46a3-9813-b0420ab5984f" />
 
+# Sentinel workflow 
+<img width="1027" height="535" alt="image" src="https://github.com/user-attachments/assets/9f295452-de50-43d8-8cc7-780e515d7172" />
+
+
 # Sentinel Analytics Rule 
 <img width="860" height="518" alt="image" src="https://github.com/user-attachments/assets/4360cf41-e5f0-4746-b70d-8322ba301b2e" />
 <img width="783" height="926" alt="image" src="https://github.com/user-attachments/assets/b5ddec1d-0ff9-4fc7-b34e-851a0d63294c" />
+<img width="1210" height="637" alt="image" src="https://github.com/user-attachments/assets/f0153aed-808d-4b7d-8fe3-df320b2cf6bc" />
+
+# Sentinel Hunting Query
+<img width="817" height="804" alt="image" src="https://github.com/user-attachments/assets/6e17e85c-56df-4af8-83f6-464ef5c58aa8" />
 
 
 # Azure SQL Audit logs 
@@ -259,6 +337,22 @@ Protects your Azure App Service plans, detecting threats targeting web applicati
 
 # Microsoft Cloud Security Benchmark
 Alignment with Industry Frameworks: A significant benefit of MCSB is its mapping to various well-known industry security frameworks and standards, such as: CIS Controls (Center for Internet Security),NIST SP 800-53 (National Institute of Standards and Technology),PCI DSS (Payment Card Industry Data Security Standard),ISO 27001
+<img width="946" height="871" alt="image" src="https://github.com/user-attachments/assets/b6fed458-2a3c-42c8-9104-12f392fa1913" />
+
+# Microsoft Purview 
+<img width="789" height="508" alt="image" src="https://github.com/user-attachments/assets/42df31ea-1d3d-4d2c-ba24-4a96c4dfbcfa" />
+
+# Microsoft GRC (Governance,Risk,Compliance)
+<img width="893" height="441" alt="image" src="https://github.com/user-attachments/assets/8f67a842-c2e3-433c-9ba9-c41e4b1a8c6e" />
+Shared Regulatory Standards: When you add a regulatory standard (like HIPAA, GDPR, or NIST) to your Compliance Manager dashboard, Defender for Cloud's regulatory compliance dashboard automatically begins to monitor the resources in your Azure, AWS, and GCP environments against the same standard's controls.
+
+
+
+# Microsoft Compliance Manager
+<img width="894" height="453" alt="image" src="https://github.com/user-attachments/assets/6c930136-1afb-485c-a128-83b281b84eb1" />
+<img width="1750" height="1674" alt="image" src="https://github.com/user-attachments/assets/2396b7eb-e9bc-45ec-a679-1cd4e89e37d3" />
+
+
 
 # Security Policy for MDC 
 
