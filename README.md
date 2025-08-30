@@ -296,6 +296,8 @@ Microsoft Entra Permissions Management (CIEM): Provides comprehensive visibility
 
 # Why ingesting threat intelligence (TI) feeds via TAXII into Microsoft Sentinel is useful.(2025/08/30)
 <img width="1030" height="870" alt="image" src="https://github.com/user-attachments/assets/d8d00bdf-7b51-4bf6-be5a-d6def27f8f23" />
+<img width="1237" height="574" alt="image" src="https://github.com/user-attachments/assets/428a33bf-ee8a-4103-b930-62d5d9072226" />
+<img width="1246" height="592" alt="image" src="https://github.com/user-attachments/assets/8eceeb4c-6fa4-4a13-bc49-176877c7a24a" />
 
 
 # Sentinel can ingest Defender for Cloud alerts, recommendations, and posture findings. Sentinel also gets all CWP plan alerts (Servers, Containers, Storage, SQL, etc.) after that, what we should do? (2025/08/30)
