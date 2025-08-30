@@ -289,6 +289,100 @@ Microsoft Entra Permissions Management (CIEM): Provides comprehensive visibility
 <img width="1701" alt="image" src="https://github.com/user-attachments/assets/e2200d46-8edd-4441-a010-18614167fb3d" />
 
 
+# Enabling a regulatory compliance standard such as FedRAMP High depends on having the Defender CSPM (Cloud Security Posture Management) plan enabled on that subscription. (2025/08/30)
+<img width="2048" height="1010" alt="image" src="https://github.com/user-attachments/assets/6d5d0520-2cb3-4cd9-b026-364a5a7f9610" />
+<img width="978" height="771" alt="image" src="https://github.com/user-attachments/assets/d78395d1-2ea3-4340-bca6-912cb7409f72" />
+
+
+# Why ingesting threat intelligence (TI) feeds via TAXII into Microsoft Sentinel is useful.(2025/08/30)
+<img width="1030" height="870" alt="image" src="https://github.com/user-attachments/assets/d8d00bdf-7b51-4bf6-be5a-d6def27f8f23" />
+
+
+# Sentinel can ingest Defender for Cloud alerts, recommendations, and posture findings. Sentinel also gets all CWP plan alerts (Servers, Containers, Storage, SQL, etc.) after that, what we should do? (2025/08/30)
+1. Normalize & Enrich the Data
+
+Map alerts to MITRE ATT&CK tactics/techniques → Sentinel already does this for many Defender alerts. This helps analysts understand attack context.
+
+Enrich with Threat Intelligence (CTI) → integrate threat intel feeds into Sentinel so alerts can be automatically correlated with known malicious IPs/domains/hashes.
+
+Tag by environment or criticality → e.g., tag alerts from Production SQL differently than from Dev workloads.
+
+2. Detection & Correlation
+
+Use Analytics Rules in Sentinel to:
+
+Detect chained activity (e.g., Defender for Servers “malware detected” + Entra ID risky login).
+
+Correlate Defender CWP alerts with other signals (firewall logs, identity anomalies).
+
+Enable Fusion ML in Sentinel → automatically correlates low-severity Defender alerts into high-fidelity incidents.
+
+3. Incident Management
+
+Configure Automation Rules → automatically group related Defender alerts into a single incident.
+
+Prioritize by severity + asset criticality → e.g., a Storage account malware alert on a public-facing blob should escalate faster than one in a dev/test account.
+
+Build Incident Workbooks → dashboards showing live Defender + Sentinel incident stats (open, MTTR, trending attack surfaces).
+
+4. Automated Response (SOAR)
+
+Use Playbooks (Logic Apps) triggered from Defender/Sentinel incidents:
+
+Isolate a VM flagged by Defender for Servers.
+
+Disable an account tied to suspicious Defender for Identity alerts.
+
+Quarantine malicious files in Defender for Storage.
+
+Notify SecOps via Teams/Slack and open a Jira/ServiceNow ticket.
+
+5. Continuous Compliance & Posture Improvement
+
+Export Defender recommendations into Sentinel Workbooks.
+
+Track Secure Score trend over time in Sentinel.
+
+Align Defender recommendations to frameworks (NIST, CIS, FedRAMP) and surface them in compliance dashboards.
+
+Automate alerts when a critical recommendation is still unremediated after X days.
+
+6. Hunting & Threat Analysis
+
+Use Hunting Queries in Sentinel with Defender data:
+
+Find anomalous VM process executions (Defender for Servers).
+
+Detect unusual container startup commands (Defender for Containers).
+
+Spot repeated failed queries against SQL DBs (Defender for SQL).
+
+Store common queries as hunting bookmarks → helps analysts investigate faster.
+
+✅ Summary Workflow
+
+Ingest Defender for Cloud + CWP data → you already did.
+
+Normalize & enrich → MITRE, CTI, tags.
+
+Detect & correlate → scheduled/NRT rules, Fusion ML.
+
+Respond automatically → SOAR playbooks.
+
+Measure & improve → compliance dashboards, Secure Score.
+
+Proactively hunt → build KQL hunting queries for advanced threats.
+
+
+
+# MCSB (Microsoft Cloud Security Benchmark)
+<img width="1716" height="844" alt="image" src="https://github.com/user-attachments/assets/2aeb8ab4-7fe9-4761-9f45-b2c60a7c4bec" />
+<img width="826" height="898" alt="image" src="https://github.com/user-attachments/assets/34b255e5-cdd8-4e27-b7ea-fae50437bbc0" />
+
+# Defender External Attack Surface Management 
+<img width="1574" height="810" alt="image" src="https://github.com/user-attachments/assets/9b7ddf58-1e49-49b2-817d-ed69dcaf6318" />
+
+
 # Cloud Workload Protection (CWP) Plans
 1. Microsoft Defender for Servers: Plan 2: Includes all Plan 1 features, plus more advanced capabilities like:
 
@@ -1830,7 +1924,16 @@ https://learn.microsoft.com/en-us/azure/aks/gpu-cluster
 
 
 # Azure landing zone
+
+<img width="1656" height="833" alt="image" src="https://github.com/user-attachments/assets/e9454886-1333-4544-9cb8-24b7448e2a20" />
+<img width="1528" height="2024" alt="image" src="https://github.com/user-attachments/assets/d61f29e6-8aa9-46fc-80b8-f3fe3900c74e" />
+
+<img width="1423" height="689" alt="image" src="https://github.com/user-attachments/assets/04bf9d47-5918-4f8f-a9d1-5a85b14f5749" />
+
 ![image](https://github.com/xiongye77/azure/assets/36766101/03498397-2f26-471c-a0dd-581837a7d29a)
+<img width="1216" height="902" alt="image" src="https://github.com/user-attachments/assets/8836e367-92d2-44c9-aefc-6915a6425162" />
+<img width="1394" height="774" alt="image" src="https://github.com/user-attachments/assets/5844d3df-d292-44b8-a59a-daa6a82455ae" />
+<img width="3138" height="1582" alt="image" src="https://github.com/user-attachments/assets/ab27183a-5099-4bd1-865f-e3f31d52f262" />
 
 
 # Azure management group 
