@@ -295,9 +295,34 @@ Microsoft Entra Permissions Management (CIEM): Provides comprehensive visibility
 
 
 # Why ingesting threat intelligence (TI) feeds via TAXII into Microsoft Sentinel is useful.(2025/08/30)
+<img width="1511" height="977" alt="image" src="https://github.com/user-attachments/assets/5b8e2e08-9048-4e1c-b013-c6db2bbf5553" />
+
 <img width="1030" height="870" alt="image" src="https://github.com/user-attachments/assets/d8d00bdf-7b51-4bf6-be5a-d6def27f8f23" />
 <img width="1237" height="574" alt="image" src="https://github.com/user-attachments/assets/428a33bf-ee8a-4103-b930-62d5d9072226" />
 <img width="1246" height="592" alt="image" src="https://github.com/user-attachments/assets/8eceeb4c-6fa4-4a13-bc49-176877c7a24a" />
+
+# Microsoft Defender for Cloud is Microsoft’s CWPP (Cloud Workload Protection Platform)
+Plans inside Defender for Cloud represent CWPP capabilities for different workloads:
+
+Defender for Servers (EDR integration, vulnerability scanning, file integrity monitoring).
+
+Defender for Containers (AKS/EKS/GKE, image scanning, runtime protection).
+
+Defender for Storage (malware scanning on blob/file uploads).
+
+Defender for SQL, Defender for Key Vault, etc.
+
+These Defender plans give you Cloud Workload Protection Platform (CWPP) coverage.
+
+Combined with Defender CSPM (Cloud Security Posture Management) → you get both workload protection + posture/compliance.
+
+# Customer managed key in key vault for Storage Accounts (SSE)/Virtual Machines (ADE)/Databases (TDE)(2025/08/31)
+<img width="973" height="994" alt="image" src="https://github.com/user-attachments/assets/55a23e90-336e-4100-9267-a0b1d42a9516" />
+
+
+# Evaluating the Security Posture by Using Secure Score
+<img width="1290" height="655" alt="image" src="https://github.com/user-attachments/assets/0c64ddb3-d6e9-4143-8133-586fa3675259" />
+ <img width="1291" height="655" alt="image" src="https://github.com/user-attachments/assets/1d16bfe6-ea8a-4c5a-ae54-b7edf56804f6" />
 
 
 # Sentinel can ingest Defender for Cloud alerts, recommendations, and posture findings. Sentinel also gets all CWP plan alerts (Servers, Containers, Storage, SQL, etc.) after that, what we should do? (2025/08/30)
