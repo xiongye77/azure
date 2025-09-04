@@ -450,6 +450,13 @@ Offers environment hardening, vulnerability assessments for images (Registry and
 Protects your Azure App Service plans, detecting threats targeting web applications, APIs, and functions (e.g., web shell attacks, suspicious file modifications).
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/e6e3f3ec-6e35-4c56-8ab3-7608cdcde167" />
 
+
+
+# Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF)
+<img width="2130" height="1660" alt="image" src="https://github.com/user-attachments/assets/6a6d7b9d-5b32-4b45-8eb2-088684a68228" />
+<img width="1070" height="886" alt="image" src="https://github.com/user-attachments/assets/2359fefa-0118-4799-8165-237b034092e2" />
+
+
 # MDC recommendations 
 <img width="1699" alt="image" src="https://github.com/user-attachments/assets/b25ed945-6db9-49c2-ace1-2b9b681900f8" />
 <img width="1701" alt="image" src="https://github.com/user-attachments/assets/1a6b0fee-e6e9-4c8e-b0e1-0f983f5d6f6b" />
