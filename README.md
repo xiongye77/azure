@@ -160,7 +160,7 @@ In a nutshell, threat detection provides the essential, automated foundation for
 # Defender for Server Just in time VM access
 <img width="1188" height="628" alt="image" src="https://github.com/user-attachments/assets/c294869b-8cf3-4734-8fdb-b77335c6de44" />
 
-# Defener for Server File Integrity Monitor 
+# Defender for Server File Integrity Monitor 
 https://docs.azure.cn/en-us/defender-for-cloud/media/file-integrity-monitoring-overview/open-file-integrity-monitoring.png#lightbox<img width="1321" height="877" alt="image" src="https://github.com/user-attachments/assets/b2604a45-f2a2-43f0-a1be-15ea2f315c24" />
 <img width="1297" height="568" alt="image" src="https://github.com/user-attachments/assets/a59c6d50-62a9-4936-b2fb-a281793ee3bc" />
 
