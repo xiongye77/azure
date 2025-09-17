@@ -18,7 +18,7 @@
 
 
 
-# Azure Resource Manager 
+# Azure Resource Manager
 <img width="1685" height="942" alt="image" src="https://github.com/user-attachments/assets/4d1d50b5-106a-4ebf-a999-376f89d3625c" />
 <img width="1566" height="934" alt="image" src="https://github.com/user-attachments/assets/7c6e9834-d3f2-456a-9de6-53d253706231" />
 
@@ -77,6 +77,101 @@ Customer Tenants (Entra External ID for customers, formerly Azure AD B2C)
 
 # MS Zero Trust Principle 
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/eb367625-7b57-489a-9782-b01789c14008" />
+
+# Azure Defender for Cloud is Microsoft’s CNAPP (Cloud-Native Application Protection Platform) （2025/09/17）
+how it maps to typical CNAPP pillars:
+
+1 CSPM (posture): Secure Score, policy/compliance (benchmarks/regs), attack-path analysis, contextual cloud security graph, recommendations across Azure, AWS, and GCP.
+
+2 CWPP (workload protection): Defender plans for Servers, Containers/Kubernetes, App Service, SQL/Databases, Storage, Key Vault, etc., with threat detection and hardening.
+
+3 DevSecOps / “shift-left”: Defender for DevOps integrates with GitHub/Azure DevOps for IaC misconfig/secrets scanning, container image scanning, and code-to-cloud mapping.
+
+4 CIEM (permissions/identity): Exposure & least-privilege insights; deeper CIEM via integration with Microsoft Entra Permissions Management.
+
+5 Agentless & contextual: Agentless VM/container scanning, signals unified into incidents with contextual risk.
+<img width="733" height="301" alt="image" src="https://github.com/user-attachments/assets/c71d6158-d621-493c-8db0-14e72972a582" />
+<img width="731" height="309" alt="image" src="https://github.com/user-attachments/assets/b53b4a3e-dae2-48bd-aa8a-683f30c2ae8b" />
+
+az provider register --namespace Microsoft.Network
+az provider register --namespace Microsoft.Compute
+az provider register --namespace Microsoft.Storage
+az provider register --namespace Microsoft.Security
+
+<img width="1692" height="613" alt="image" src="https://github.com/user-attachments/assets/c0a6faf1-cca7-4745-a129-739b6a361851" />
+
+# Microsoft Defender for Servers 
+<img width="1066" height="952" alt="image" src="https://github.com/user-attachments/assets/b362b526-89e9-4204-adc0-7dcde9804a33" />
+
+1 Plan 2 for anything prod, internet-facing, or regulated. You get MDE (EDR), full Defender Vulnerability Management (software inventory, usage insights, browser/cert/network-share assessments, block vulnerable apps, baselines, HW/FW checks, authenticated scans), JIT-VM access, adaptive app controls, and richer threat detections.
+
+2 Plan 1 is OK for dev/test or low-risk workloads that only need baseline vuln/config assessments and continuous monitoring.
+
+3 EDR/Endpoint Detection & Response (MDE/Microsoft Defender for Endpoint): turn on tamper protection, minimal exclusions, and automatic sample submission. Use device groups and RBAC.
+
+4 Vulnerability management: enable software inventory, risk-based prioritization, and (Windows) authenticated scans; connect to your patching tool (Windows Update/WSUS/Azure Update Manager or Linux package manager) and drive SLAs by severity.
+
+5 Hardening controls:
+
+Just-in-time (JIT) VM access for RDP/SSH.
+
+Adaptive Application Controls: audit → enforce allow-lists on steady workloads.
+
+Baseline assessments and block vulnerable apps rules where applicable.
+
+
+# Microsoft Defender for Cloud - Container security
+<img width="1714" height="563" alt="image" src="https://github.com/user-attachments/assets/52ea8d2f-6a3d-441e-94f4-ad742621c88c" />
+
+<img width="1408" height="892" alt="image" src="https://github.com/user-attachments/assets/28563853-f84b-4c4f-a50d-534e62815e96" />
+
+1 Defender for Containers (plan): runtime threat detection and hardening for AKS/EKS/GKE & Arc-enabled clusters; optional sensor/daemonset plus admission controls. 
+
+2 Container registry protection: image vulnerability assessment for ACR (and other registries via connectors), Hook CI/CD to scan (Defender for DevOps) and enable ACR push/periodic scanning; 
+
+
+3 Agentless container posture (CSPM): inventory and misconfig checks across AKS/EKS/GKE without deploying agents. 
+
+4 Gated deployment (admission controller): block/allow deploys based on image vulns/policies.
+
+
+# Microsoft Defender for Cloud — Storage security
+1 Threat detection for Blob/ADLS Gen2/Files/Queues/Tables: alerts on suspicious access (TOR/rare IPs), mass downloads/deletes, unusual permission changes, SAS abuse, anonymous/public access, malware uploads, etc.
+
+2 Malware scanning (near-real-time and on-demand) for blobs on upload or at rest; integrates with quarantine/auto-response.
+
+3 Sensitive data discovery: classifies PII/financial/health data in storage to surface risk and prioritize protection.
+
+4 Exposure & posture checks: recommendations for public access, shared key usage, missing encryption, lack of logging, open firewalls, etc.
+
+# Best-practice configuration
+0 Access control
+
+Disable public access and shared key; require Microsoft Entra ID (RBAC).
+
+Prefer user delegation SAS with short lifetimes and stored access policies; log and rotate SAS.
+
+Restrict network with Private Endpoints and Storage firewall; use Defender anomaly alerts as backstop.
+
+1 Ransomware resilience
+
+Enable Blob versioning, soft delete (blobs & containers), change feed, and point-in-time restore.
+
+Use immutability (time-based retention / legal hold) for critical containers.
+
+2 Encryption & keys
+
+Enforce SSE (Microsoft-managed or CMK); monitor key health/rotation.
+
+3 Observability
+
+Turn on diagnostic logging to Log Analytics; connect Defender & MDE to Microsoft Sentinel; create playbooks for auto-quarantine/notify.
+
+4 Governance
+
+Apply Azure Policy to block public storage, require private endpoints, enforce encryption and logging.
+
+Review Defender recommendations weekly; time-box any policy exemptions.
 
 # Azure Sentinel
 <img width="1132" alt="image" src="https://github.com/user-attachments/assets/ffebb6a5-8214-4b0b-9ed0-c48283e63513" />
