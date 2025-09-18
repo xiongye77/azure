@@ -119,6 +119,7 @@ Adaptive Application Controls: audit → enforce allow-lists on steady workloads
 
 Baseline assessments and block vulnerable apps rules where applicable.
 
+6 Use Defender for Servers (Plan 2), which includes a File Integrity Monitoring capability (via MDE/agentless) for OS files/registries on VMs and servers.
 
 # Microsoft Defender for Cloud - Container security
 <img width="1714" height="563" alt="image" src="https://github.com/user-attachments/assets/52ea8d2f-6a3d-441e-94f4-ad742621c88c" />
@@ -136,6 +137,8 @@ Baseline assessments and block vulnerable apps rules where applicable.
 
 
 # Microsoft Defender for Cloud — Storage security
+focuses on threat detection (anomalies, suspicious access, exfiltration, corruption attempts) and optional malware scanning on upload
+
 1 Threat detection for Blob/ADLS Gen2/Files/Queues/Tables: alerts on suspicious access (TOR/rare IPs), mass downloads/deletes, unusual permission changes, SAS abuse, anonymous/public access, malware uploads, etc.
 
 2 Malware scanning (near-real-time and on-demand) for blobs on upload or at rest; integrates with quarantine/auto-response.
@@ -172,6 +175,15 @@ Turn on diagnostic logging to Log Analytics; connect Defender & MDE to Microsoft
 Apply Azure Policy to block public storage, require private endpoints, enforce encryption and logging.
 
 Review Defender recommendations weekly; time-box any policy exemptions.
+
+
+
+# Use Azure Blob Storage features for tamper-proof storage:
+
+Immutability (WORM) / legal hold to prevent modification/deletion for a set period. 
+Microsoft Learn
+
+Blob versioning + soft delete to keep previous versions and recover from unwanted changes/deletes.
 
 # Azure Sentinel
 <img width="1132" alt="image" src="https://github.com/user-attachments/assets/ffebb6a5-8214-4b0b-9ed0-c48283e63513" />
