@@ -185,6 +185,43 @@ Microsoft Learn
 
 Blob versioning + soft delete to keep previous versions and recover from unwanted changes/deletes.
 
+
+# Azure Defender for Networking 
+1 Just-in-Time (JIT) VM access
+Enable JIT on VMs that expose management ports (22/3389/5985/5986).
+
+Restrict source IPs (no 0.0.0.0/0) and set short time windows (e.g., 1–3 hours).
+
+Use Bastion or a jump host instead of exposing RDP/SSH directly.
+
+2 Adaptive Network Hardening (ANH)
+Tighten overly broad NSG rules: replace Any/Any or 0.0.0.0/0 with specific IP ranges, VNets, or service tags (e.g., AzureCloud, Storage, AppService).
+
+Close unused/open ports that haven’t seen legitimate traffic recently.
+
+Limit to required protocol/port only (e.g., TCP 443) and remove “allow *” catch-alls.
+
+Prefer internal access: allow from VirtualNetwork or on-prem ranges instead of Internet.
+
+3 Network posture (Defender for Cloud “Networking” recommendations)
+Attach NSGs to all subnets/NICs that don’t have one.
+
+Remove public IP exposure where not needed; use Private Link/Private Endpoints.
+
+Enable DDoS Protection Standard on VNets with public-facing workloads.
+
+Lock down egress (outbound Internet) to required destinations only.
+
+Send diagnostics (NSG/Azure Firewall/Azure Bastion) to Log Analytics for auditing.
+
+4 Threat-driven guidance
+Brute-force attempts on RDP/SSH → enforce JIT, restrict IPs, consider Bastion.
+
+Port scanning / lateral movement → tighten NSGs, segment subnets, review peering.
+
+Suspicious C2/beaconing patterns → block egress, investigate host, add deny rules.
+
+
 # Azure Sentinel
 <img width="1132" alt="image" src="https://github.com/user-attachments/assets/ffebb6a5-8214-4b0b-9ed0-c48283e63513" />
 MDC: Microsoft Defender for Cloud 
