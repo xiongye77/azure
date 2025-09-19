@@ -221,6 +221,24 @@ Port scanning / lateral movement → tighten NSGs, segment subnets, review peeri
 
 Suspicious C2/beaconing patterns → block egress, investigate host, add deny rules.
 
+5 VNet Flow Logs 
+Record L3/L4 flow information (5-tuple, allow/deny, bytes/packets, start/end) for traffic within and across subnets in a VNet. They’re part of Azure Network Watcher and can be enabled even when there are no NSGs on the VNet. Logs go to a Storage account, and (optionally) to Traffic Analytics in Log Analytics for queries and dashboards.
+
+
+Microsoft is moving from NSG Flow Logs to VNet Flow Logs.
+<img width="1241" height="881" alt="image" src="https://github.com/user-attachments/assets/a1c61632-d645-4b74-822f-6e4abaec4823" />
+<img width="1204" height="711" alt="image" src="https://github.com/user-attachments/assets/3b51b618-ad1e-4068-961f-3ab615d6d9a4" />
+
+Best-practice tips
+
+
+Enable on all production VNets with at least 30–90 days retention (or longer in LA).
+
+Stream to Traffic Analytics and wire into Microsoft Sentinel for detections. 
+Microsoft Learn
+
+Use Azure Policy to audit/auto-enforce VNet Flow Logs on required VNets.
+
 
 # Azure Sentinel
 <img width="1132" alt="image" src="https://github.com/user-attachments/assets/ffebb6a5-8214-4b0b-9ed0-c48283e63513" />
