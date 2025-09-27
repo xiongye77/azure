@@ -25,6 +25,8 @@
 # Entra ID Access review
 <img width="1533" alt="image" src="https://github.com/user-attachments/assets/7af61e77-c323-4b6e-8159-74efb96ca516" />
 <img width="1606" alt="image" src="https://github.com/user-attachments/assets/db6c8750-2fe2-4699-a111-f645286de107" />
+<img width="966" height="778" alt="image" src="https://github.com/user-attachments/assets/e0b57992-5b4c-44f6-996c-e425cc7376e1" />
+<img width="890" height="607" alt="image" src="https://github.com/user-attachments/assets/1c2ad7e3-d9d7-47f9-a5df-504534a194e9" />
 
 
 
@@ -76,7 +78,17 @@ Customer Tenants (Entra External ID for customers, formerly Azure AD B2C)
 
 
 # MS Zero Trust Principle 
+The principle is: never trust, always verify. It means everyone should be authenticated.
+
+we can use Entra ID to authenticate and authorize those requests, combined with conditional access, which we discussed in the Entra ID section. When we need to access VMs, for example, we can use just-in-time access. To access storage accounts, web apps, or any PaaS, we should be using a private link.
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/eb367625-7b57-489a-9782-b01789c14008" />
+
+# JIT（Just in time） VM Access
+<img width="1442" height="910" alt="image" src="https://github.com/user-attachments/assets/de9a4b03-93d7-4b67-b127-e7a0814311de" />
+
+# Storage Account access through private link
+<img width="1486" height="714" alt="image" src="https://github.com/user-attachments/assets/dce5c838-d3dc-4409-a4fa-b4e0962be679" />
+
 
 # Azure Defender for Cloud is Microsoft’s CNAPP (Cloud-Native Application Protection Platform) （2025/09/17）
 how it maps to typical CNAPP pillars:
