@@ -256,6 +256,7 @@ Use Azure Policy to audit/auto-enforce VNet Flow Logs on required VNets.
 <img width="1132" alt="image" src="https://github.com/user-attachments/assets/ffebb6a5-8214-4b0b-9ed0-c48283e63513" />
 MDC: Microsoft Defender for Cloud 
 MDE: Microsoft Defender for Endpoint
+XDR: Extended Detection and Response
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/9739511f-2b47-48de-95f0-5a1031ff990b" />
 <img width="1713" alt="image" src="https://github.com/user-attachments/assets/dcb078de-1499-4670-a2c7-cc4540a1ddd3" />
 <img width="1152" alt="image" src="https://github.com/user-attachments/assets/97ea27ee-ce26-488e-83de-095808ceb740" />
@@ -263,6 +264,10 @@ MDE: Microsoft Defender for Endpoint
 <img width="1239" alt="image" src="https://github.com/user-attachments/assets/6a7ec68b-e241-4cdf-973a-82f66be95fcb" />
 <img width="1720" alt="image" src="https://github.com/user-attachments/assets/2c1b2647-6e0f-4c2a-8b5e-c4c92a146e4b" />
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/30a62f8e-805b-481a-a149-21b9749851d3" />
+Triage and investigate incidents found by Sentinel 
+<img width="1283" height="630" alt="image" src="https://github.com/user-attachments/assets/d4d2c3dd-5c2b-4532-a6ad-912110617de9" />
+<img width="1329" height="615" alt="image" src="https://github.com/user-attachments/assets/83eafaee-9927-43fb-a081-d6308969a5cb" />
+<img width="2054" height="1114" alt="image" src="https://github.com/user-attachments/assets/26ee06f5-f9c7-4b83-acdd-b660bec6eb34" />
 
 # How to retrieve archived log in Sentinel 
 <img width="803" height="546" alt="image" src="https://github.com/user-attachments/assets/34fb2c65-c085-4e42-b4f2-e1fb46f3a5a6" />
@@ -327,6 +332,12 @@ Threat Hunting: Think of a detective who, after the alarm has gone off, or even 
 
 
 In a nutshell, threat detection provides the essential, automated foundation for security operations, while threat hunting adds a critical layer of human-led proactive defense to catch the sophisticated threats that automation alone might miss. They are both essential components of a mature security program in Sentinel.
+
+
+# Sentinel Fusion 
+<img width="1301" height="695" alt="image" src="https://github.com/user-attachments/assets/cf514841-a8a3-4d02-a0b4-74fe370f8199" />
+<img width="1199" height="679" alt="image" src="https://github.com/user-attachments/assets/9696d177-75bc-4d56-ad73-ea6ff6a26ba5" />
+
 
 # Azure different Defender plan (plan1 and plan2) for different servers in same subscription 
 <img width="824" height="981" alt="image" src="https://github.com/user-attachments/assets/dde4737e-9063-443a-8beb-f8bdeb008000" />
